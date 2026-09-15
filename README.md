@@ -9,7 +9,7 @@ English - PDF
 
 ## Über die Entstehung des Planetensystems.
 
-German - Plain Text  
+[German - Plain Text](uber-die-entstehung-des-planetensystems/full-text-german.md)  
 German - PDF  
 English - Plain Text  
 English - PDF  
