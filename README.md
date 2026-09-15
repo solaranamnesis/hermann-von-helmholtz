@@ -1,2 +1,15 @@
-# hermann-von-helmholtz
-Public Domain Works by Hermann von Helmholtz (1821-1894).
+# Hermann von Helmholtz.
+ 
+##  Populäre wissenschaftliche Vorträge.
+
+German - Plain Text  
+German - PDF  
+English - Plain Text  
+English - PDF  
+
+## Über die Entstehung des Planetensystems.
+
+German - Plain Text  
+German - PDF  
+English - Plain Text  
+English - PDF  
