@@ -2,93 +2,15 @@
 
 ## Von H. Helmholtz.
 
-### 1871.
+### Vortrag, gehalten in Heidelberg und Cöln am Rhein im Jahre 1871.
 
-Ich habe die Absicht, heute vor Ihnen die vielbesprochene 
-Kant-Laplace’sche Hypothese über die Bildung der Weltkörper, 
-namentlich unseres Planetensystems, auseinander zu setzen. Die 
-Wahl dieses Themas bedarf wohl einer Rechtfertigung. In popu- 
-lären Vorlesungen, wie die heutige eine ist, haben die Zuhörer das 
-Recht von dem Vortragenden zu erwarten, dass er ihnen wohl- 
-gesicherte Thatsachen und fertige Ergebnisse der Forschung vor- 
-lege, nicht aber unreife Vermuthungen, Hypothesen oder Träume. 
-Unter allen Gegenständen, denen menschliches Nachdenken und 
-menschliche Phantasie sich zuwenden können, ist die Frage über 
-den Ursprung der Welt vorzugsweise und seit urältester Zeit bei 
-allen Nationen am meisten der Tummelplatz ausschweifendster 
-Speculationen gewesen. Wohlthätige und zerstörende Götter- 
-gestalten, Giganten, Kronos, der seine Kinder frisst, Niflheim mit 
-dem Eisriesen Ymer, den die himmlischen Äsen tödten, um die 
-Welt aus ihm zu bauen, sind Gestalten, wie sie die kosmogonischen 
-Systeme der verhältnissmässig besonneneren Volksstämme be- 
-völkern. Aber in der Allgemeinheit der Thatsache, dass jedes Volk 
-sich seine kosmogonischen Ansichten ausgebildet und diese theil- 
-weise sehr in das Einzelne ausgemalt hat, spricht sich auch unver- 
-kennbar das von allen gefühlte Interesse aus zu wissen , woher ist 
-unser Ursprung, woher der letzte Ursprung der Dinge, die uns 
-umgeben? Und mit der Frage nach dem Anfänge ist wiederum 
-eng die nach dem Ende verknüpft; denn was entstehen konnte, 
-kann auch vergehen. Diese Frage nach dem Ende hat vielleicht 
-sogar noch grösseres praktisches Interesse als die nach dem 
-Anfänge. 
+**Hochgeehrte Versammlung!**
 
-Nun muss ich gleich von vornherein bemerken, dass auch die 
-Theorie, die ich heute zu besprechen beabsichtige, zuerst aufge- 
-stellt wurde von einem Manne, dessen Name vorzugsweise als der 
-des abstractesten philosophischen Denkers bekannt geworden ist, 
-von dem Urheber des transscendentalen Idealismus und des kate- 
-gorischen Imperativs, von Immanuel Kant. Die Schrift, in der 
-er sie vortrug, die „AllgemeineNaturgeschiehte undTheorie 
-des Himmels“ (1755) ist eine seiner ersten Veröffentlichungen 
-und rührt aus seinem 31. Lebensjahre her. Ueberhlickt man die 
-Schriften aus dieser ersten Periode seiner wissenschaftlichen Thätig- 
-keit, die etwa bis zum 40. Jahre seines Alters dauerte, so findet 
-man, dass dieselben grösstentheils naturwissenschaftlichen Inhalts 
-sind und mit einer Anzahl der glücklichsten Gedanken ihrer Zeit 
-weit vorauseilen, während die eigentlich philosophisphen Arbeiten 
-noch gering an Zahl, zumTheil, wie die Habilitationsschrift, direct 
-durch äussere Veranlassung hervorgerufen, dabei verhältnissmässig 
-unselbständig in ihrem positiven Inhalt, und nur bedeutend durch 
-vernichtende, zum Theil spottende Kritik sind. Man kann nicht 
-verkennen, dass der jugendliche Kant seiner Neigung und seiner 
-Anlage nach vorzugsweise Naturforscher war und vielleicht nur 
-durch die Macht der äusseren Verhältnisse, durch den Mangel der 
-für selbständige naturwissenschaftliche Arbeit nöthigen Hilfsmittel 
-und durch die Sinnesweise seiner Zeit an der Philosophie festge- 
-halten wurde, in der er erst viel später zu selbständigen und be- 
-deutenden Leistungen gelangte; denn die Kritik der reinen Ver- 
-nunft fällt in sein 57. Jahr. Er hat übrigens auch in späteren 
-Perioden seines Lebens zwischen seinen grossen philosophischen 
-Werken einzelne naturwissenschaftliche Aufsätze geschrieben und 
-regelmässig eine Vorlesung über physische Geographie gehalten, 
-in welcher er zwar auf das enge Maass von Kenntnissen und Hilfs- 
-mitteln seiner Zeit und seines abgelegenen Wohnortes beschränkt 
-blieb, aber doch mit grossem und verständigem Sinne ähnlich um- 
-fassenden Gesichtspunkten, wie später A. v. Humboldt, nachstrebte. 
-Es ist geradezu eine Verkehrung des historischen Zusammenhanges, 
-wenn K an t’s Namen zuweilen gemissbraucht wird um zu empfehlen, 
-dass die Naturwissenschaft die inductive Methode, durch welche 
-sie gross geworden ist, wieder verlassen müsse, um zu den luftigen 
-Speculationen einer angeblich „deductiven Methode“ zurückzu- 
-kehren. Gegen solchen Missbrauch würde sich Niemand schärfer 
-und schneidiger gewendet haben, als Kant selbst, wenn er noch 
-unter uns weilte. 
+Ich habe die Absicht, heute vor Ihnen die vielbesprochene Kant-Laplace'sche Hypothese über die Bildung der Weltkörper, namentlich unseres Planetensystems, auseinander zu setzen. Die Wahl dieses Themas bedarf wohl einer Rechtfertigung. In populären Vorlesungen, wie die heutige eine ist, haben die Zuhörer das Recht von dem Vortragenden zu erwarten, dass er ihnen wohlgesicherte Tatsachen und fertige Ergebnisse der Forschung vorlege, nicht aber unreife Vermutungen, Hypothesen oder Träume. Unter allen Gegenständen, denen menschliches Nachdenken und menschliche Phantasie sich zuwenden können, ist die Frage über den Ursprung der Welt vorzugsweise und seit urältester Zeit bei allen Nationen am meisten der Tummelplatz ausschweifendster Speculationen gewesen. Wohltätige und zerstörende Göttergestalten, Giganten, Kronos, der seine Kinder frisst, Niflheim mit dem Eisriesen Ymer, den die himmlischen Asen tödten, um die Welt aus ihm zu bauen, sind Gestalten, wie sie die kosmogonischen Systeme der verhältnissmässig besonneneren Volksstämme bevölkern. Aber in der Allgemeinheit der Tatsache, dass jedes Volk sich seine kosmogonischen Ansichten ausgebildet und diese teilweise sehr in das Einzelne ausgemalt hat, spricht sich auch unverkennbar das von allen gefühlte Interesse aus zu wissen, woher ist unser Ursprung, woher der letzte Ursprung der Dinge, die uns umgeben? Und mit der Frage nach dem Anfange ist wiederum eng die nach dem Ende verknüpft; denn was entstehen konnte, kann auch vergehen. Diese Frage nach dem Ende hat vielleicht sogar noch grösseres praktisches Interesse als die nach dem Anfange.
 
+Nun muss ich gleich von vornherein bemerken, dass auch die Theorie, die ich heute zu besprechen beabsichtige, zuerst aufgestellt wurde von einem Manne, dessen Name vorzugsweise als der des abstraktesten philosophischen Denkers bekannt geworden ist, von dem Urheber des transszendentalen Idealismus und des kategorischen Imperativs, von Immanuel Kant. Die Schrift, in der er sie vortrug, die "Allgemeine Naturgeschichte und Theorie des Himmels" (1755) ist eine seiner ersten Veröffentlichungen und rührt aus seinem 31. Lebensjahre her. Überblickt man die Schriften aus dieser ersten Periode seiner wissenschaftlichen Tätigkeit, die etwa bis zum 40. Jahre seines Alters dauerte, so findet man, dass dieselben grösstenteils naturwissenschaftlichen Inhalts sind und mit einer Anzahl der glücklichsten Gedanken ihrer Zeit weit vorauseilen, während die eigentlich philosophischen Arbeiten noch gering an Zahl, zum Teil, wie die Habilitationsschrift, direkt durch äussere Veranlassung hervorgerufen, dabei verhältnissmässig unselbständig in ihrem positiven Inhalt, und nur bedeutend durch vernichtende, zum Teil spottende Kritik sind. Man kann nicht verkennen, dass der jugendliche Kant seiner Neigung und seiner Anlage nach vorzugsweise Naturforscher war und vielleicht nur durch die Macht der äusseren Verhältnisse, durch den Mangel der für selbständige naturwissenschaftliche Arbeit nötigen Hilfsmittel und durch die Sinnesweise seiner Zeit an der Philosophie festgehalten wurde, in der er erst viel später zu selbständigen und bedeutenden Leistungen gelangte; denn die Kritik der reinen Vernunft fällt in sein 57. Jahr. Er hat übrigens auch in späteren Perioden seines Lebens zwischen seinen grossen philosophischen Werken einzelne naturwissenschaftliche Aufsätze geschrieben und regelmässig eine Vorlesung über physische Geographie gehalten, in welcher er zwar auf das enge Maass von Kenntnissen und Hilfsmitteln seiner Zeit und seines abgelegenen Wohnortes beschränkt blieb, aber doch mit grossem und verständigem Sinne ähnlich umfassenden Gesichtspunkten, wie später A. v. Humboldt, nachstrebte. Es ist geradezu eine Verkehrung des historischen Zusammenhanges, wenn Kants Namen zuweilen gemissbraucht wird um zu empfehlen, dass die Naturwissenschaft die inductive Methode, durch welche sie gross geworden ist, wieder verlassen müsse, um zu den luftigen Spekulationen einer angeblich "deductiven Methode" zurückzukehren. Gegen solchen Missbrauch würde sich Niemand schärfer und schneidiger gewendet haben, als Kant selbst, wenn er noch unter uns weilte.
 
-Ganz unabhängig von Kant, wie es scheint, ist dieselbe Hypo- 
-these über die Bildung unseres Planetensystemes ein zweites Mal 
-von dem berühmtesten der französischen Astronomen, Pierre 
-Simon Marquis de Laplace, gleichsam als das Schlussresultat 
-seiner mit riesigem Fleisse und grossem mathematischen Scharf- 
-sinne durchgeführten vollständigen Bearbeitung der Mechanik 
-unseres Systems aufgestellt worden. Sie sehen schon aus den Namen 
-dieser beiden Männer, die wir als wohlerfahrene und wohlerprobte 
-Führer auf unserem Wege treffen, dass wir bei einer von ihnen 
-übereinstimmend aufgestellten Ansicht es nicht mit einer leicht- 
-fertigen Reise in das Blaue zu thun haben, sondern mit einem vor- 
-sichtigen und wohl überlegten Versuche, aus den bekannten Ver- 
-hältnissen der Gegenwart Rückschlüsse auf die unbekannte Ver- 
-gangenheit zu ziehen. 
+Ganz unabhängig von Kant, wie es scheint, ist dieselbe Hypothese über die Bildung unseres Planetensystemes ein zweites Mal von dem berühmtesten der französischen Astronomen, Pierre Simon Marquis de Laplace, gleichsam als das Schlussresultat seiner mit riesigem Fleisse und grossem mathematischen Scharfsinne durchgeführten vollständigen Bearbeitung der Mechanik unseres Systems aufgestellt worden. Sie sehen schon aus den Namen dieser beiden Männer, die wir als wohlerfahrene und wohlerprobte Führer auf unserem Wege treffen, dass wir bei einer von ihnen übereinstimmend aufgestellten Ansicht es nicht mit einer leichtfertigen Reise in das Blaue zu tun haben, sondern mit einem vorsichtigen und wohl überlegten Versuche, aus den bekannten Verhältnissen der Gegenwart Rückschlüsse auf die unbekannte Vergangenheit zu ziehen.
 
 Es liegt nun in der Natur der Sache, dass eine Hypothese 
 über den Ursprung desTheiles der Welt, den wir selbst bewohnen, 
@@ -267,8 +189,8 @@ zwischen allen Planeten und- allen ihren Trabanten durch die
 gegenseitige Attraction jedes gegen jeden erzeugt werden, und 
 welche die Astronomen als Störungen bezeichnen, — Störungen 
 nämlich der einfachen elliptischen Bewegung um die Sonne, die jeder 
-von ihnen machen würde, wenn die anderen nicht da wären — , 
-dass alle diese Wechselwirkungen aus Newton’s Gesetze theore- 
+von ihnen machen würde, wenn die anderen nicht da wären —, 
+dass alle diese Wechselwirkungen aus Newton's Gesetze theore- 
 tisch vorausbestimmt und mit den wirklichen Vorgängen am 
 Himmel genau verglichen werden konnten. Die Ausbildung dieser 
 Theorie der Planetenbewegungen bis in das Einzelnste war, wie 
@@ -276,7 +198,7 @@ schon erwähnt, hauptsächlich das Verdienst von Laplace. Die
 Uebereinstimmung zwischen der Theorie, die aus dem so einfachen 
 Gesetze der Gravitationskraft entwickelt war, und den äusserst 
 complicirten und mannigfaltigen Erscheinungen, die daraus folgten, 
-war eine so vollständige und so genaue , wie sie bisher in keinem 
+war eine so vollständige und so genaue, wie sie bisher in keinem 
 anderen Zweige menschlichen Wissens erreicht worden ist. Kühner 
 geworden durch diese Uebereinstimmung schloss man bald, dass 
 da, wo kleine Mängel derselben sich constant herausstellten, noch 
@@ -406,7 +328,7 @@ Von dieser Art ist nun das Spectrum der Sonne und das einer
 grossen Anzahl von Fixsternen. Die dunkeln Linien des Sonnen- 
 spectrums, vonWollaston entdeckt, sind von Fraunhofer zuerst 
 genau untersucht und gemessen und deshalb unter dem Namen 
-Fraunhofer’ sehe Linien bekannt geworden. 
+Fraunhofer' sehe Linien bekannt geworden. 
 
 Später sind, und zwar zuerst von Kirchhoff, dann namentlich 
 von Ang ström viel mächtigere Apparate angewendet worden, um die 
@@ -418,9 +340,9 @@ Fig. 6.
 
 von Steinheil für Kirchhoff construirten Apparat mit vier 
 Prismen dar. Am abgetf endeten Ende des Fernrohres A befindet 
-sich ein Schirm mit’ einem feinen Spalt, der die feine Lichtlinie 
+sich ein Schirm mit' einem feinen Spalt, der die feine Lichtlinie 
 bildet, durch die dargestellte kleine Schraube verengert und er- 
-weitert' werden kann , und durch den man däs zu untersuchende 
+weitert' werden kann, und durch den man däs zu untersuchende 
 
 
 Digltlzed by Google 
@@ -429,10 +351,10 @@ Digltlzed by Google
 111 
 
 
-Licht feintreten lässt. Es passirt dann das Fernrohr A , nachher 
+Licht feintreten lässt. Es passirt dann das Fernrohr A, nachher 
 die vier Prismen, endlich das Fernrohr B, und gelangt so zum Auge 
 des Beobachters. In Fig. 7,8,9 sind kleine Stücke von Kirch- 
-hoff’s Zeichnung des Sonnenspectrums nachgebildet, aus dem Grün, 
+hoff's Zeichnung des Sonnenspectrums nachgebildet, aus dem Grün, 
 
 Fig. 7. Fig. 8. 
 
@@ -447,7 +369,7 @@ Fig. 9.
 glühenden Dämpfe dieser Metalle, sei es in den Flammen, sei es im 
 elektrischen Funken, helle Linien zeigen. Die darüber gesetzten 
 Scalentheile lassen erkennen, wie weit diese Bruchstücke der über 
-das ganze Sonnenspectrum ausgedehnten Kirchh off’ sehen Zeich- 
+das ganze Sonnenspectrum ausgedehnten Kirchh off' sehen Zeich- 
 
 
 
@@ -490,7 +412,7 @@ sind. Aber so viel steht schon fest, dass bekannte irdische Elemente
 durch den Weltraum weit verbreitet sind, vor allen der Stickstoff, 
 der den grösseren Theil unserer Atmosphäre ausmacht, und der 
 Wasserstoff, der Grundstoff des Wassers, welches durch Verbren- 
-nung aus ihm entsteht. , Beide fanden sich in den eigentlichen un- 
+nung aus ihm entsteht., Beide fanden sich in den eigentlichen un- 
 auflösbaren Nebelflecken, und diese müssen, wie aus der Unver- 
 änderlichkeit ihrer Gestalt zu schliessen ist, Gebilde von ungeheuren 
 Dimensionen und ungeheurer Entfernung von uns sein. Schon 
@@ -552,7 +474,7 @@ trichterförmig vertieft, die Wände des Trichters sind weniger
 dunkel als die tiefste Stelle, der Kern. Fig. 10 (a. f. S.) zeigt eine 
 
 
-*) Bis zu 15 000 geogr. Meilen nach Herrn H. C. Vogel’s Beobach- 
+*) Bis zu 15 000 geogr. Meilen nach Herrn H. C. Vogel's Beobach- 
 tungen inBothkamp. Die spectroskopische Verschiebung der Linien zeigte 
 Geschwindigkeiten bis zu 4 oder 5 Meilen in der Secunde, nach Lockyer 
 sogar bis zu 8 und 9 Meilen. 
@@ -704,7 +626,7 @@ bei einer Kugel zum Beispiel, die auf ebener Bahn fortrollt, sehen
 wir dieselbe zwar eine Strecke vorwärts gehen, desto weiter, je 
 glatter die Bahn, aber wir hören gleichzeitig die rollende Kugel 
 klappern, das heisst Schallerschütterungen an die umgebenden 
-Körper abgeben ; sie reibt sich auch an der glattesten Bahn , sie 
+Körper abgeben ; sie reibt sich auch an der glattesten Bahn, sie 
 muss die umgebende Luft mit in Bewegung setzen und an diese 
 einen Theil ihrer Bewegung abgeben. So geschieht es, dass ihre 
 Geschwindigkeit immer geringer wird, bis sie endlich ganz aufhört. 
@@ -751,7 +673,7 @@ welche unsere Erde durchläuft, überall verbreitet.
 118 
 
 
-Was zunächst den Lichtäther betrifft , so ist die Existenz des- 
+Was zunächst den Lichtäther betrifft, so ist die Existenz des- 
 selben nicht zweifelhaft zu nennen. Dass das Licht und die 
 strahlende Wärme eine sich wellenförmig ausbreitende Bewegung 
 sei, ist genügend bewiesen. Damit eine solche Bewegung sich 
@@ -792,7 +714,7 @@ fortzusetzen. So wie sich die Kraft ihrer Bewegung vermindert
 
 
 *) Die Grundlagen würden dieser Rechnung allerdings entzogen wer- 
-den, wenn sich die Maxwel l’sche Hypothese bestätigen sollte, wonach 
+den, wenn sich die Maxwel l'sche Hypothese bestätigen sollte, wonach 
 das Licht auf elektrischen und magnetischen Oscillationen beruht. 
 
 
@@ -805,8 +727,8 @@ das Licht auf elektrischen und magnetischen Oscillationen beruht.
 
 geben sie der Anziehung der Sonne um ein Entsprechendes nach, 
 und nähern sich dieser. Dauert der Widerstand fort, so werden 
-sie fortfahren sich der Sonne zu nähern , bis sie in diese hinein- 
-stürzen. Auf diesem Wege befindet sich offenbar der Encke’sche 
+sie fortfahren sich der Sonne zu nähern, bis sie in diese hinein- 
+stürzen. Auf diesem Wege befindet sich offenbar der Encke'sche 
 Komet. Aber der Widerstand, dessen Vorhandensein im Welt- 
 räume hierdurch angezeigt wird, muss in demselben Sinne, wenn 
 auch erheblich langsamer, auf die viel grösseren Körper der Pla- 
@@ -834,7 +756,7 @@ Erdoberfläche. Da sie sich im Welträume gerade nach denselben
 Gesetzen wie Planeten und Kometen bewegt haben, so haben sie 
 auch planetarische Geschwindigkeit von vier bis neun Meilen in 
 der Secunde. Auch daran erkennen wir, dass sie in der That 
-stelle cadenti , fallende Sterne, sind, wie sie von den Dichtern längst 
+stelle cadenti, fallende Sterne, sind, wie sie von den Dichtern längst 
 genannt wurden. 
 
 Diese ihre ungeheure Geschwindigkeit, womit sie in unsere 
@@ -988,7 +910,7 @@ Erde, nämlich von Westen nach Osten. Wären sie nun unabhängig
 von einander entstanden und zusammengekommen, so wäre eine 
 jede Richtung der Bahnebenen für jeden einzelnen von ihnen gleich 
 wahrscheinlich gewesen, rückläufige Richtung des Umlaufes ebenso 
-wahrscheinlich , wie rechtläufige; stark elliptische Bahnen ebenso 
+wahrscheinlich, wie rechtläufige; stark elliptische Bahnen ebenso 
 wahrscheinlich, als die nahe kreisförmigen, welche wir bei allen den 
 genannten Körpern finden. In der That herrscht vollkommene 
 Regellosigkeit bei den Kometen und Meteorschwärmen, für welche 
@@ -1250,7 +1172,7 @@ Wärme geben. Die Hypothese indessen, dass der ganze Betrag
 der Sonnenwärme fortdauernd der Ausstrahlung entsprechend durch 
 Meteorfälle erzeugt werde, eine Hypothese, welche von Robert 
 Mayer aufgestellt und von mehreren anderen Physikern günstig 
-aufgenommen wurde, stösst nach Sir W. Thomson ’s Unter- 
+aufgenommen wurde, stösst nach Sir W. Thomson 's Unter- 
 suchungen auf Schwierigkeiten, indem die Masse der Sonne in 
 diesem Falle so schnell zunehmen müsste, dass die Folgen davon 
 sich schon in der beschleunigten Bewegung der Planeten verrathen 
@@ -1357,7 +1279,7 @@ einer Flüssigkeit hervorgebracht werden konnte. Auf seiner Ober-
 fläche ist von einer solchen jetzt nichts mehr wahrzunehmen. 
 
 Sie sehen, wie verschiedene Wege uns immer auf denselben 
-Anfangszustand zurückgeführt haben. Die Kant-Laplace’sche 
+Anfangszustand zurückgeführt haben. Die Kant-Laplace'sche 
 Hypothese erweist sich als einer der glücklichen Griffe in der 
 Wissenschaft, die uns anfangs durch ihre Kühnheit erstaunen 
 
@@ -1446,7 +1368,7 @@ In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 15
 und Fig. 10 (a.v. S.) aus dem Schützen und Fuhrmann. Man unter- 
 schied immer mehr Sterne in ihnen, je bessere Teleskope man zu 
 ihrer Analyse an wandte. So konnte vor der Erfindung der Spectral- 
-analyse W. Herschel’s frühere Ansicht als die wahrscheinlichste 
+analyse W. Herschel's frühere Ansicht als die wahrscheinlichste 
 angesehen werden, dass, was wir als Nebel sähen, nur Haufen sehr 
 feiner Sterne, andere Milchstrassensysteme seien. Die Spectralanalyse 
 hat nun aber auch an vielen Nebelflecken, welche Sterne enthalten, 
@@ -1480,7 +1402,7 @@ Gleichgewichtszustände entsprechen. Da sie dessen ungeachtet
 ihre Gestalt nicht oder wenigstens nur in unmerklicher Weise ver- 
 
 *) Oder vielleicht auch dem Sauerstoff? Die Linie kommt im Spectrum 
-der atmosphärischen Luft vor, und fehlte hei II. C. Vogel’ s Beobachtungen 
+der atmosphärischen Luft vor, und fehlte hei II. C. Vogel' s Beobachtungen 
 im Spectrum des reinen Sauerstoffs. 
 
 
@@ -1610,7 +1532,7 @@ Unterganges der lebenden Schöpfung auf dieser Erde aufregt, ist
 vorzugsweise die Frage, oh all dies Leben nur ein zielloses Spiel 
 sei, was endlich wieder der Zerstörung durch rohe Gewalt anheim- 
 fallen werde. Wir beginnen einzusehen unter dem Lichte von 
-Darwin’s grossen Gedanken, dass nicht bloss Lust und Freude, 
+Darwin's grossen Gedanken, dass nicht bloss Lust und Freude, 
 sondern auch Schmerz, Kampf und Tod die mächtigen Mittel sind, 
 durch welche dieNatur ihre feineren und vollendeteren Lebensformen 
 herausbildet. Und wir Menschen insbesondere wissen, dass wir in 
