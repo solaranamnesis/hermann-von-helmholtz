@@ -12,29 +12,9 @@ Nun muss ich gleich von vornherein bemerken, dass auch die Theorie, die ich heut
 
 Ganz unabhängig von Kant, wie es scheint, ist dieselbe Hypothese über die Bildung unseres Planetensystemes ein zweites Mal von dem berühmtesten der französischen Astronomen, Pierre Simon Marquis de Laplace, gleichsam als das Schlussresultat seiner mit riesigem Fleisse und grossem mathematischen Scharfsinne durchgeführten vollständigen Bearbeitung der Mechanik unseres Systems aufgestellt worden. Sie sehen schon aus den Namen dieser beiden Männer, die wir als wohlerfahrene und wohlerprobte Führer auf unserem Wege treffen, dass wir bei einer von ihnen übereinstimmend aufgestellten Ansicht es nicht mit einer leichtfertigen Reise in das Blaue zu tun haben, sondern mit einem vorsichtigen und wohl überlegten Versuche, aus den bekannten Verhältnissen der Gegenwart Rückschlüsse auf die unbekannte Vergangenheit zu ziehen.
 
-Es liegt nun in der Natur der Sache, dass eine Hypothese 
-über den Ursprung desTheiles der Welt, den wir selbst bewohnen, 
-und die also von Dingen der fernsten Vergangenheit redet, nicht 
-durch directe Beobachtung verificirt werden kann ; wohl aber kann 
-sie mittelbare Bestätigungen erfahren, wenn beim Fortschritte der 
-wissenschaftlichen Kenntnisse sich neue Thatsachen den früher 
-bekannten anreihen und wie diese aus ihr ihre Erklärung empfangen, 
-namentlich wenn sich Reste der für die Bildung der Weltkörper 
-angenommenen Vorgänge auch noch in der Gegenwart nach weisen 
-lassen. Dergleichen mittelbare Bestätigungen von mannigfacher 
-Art haben sich in der That für die hier zu besprechende Ansicht 
-gefunden, und das Gewicht ihrer Wahrscheinlichkeit ganz erheb- 
-lich gesteigert. 
+Es liegt nun in der Natur der Sache, dass eine Hypothese über den Ursprung des Teiles der Welt, den wir selbst bewohnen, und die also von Dingen der fernsten Vergangenheit redet, nicht durch direkte Beobachtung verifizirt werden kann; wohl aber kann sie mittelbare Bestätigungen erfahren, wenn beim Fortschritte der wissenschaftlichen Kenntnisse sich neue Tatsachen den früher bekannten anreihen und wie diese aus ihr ihre Erklärung empfangen, namentlich wenn sich Reste der für die Bildung der Weltkörper angenommenen Vorgänge auch noch in der Gegenwart nach weisen lassen. Dergleichen mittelbare Bestätigungen von mannigfacher Art haben sich in der Tat für die hier zu besprechende Ansicht gefunden, und das Gewicht ihrer Wahrscheinlichkeit ganz erheblich gesteigert.
 
-Theils dieser Umstand, theils der andere, dass die genannte 
-Hypothese in neuerer Zeit in populären und in wissenschaftlichen 
-Büchern vielfältig in Verbindung mit philosophischen, ethischen, 
-theologischen Fragen erwähnt worden ist, geben mir den Muth, 
-heute hier davon zu reden. Ich beabsichtige dabei nicht sowohl 
-Ihnen dem Inhalte nach wesentlich Neues zu berichten, als viel- 
-mehr zu versuchen Ihnen eine möglichst zusammenhängende Ueber- 
-sicht der Gründe zu geben, die zu ihr geführt und sie befestigt 
-haben. 
+Teils dieser Umstand, teils der andere, dass die genannte Hypothese in neuerer Zeit in populären und in wissenschaftlichen Büchern vielfältig in Verbindung mit philosophischen, ethischen, theologischen Fragen erwähnt worden ist, geben mir den Mut, heute hier davon zu reden. Ich beabsichtige dabei nicht sowohl Ihnen dem Inhalte nach wesentlich Neues zu berichten, als vielmehr zu versuchen Ihnen eine möglichst zusammenhängende Übersicht der Gründe zu geben, die zu ihr geführt und sie befestigt haben.
 
 Diese Entschuldigungen, welche ich vorausschicken musste, 
 gelten übrigens nur dem Umstande, dass ich in einer populären 
