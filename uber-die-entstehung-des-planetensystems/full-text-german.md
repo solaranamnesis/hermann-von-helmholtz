@@ -16,400 +16,59 @@ Es liegt nun in der Natur der Sache, dass eine Hypothese über den Ursprung des 
 
 Teils dieser Umstand, teils der andere, dass die genannte Hypothese in neuerer Zeit in populären und in wissenschaftlichen Büchern vielfältig in Verbindung mit philosophischen, ethischen, theologischen Fragen erwähnt worden ist, geben mir den Mut, heute hier davon zu reden. Ich beabsichtige dabei nicht sowohl Ihnen dem Inhalte nach wesentlich Neues zu berichten, als vielmehr zu versuchen Ihnen eine möglichst zusammenhängende Übersicht der Gründe zu geben, die zu ihr geführt und sie befestigt haben.
 
-Diese Entschuldigungen, welche ich vorausschicken musste, 
-gelten übrigens nur dem Umstande, dass ich in einer populären 
-Vorlesung ein Thema dieser Art behandle. Die Wissenschaft ist 
-vollständig berechtigt und auch verpflichtet eine solche Unter- 
-suchung anzustellen. Für sie handelt es sich um eine ganz be- 
-
-stimmte und gewichtige Frage, die Frage nämlich nach der Exi- 
-stenz von Grenzen für die Tragweite der Naturgesetze, welche den 
-Verlauf alles gegenwärtig Geschehenden beherrschen; ob diese 
-auch in der Vorzeit von jeher gültig gewesen sein können, und ob 
-sie es auch in der Zukunft immer werden sein können, oder ob 
-bei Voraussetzung einer ewig gleichmässigen Gesetzmässigkeit der 
-Natur unsere Rückschlüsse aus den gegenwärtigen Zuständen auf 
-die der Vergangenheit und Zukunft uns nothwendig auf unmög- 
-liche Zustände und die Nothwendigkeit einer Durchbrechung der 
-Naturgesetze, eines Anfanges, der nicht mehr durch die uns be- 
-kannten Vorgänge herbeigeführt sein könnte, zurückleiten. Die 
-Anstellung einer solchen Untersuchung über die mögliche oder 
-wahrscheinliche Vorgeschichte der jetzt bestehenden Welt ist also 
-von Seiten der Wissenschaft keine müssige Speculation, sondern 
-eine Frage über die Grenzen ihrer Methoden und die Tragweite 
-der zur Zeit gefundenen Gesetze. 
-
-Vielleicht mag es vermessen erscheinen, dass wir, begrenzt 
-wie wir sind, im Kreise unserer Beobachtungen, räumlich durch 
-unseren Standpunkt auf der kleinen Erde, die nur ein Stäubchen 
-in unserem Milchstrassensystem ist, zeitlich durch die Dauer der 
-kurzen Menschengeschichte, es unternehmen die Gesetze, welche 
-wir aus dem kleinen uns zugänglichen Bereich von Thatsachen her- 
-ausgelesen haben, geltend zu machen für die ganze Ausdehnung 
-des unermesslichen Raumes und der Zeit von Ewigkeit zu Ewig- 
-keit. Aber all unser Denken und Thun im Grössten wie im Klein- 
-sten ist gegründet auf das Vertrauen zu der unabänderlichen 
-Gesetzmässigkeit der Natur, und dieses Vertrauen hat sich bisher 
-desto mehr gerechtfertigt, je tiefer wir in den Zusammenhang der 
-Naturerscheinungen eindrangen. Und für die Gültigkeit der von 
-uns gefundenen allgemeinen Gesetze durch die weitesten Er- 
-streckungen des Raumes hin hat uns das letzte halbe Jahrhundert 
-wichtige thatsächliche Bestätigungen gebracht. 
-
-Voran unter diesen steht das Gesetz der Schwere*. Die Himmels- 
-körper schweben, wie Sie alle wissen, und bewegen sich in dem 
-unermesslichen Raume. Verglichen mit den ungeheuren Entfer- 
-nungen, die zwischen ihnen liegen, sind sie alle, auch die grössten 
-unter ihnen, nur wie Stäubchen von Materie zu betrachten. Auch 
-die uns nächsten Fixsterne erscheinen selbst in den stärksten Ver- 
-grösserungen ohne sichtbaren Durchmesser, und wir können sicher 
-sein, dass auch unsere Sonne, von den nächsten Fixsternen aus 
-gesehen, nicht anders als ein untheilbarer lichter Punkt erscheint, 
-
-
-da sich die Massen jener Sterne in den Fällen, wo es gelungen ist, 
-sie zu bestimmen, als nicht sehr abweichend von der der Sonne 
-ergeben haben. Trotz dieser ungeheuren Entfernungen aber be- 
-steht zwischen ihnen ein unsichtbares Band, welches sie anein- 
-ander fesselt und sie in gegenseitige Abhängigkeit bringt. Es ist 
-dies die Gravitationskraft, mit der alle schweren Massen sich gegen- 
-seitig anziehen. Wir kennen diese Kraft aus unserer täglichen 
-Erfahrung als Schwere, wenn sie zwischen einem irdischen Körper 
-und der Masse unserer Erde wirksam wird. Die Kraft, welche 
-einen Stein zu Boden fallen macht, ist keine andere als die, welche 
-den Mond zwingt fortdauernd die Erde in ihrer Bahn um die 
-Sonne zu begleiten, und keine andere als die, welche die Erde 
-selbst verhindert in den weiten Raum hinaus zu fliehen und sich 
-von der Sonne zu entfernen. 
-
-Sie können sich den Vorgang der Planetenbewegung an einem 
-einfachen mechanischen Modell versinnlichen. Befestigen Sie 
-möglichst hoch an einem Baumast oder an einem aus der Wand 
-herausragenden festen Arme einen seidenen Faden, an dessen 
-unteres Ende Sie, möglichst tief unten, einen kleinen schweren 
-Körper, etwa eine Bleikugel, binden. Wenn Sie diese ruhig hängen 
-lassen, so zieht sie den Faden vertical nach unten. Dies ist die 
-Gleichgewichtslage der Kugel. Um dieselbe zu bezeichnen und 
-dem Auge fortdauernd sichtbar zu machen, bringen Sie an diese 
-Stelle, wo die Bleikugel im Gleichgewicht zu ruhen strebt, irgend 
-einen feststehenden Körper, etwa einen Erdglobus auf Stativ. Die 
-Bleikugel muss zu dem Ende bei Seite geschoben werden; aber sie 
-legt sich nun dem Globus an, und wenn man sie von ihm fort- 
-zieht, so strebt sie wieder zu ihm hin, weil die Schwere sie gegen 
-ihre im Innern des Globus befindliche Gleichgewichtslage hintreibt. 
-Auf welcher Seite des Globus man die Kugel auch von ihm ab- 
-ziehen mag, immer geschieht dasselbe. Diese Kraft, welche die 
-Bleikugel gegen den Globus treibt, vertritt in unserem Modell die 
-Anziehung, welche die Erde gegen den Mond, oder die Sonne 
-gegen die Planeten ausübt. Nachdem Sie sich von den beschriebe- 
-nen Thatsachen überzeugt haben, versuchen Sie der Bleikugel in 
-einigem Abstande vom Globus eine mässige Wurfbewegung nach 
-der Seite zu geben. Haben Sie die Stärke des Wurfes richtig ge- 
-troffen, so umschwebt die kleine Kugel in kreisförmiger Bahn die 
-grosse und kann lange Zeit in dieser Bewegung beharren, gerade 
-so, wie der Mond in seinem Umlaufe um die Erde, die Planeten 
-in dem um die Sonne beharren. Nur werden allerdings in unserem 
-
-
-Modell die Kreise, welche die Bleikugel zieht, mit der Zeit immer 
-enger und enger, weil wir widerstehende Kräfte, Luftwiderstand, 
-Steifigkeit des Fadens, Reibung, nicht in dem Maasse ausschliessen 
-können, wie sie in dem Planetensysteme ausgeschlossen sind. 
-
-Bei genau kreisförmiger Bahn um den anziehenden Mittel- 
-punkt wirkt die anziehende Kraft auf Planeten oder Bleikugel 
-natürlich immer in gleicher Stärke. Dann ist es gleichgültig, 
-nach welchem Gesetz die Kraft ab- oder zunehmen würde in anderen 
-Abständen vom Centrum, in welche der bewegte Körper ja gar nicht 
-kommt. Ist aber der ursprüngliche Stoss nicht von richtiger Stärke 
-gewesen, so werden in beiden Fällen die Bahnen nicht kreisförmig, 
-sondern elliptisch von der Form derinFig. 5 gezeichneten krummen 
-Linie. Aber diese Ellipsen liegen in beiden Fällen verschieden 
-gegen das anziehende Centrum. In unserem Modell wird die an- 
-
-Fig. 5. 
-
-
-ziehende Kraft desto stärker, je weiter wir die Bleikugel von ihrer 
-Gleichgewichtslage entfernen. Die Ellipse der Bahn erhält unter 
-diesen Umständen eine solche Lage gegen das anziehende Centrum, 
-dass dieses in den Mittelpunkt c der Ellipse fällt. Für den Planeten 
-wird imGegentheil die anziehende Kraft desto schwächer, je weiter 
-er sich von dem anziehenden Körper entfernt, und dies bewirkt, 
-dass eine Ellipse beschrieben wird, deren einer Brennpunkt in das 
-Anziehungscentrum fällt. Die beiden Brennpunkte a und b sind 
-zwei symmetrisch gegen die Enden der Ellipse hin liegende Punkte, 
-die durch die Eigenschaft ausgezeichnet sind, dass die Summe 
-ihrer Abstände am bm für jeden beliebigen Punkt in der 
-Ellipse die gleiche Grösse hat. 
-
-Dass die Planetenbahnen Ellipsen von solcher Art sind, hatte 
-Kepler erkannt, und da, wie das eben angeführte Beispiel zeigt, 
-
-
-
-die Form und Lage der Bahn von dem Gesetze, nach welchem die 
-Grösse der anziehenden Kraft sich ändert, abhängt, so konnte 
-Newton aus der Form der Planetenbahnen das bekannte Gesetz 
-der Gravitationskraft, welche die Planeten zur Sonne zieht, ab- 
-leiten, wonach diese Kraft bei wachsender Entfernung in dem 
-Maasse abnimmt, wie das Quadrat der Entfernung wächst. Die 
-irdische Schwere musste diesem Gesetze sich einfügen, und Newton 
-hatte die bewundernswerthe Entsagung seine folgenschwere Ent- 
-deckung erst zu veröffentlichen, nachdem auch hierfür eine directe 
-Bestätigung gelungen war, als sich nämlich aus den Beobachtungen 
-nacliweisen liess, dass die Kraft, welche den Mond gegen die Erde 
-zieht, gerade in demjenigen Yerhältniss zur Schwere eines irdischen 
-Körpers steht, wie es das von ihm erkannte Gesetz forderte. 
-
-Im Laufe des 18. Jahrhunderts stiegen die Mittel der mathe- 
-matischen Analyse und die Methoden der astronomischen Beobach- 
-tung so weit, dass alle die verwickelten Wechselwirkungen, welche 
-zwischen allen Planeten und- allen ihren Trabanten durch die 
-gegenseitige Attraction jedes gegen jeden erzeugt werden, und 
-welche die Astronomen als Störungen bezeichnen, — Störungen 
-nämlich der einfachen elliptischen Bewegung um die Sonne, die jeder 
-von ihnen machen würde, wenn die anderen nicht da wären —, 
-dass alle diese Wechselwirkungen aus Newton's Gesetze theore- 
-tisch vorausbestimmt und mit den wirklichen Vorgängen am 
-Himmel genau verglichen werden konnten. Die Ausbildung dieser 
-Theorie der Planetenbewegungen bis in das Einzelnste war, wie 
-schon erwähnt, hauptsächlich das Verdienst von Laplace. Die 
-Uebereinstimmung zwischen der Theorie, die aus dem so einfachen 
-Gesetze der Gravitationskraft entwickelt war, und den äusserst 
-complicirten und mannigfaltigen Erscheinungen, die daraus folgten, 
-war eine so vollständige und so genaue, wie sie bisher in keinem 
-anderen Zweige menschlichen Wissens erreicht worden ist. Kühner 
-geworden durch diese Uebereinstimmung schloss man bald, dass 
-da, wo kleine Mängel derselben sich constant herausstellten, noch 
-unbekannte Ursachen wirksam sein müssten. So wurde aus Ab- 
-weichungen zwischen der wirklichen und der berechneten Bewegung 
-des Uranus von Bessel die Vermuthung hergeleitet, dass ein 
-weiterer Planet existire. Von Leverrier und Adams wurde der 
-Ort dieses Planeten berechnet, und so der Neptun, der entfernteste 
-der bis jetzt bekannten, gefunden. 
-
-Aber nicht bloss im Bereiche der Attractionskraft unserer 
-Sonne zeigte sich das Gravitationsgesetz als wirksam; am Fixstern- 
-
-
-
-
-himmel erkannte man, dass auch Doppelsterne in elliptischen Bah- 
-nen um einander kreisen, dass auch zwischen ihnen dasselbe Gesetz 
-der Gravitation wirksam sei, welches unser Planetensystem be- 
-herrscht. Von einzelnen derselben kennen wir die Entfernung. 
-Der nächste von ihnen a im Sternbild des Centauren ist 226 000 
-Mal weiter von der Sonne entfernt, als die Erde. Das Licht, 
-welches die ungeheure Strecke von 40 000 Meilen jn der Secunde 
-durchläuft, welches in 8 Minuten von der Sonne zur Erde gelangt, 
-braucht 3 Jahre um von a Centauri zu uns zu kommen. Die ver- 
-feinerten Messungsmethoden der neueren Astronomie haben es 
-möglich gemacht Entfernungen von Sternen zu bestimmen, zu 
-deren Durchmessung das Licht 35 Jahre braucht, wie zum Beispiel 
-vom Polarstern: aber das Gravitationsgesetz zeigt sich, die Be- 
-wegungen von Doppelsternen beherrschend, auch noch in solchen 
-Tiefen des Sternenhimmels, an deren Ausmessung bisher die uns 
-zu Gebote stehenden Messungsmethoden gescheitert sind. 
-
-Auch hier hat die Kenntniss des Gravitationsgesetzes schon 
-zur Entdeckung neuer Körper geführt, wie im Falle des Neptun. 
-Peters in Altona fand in Bestätigung einer ebenfalls schon von 
-Bes sei ausgesprochenen Yermuthung, dass der Sirius, der glän- 
-zendste unserer Fixsterne, in elliptischer Bahn sich um ein unsicht- 
-bares Centrum bewege. Er mussteeinen dunkeln Begleiter haben; 
-und in der That liess sich dieser nach Aufstellung des ausgezeich- 
-neten und mächtigen Fernrohres der Universität Cambridge in 
-Nordamerika auch durch das Auge entdecken. Er ist nicht ganz 
-dunkel, aber so lichtschwach, dass er nur durch die allervoll- 
-kommensten Instrumente gesehen werden kann. Die Masse des 
-Sirius ergiebt sich dabei gleich 13,76, die des Begleiters zu 6,71 
-Sonnenmassen, ihre gegenseitige Entfernung gleich 37 Erdbahn- 
-halbmesser, also etwas grösser, als die Entfernung des Neptun von 
-der Sonne. 
-
-Ein anderer Fixstern, derProcyon, ist im gleichen Falle, wie 
-der Sirius, aber sein Begleiter ist noch nicht gesehen. 
-
-Sie sehen, dass wir in der Gravitation eine aller schweren 
-Materie gemeinsame Eigenschaft entdeckt haben, die sich nicht 
-auf die Körper unseres Systemes beschränkt, sondern so weit hin- 
-aus in die Himmelsräume sich zu erkennen giebt, als unsere Be- 
-obachtungsmittel bisher Vordringen konnten. 
-
-Aber nicht nur diese allgemeine Eigenschaft aller Masse 
-kommt den entferntesten Himmelskörpern wie den irdischen Körpern 
-zu, sondern die Spectralanalyse hat uns gelehrt, dass eine grosse 
-
-
-Anzahl wohlbekannter irdischer Elemente in den Atmosphären der 
-Fixsterne und selbst der Nebelflecke wiederkehren. 
-
-Sie wissen, dass eine feine helle Linie, durch ein Glasprisma 
-betrachtet, als ein farbiger Streif, am einen Rande roth und gelb, 
-am anderen blau und violett, in der Mitte grün erscheint. Man 
-nennt ein solches farbiges Bild ein Farbenspectrum; der Regen- 
-bogen ist ein solches, durch Lichtbrechung, wenn auch nicht gerade 
-durch ein Prisma, erzeugt; und er zeigt daher die Reihe der Farben, 
-welche durch eine solche Zerlegung aus dem weissen Sonnenlicht 
-ausgeschieden werden können. Die Erzeugung des prismatischen 
-Spectrum beruht darauf, dass das Licht der Sonne und der meisten 
-glühenden Körper aus verschiedenen Arten von Licht zusammen- 
-gesetzt ist, welche unserem Auge verschieden farbig erscheinen, 
-und welche bei der Brechung der Strahlen im Prisma von einander 
-getrennt werden. 
-
-Macht man nun einen festen oder flüssigen Körper glühend 
-heiss, so dass er leuchtet, so ist das Spectrum, welches sein Licht 
-giebt, ähnlich dem Regenbogen, ein breiter farbiger Streifen ohne 
-Unterbrechungen mit der bekannten Farbenreihe Roth, Gelb, Grün, 
-Blau, Violett und in keiner Weise charakteristisch für die Be- 
-schaffenheit des Körpers, der das Licht aussendet. 
-
-Anders verhält es sich, wenn ein glühendes Gas oder ein 
-glühender Dampf, d. h. ein durch Wärme in gasförmigen Zustand 
-gebrachter Stoff, das Licht aussendet. Dann besteht nämlich das 
-Spectrum eines solchen Körpers aus einer oder einigen oder auch 
-sehr vielen, aber durchaus getrennten hellen Linien, deren Ort und 
-Gruppirung im Spectrum charakteristisch ist für die Substanzen, 
-aus denen das Gas oder der Dampf besteht, so dass man durch die 
-spectrale Analyse des Lichtes erkennen kann, welches die chemische 
-Zusammensetzung des glühenden gasförmigen Körpers ist. Solche 
-Gasspectra zeigen uns im Weltenraume viele Nebelflecke, und zwar 
-Spectra, welche die hellen Linien glühenden Wasserstoffs und 
-Stickstoffs zeigen und daneben meist noch eine Linie, die bisher 
-in dem Spectrum keines irdischen Elementes wiedergefunden ist. 
-Abgesehen von dem Nachweis zweier wohlbekannter irdischer 
-Elemente war diese Entdeckung auch deshalb von grösster Wichtig- 
-keit, weil sie es war, die den ersten unzweifelhaften Nachweis dafür 
-gab, dass die kosmischen Nebel meistentheils keine Haufen feiner 
-Sterne sind, sondern dass der grösste Theil ihres Lichtes wirklich 
-von gasigen Körpern ausgesendet wird. 
-
-In anderer Weise erscheinen die Gasspectra, wenn das Gas 
-
-
-
-
-
-110 
-
-
-vor einem glühenden festen Körper liegt, dessen Temperatur viel 
-höher ist, als die des Gases. Dann sieht der Beobachter das con- 
-tinuirliche Spectrum eines festen Körpers, dieses aber durchschnitten 
-von feinen dunkeln Linien, die gerade an den Orten sichtbar wer- 
-den, wo das Gas allein, vor dunklem Hintergründe gesehen, helle 
-Linien zeigen würde. Dass beide Erscheinungsweisen der Gas- 
-spectra sich nothwendig bedingen, hat Kirchhoff nachgewiesen. 
-Man kann deshalb auch aus solchen dunkeln Linien im Spectrum 
-erkennen, welche Gase sich vor dem glühenden Körper befinden. 
-Von dieser Art ist nun das Spectrum der Sonne und das einer 
-grossen Anzahl von Fixsternen. Die dunkeln Linien des Sonnen- 
-spectrums, vonWollaston entdeckt, sind von Fraunhofer zuerst 
-genau untersucht und gemessen und deshalb unter dem Namen 
-Fraunhofer' sehe Linien bekannt geworden. 
-
-Später sind, und zwar zuerst von Kirchhoff, dann namentlich 
-von Ang ström viel mächtigere Apparate angewendet worden, um die 
-Zerlegung des Lichtes möglichst weit zu treiben. Fig. 6 stellt den 
-
-
-Fig. 6. 
-
-
-von Steinheil für Kirchhoff construirten Apparat mit vier 
-Prismen dar. Am abgetf endeten Ende des Fernrohres A befindet 
-sich ein Schirm mit' einem feinen Spalt, der die feine Lichtlinie 
-bildet, durch die dargestellte kleine Schraube verengert und er- 
-weitert' werden kann, und durch den man däs zu untersuchende 
-
-
-Digltlzed by Google 
-
-
-111 
-
-
-Licht feintreten lässt. Es passirt dann das Fernrohr A, nachher 
-die vier Prismen, endlich das Fernrohr B, und gelangt so zum Auge 
-des Beobachters. In Fig. 7,8,9 sind kleine Stücke von Kirch- 
-hoff's Zeichnung des Sonnenspectrums nachgebildet, aus dem Grün, 
-
-Fig. 7. Fig. 8. 
-
-
-Gelb und Goldgelb, an denen unten durch die chemischen Zeichen 
-Fe(Eisen), Ca (Metall des Kalks), Na (Metall des Natrons), Pb (Blei) 
-und die zugesetzten Linien angezeigt ist, an welchen Stellen die 
-
-Fig. 9. 
-
-
-glühenden Dämpfe dieser Metalle, sei es in den Flammen, sei es im 
-elektrischen Funken, helle Linien zeigen. Die darüber gesetzten 
-Scalentheile lassen erkennen, wie weit diese Bruchstücke der über 
-das ganze Sonnenspectrum ausgedehnten Kirchh off' sehen Zeich- 
-
-
-
-
-
-112 
-
-
-nung auseinander liegen. Schon hier bemerkt man überwiegend 
-viele Eisenlinien. Im ganzen Spectrum fand Kirchhoff nicht 
-weniger als 450. 
-
-Daraus folgt, dass die Atmosphäre der Sonne reichliche Dämpfe 
-von Eisen enthält, was unter anderem einen Schluss auf die über 
-alle Maassen hohe Temperatur ziehen lässt, welche dort herrschen 
-muss. Ausserdem verräth sich in gleicher Weise, wie unsere 
-Figuren 7, 8, 9 Eisen, Calcium, Natrium anzeigen, auch die Anwesen- 
-heit des Wasserstoffs, des Zinks, des Kupfers, der Metalle aus der 
-Magnesia, der Thonerde, der ßaryterde und anderer irdischer 
-Elemente. Dagegen fehlen Blei (s. Fig. 9. Pb.), Gold, Silber, Queck- 
-silber, Zinn, Spiessglanz, Arsen und andere. 
-
-DieSpectra vieler Fixsterne sind ähnlich beschaffen, sie zeigen 
-Systeme feiner Linien, die sich mit denen irdischer Elemente iden- 
-tificiren lassen. In der Atmosphäre des Aldebaran im Stier zeigt 
-sich wiederum Wasserstoff, Eisen, Magnesia, Kalk, Natron, aber 
-auch Quecksilber, Antimon, Wismuth, im «Orionis (Beteigeuze) 
-nach H. C. Vogel das auf Erden seltene Thallium, und so weiter. 
-
-Noch können wir nicht sagen, dass wir alle Stemspectra ge- 
-deutet hätten; viele Fixsterne zeigen eigenthümlich gebänderte 
-Spectra, die wahrscheinlich Gasen angehören, deren Molekeln nicht 
-vollständig durch die hohe Temperatur in ihre elementaren Atome 
-aufgelöst sind. Auch im Spectrum der Sonne finden sich viele 
-Linien, die wir mit solchen irdischer Elemente noch nicht iden- 
-tificiren konnten. Möglich, dass sie von uns unbekannten Stoffen 
-herrühren, möglich auch, dass sie durch die höhere, unseren irdi- 
-schen Hilfsmitteln weit überlegene Temperatur der Sonne bedingt 
-sind. Aber so viel steht schon fest, dass bekannte irdische Elemente 
-durch den Weltraum weit verbreitet sind, vor allen der Stickstoff, 
-der den grösseren Theil unserer Atmosphäre ausmacht, und der 
-Wasserstoff, der Grundstoff des Wassers, welches durch Verbren- 
-nung aus ihm entsteht., Beide fanden sich in den eigentlichen un- 
-auflösbaren Nebelflecken, und diese müssen, wie aus der Unver- 
-änderlichkeit ihrer Gestalt zu schliessen ist, Gebilde von ungeheuren 
-Dimensionen und ungeheurer Entfernung von uns sein. Schon 
-W. Herschel betrachtete sie aus diesem Grunde als unserem Fix- 
-sternsysteme nicht angehörig, sondern als die Erscheinungsweise 
-anderer Milchstrassensysteme. 
+Diese Entschuldigungen, welche ich vorausschicken musste, gelten übrigens nur dem Umstande, dass ich in einer populären Vorlesung ein Thema dieser Art behandle. Die Wissenschaft ist vollständig berechtigt und auch verpflichtet eine solche Untersuchung anzustellen. Für sie handelt es sich um eine ganz bestimmte und gewichtige Frage, die Frage nämlich nach der Existenz von Grenzen für die Tragweite der Naturgesetze, welche den Verlauf alles gegenwärtig Geschehenden beherrschen; ob diese auch in der Vorzeit von jeher gültig gewesen sein können, und ob sie es auch in der Zukunft immer werden sein können, oder ob bei Voraussetzung einer ewig gleichmässigen Gesetzmässigkeit der Natur unsere Rückschlüsse aus den gegenwärtigen Zuständen auf die der Vergangenheit und Zukunft uns notwendig auf unmögliche Zustände und die Notwendigkeit einer Durchbrechung der Naturgesetze, eines Anfanges, der nicht mehr durch die uns bekannten Vorgänge herbeigeführt sein könnte, zurückleiten. Die Anstellung einer solchen Untersuchung über die mögliche oder wahrscheinliche Vorgeschichte der jetzt bestehenden Welt ist also von Seiten der Wissenschaft keine müssige Spekulation, sondern eine Frage über die Grenzen ihrer Methoden und die Tragweite der zur Zeit gefundenen Gesetze.
+
+Vielleicht mag es vermessen erscheinen, dass wir, begrenzt wie wir sind, im Kreise unserer Beobachtungen, räumlich durch unseren Standpunkt auf der kleinen Erde, die nur ein Stäubchen in unserem Milchstrassensystem ist, zeitlich durch die Dauer der kurzen Menschengeschichte, es unternehmen die Gesetze, welche wir aus dem kleinen uns zugänglichen Bereich von Tatsachen herausgelesen haben, geltend zu machen für die ganze Ausdehnung des unermesslichen Raumes und der Zeit von Ewigkeit zu Ewigkeit. Aber all unser Denken und Tun im Grössten wie im Kleinsten ist gegründet auf das Vertrauen zu der unabänderlichen Gesetzmässigkeit der Natur, und dieses Vertrauen hat sich bisher desto mehr gerechtfertigt, je tiefer wir in den Zusammenhang der Naturerscheinungen eindrangen. Und für die Gültigkeit der von uns gefundenen allgemeinen Gesetze durch die weitesten Erstreckungen des Raumes hin hat uns das letzte halbe Jahrhundert wichtige tatsächliche Bestätigungen gebracht.
+
+Voran unter diesen steht das Gesetz der Schwere. Die Himmelskörper schweben, wie Sie alle wissen, und bewegen sich in dem unermesslichen Raume. Verglichen mit den ungeheuren Entfernungen, die zwischen ihnen liegen, sind sie alle, auch die grössten unter ihnen, nur wie Stäubchen von Materie zu betrachten. Auch die uns nächsten Fixsterne erscheinen selbst in den stärksten Vergrösserungen ohne sichtbaren Durchmesser, und wir können sicher sein, dass auch unsere Sonne, von den nächsten Fixsternen aus gesehen, nicht anders als ein unteilbarer lichter Punkt erscheint, da sich die Massen jener Sterne in den Fällen, wo es gelungen ist, sie zu bestimmen, als nicht sehr abweichend von der der Sonne ergeben haben. Trotz dieser ungeheuren Entfernungen aber besteht zwischen ihnen ein unsichtbares Band, welches sie aneinander fesselt und sie in gegenseitige Abhängigkeit bringt. Es ist dies die Gravitationskraft, mit der alle schweren Massen sich gegenseitig anziehen. Wir kennen diese Kraft aus unserer täglichen Erfahrung als Schwere, wenn sie zwischen einem irdischen Körper und der Masse unserer Erde wirksam wird. Die Kraft, welche einen Stein zu Boden fallen macht, ist keine andere als die, welche den Mond zwingt fortdauernd die Erde in ihrer Bahn um die Sonne zu begleiten, und keine andere als die, welche die Erde selbst verhindert in den weiten Raum hinaus zu fliehen und sich von der Sonne zu entfernen.
+
+Sie können sich den Vorgang der Planetenbewegung an einem einfachen mechanischen Modell versinnlichen. Befestigen Sie möglichst hoch an einem Baumast oder an einem aus der Wand herausragenden festen Arme einen seidenen Faden, an dessen unteres Ende Sie, möglichst tief unten, einen kleinen schweren Körper, etwa eine Bleikugel, binden. Wenn Sie diese ruhig hängen lassen, so zieht sie den Faden vertikal nach unten. Dies ist die Gleichgewichtslage der Kugel. Um dieselbe zu bezeichnen und dem Auge fortdauernd sichtbar zu machen, bringen Sie an diese Stelle, wo die Bleikugel im Gleichgewicht zu ruhen strebt, irgend einen feststehenden Körper, etwa einen Erdglobus auf Stativ. Die Bleikugel muss zu dem Ende bei Seite geschoben werden; aber sie legt sich nun dem Globus an, und wenn man sie von ihm fortzieht, so strebt sie wieder zu ihm hin, weil die Schwere sie gegen ihre im Innern des Globus befindliche Gleichgewichtslage hintreibt. Auf welcher Seite des Globus man die Kugel auch von ihm abziehen mag, immer geschieht dasselbe. Diese Kraft, welche die Bleikugel gegen den Globus treibt, vertritt in unserem Modell die Anziehung, welche die Erde gegen den Mond, oder die Sonne gegen die Planeten ausübt. Nachdem Sie sich von den beschriebenen Tatsachen überzeugt haben, versuchen Sie der Bleikugel in einigem Abstande vom Globus eine mässige Wurfbewegung nach der Seite zu geben. Haben Sie die Stärke des Wurfes richtig getroffen, so umschwebt die kleine Kugel in kreisförmiger Bahn die grosse und kann lange Zeit in dieser Bewegung beharren, gerade so, wie der Mond in seinem Umlaufe um die Erde, die Planeten in dem um die Sonne beharren. Nur werden allerdings in unserem Modell die Kreise, welche die Bleikugel zieht, mit der Zeit immer enger und enger, weil wir widerstehende Kräfte, Luftwiderstand, Steifigkeit des Fadens, Reibung, nicht in dem Maasse ausschliessen können, wie sie in dem Planetensysteme ausgeschlossen sind.
+
+Bei genau kreisförmiger Bahn um den anziehenden Mittelpunkt wirkt die anziehende Kraft auf Planeten oder Bleikugel natürlich immer in gleicher Stärke. Dann ist es gleichgültig, nach welchem Gesetz die Kraft ab- oder zunehmen würde in anderen Abständen vom Zentrum, in welche der bewegte Körper ja gar nicht kommt. Ist aber der ursprüngliche Stoss nicht von richtiger Stärke gewesen, so werden in beiden Fällen die Bahnen nicht kreisförmig, sondern elliptisch von der Form der in Fig. 1 gezeichneten krummen Linie. Aber diese Ellipsen liegen in beiden Fällen verschieden gegen das anziehende Zentrum. In unserem Modell wird die anziehende Kraft desto stärker, je weiter wir die Bleikugel von ihrer Gleichgewichtslage entfernen. Die Ellipse der Bahn erhält unter diesen Umständen eine solche Lage gegen das anziehende Zentrum, dass dieses in den Mittelpunkt _c_ der Ellipse fällt. Für den Planeten wird im Gegenteil die anziehende Kraft desto schwächer, je weiter er sich von dem anziehenden Körper entfernt, und dies bewirkt, dass eine Ellipse beschrieben wird, deren einer Brennpunkt in das Anziehungszentrum fällt. Die beiden Brennpunkte _a_ und _b_ sind zwei symmetrisch gegen die Enden der Ellipse hin liegende Punkte, die durch die Eigenschaft ausgezeichnet sind, dass die Summe ihrer Abstände _am_ + _bm_ für jeden beliebigen Punkt in der Ellipse die gleiche Grösse hat.
+
+[Fig. 1.]()
+
+Dass die Planetenbahnen Ellipsen von solcher Art sind, hatte Kepler erkannt, und da, wie das eben angeführte Beispiel zeigt, die Form und Lage der Bahn von dem Gesetze, nach welchem die Grösse der anziehenden Kraft sich ändert, abhängt, so konnte Newton aus der Form der Planetenbahnen das bekannte Gesetz der Gravitationskraft, welche die Planeten zur Sonne zieht, ableiten, wonach diese Kraft bei wachsender Entfernung in dem Maasse abnimmt, wie das Quadrat der Entfernung wächst. Die irdische Schwere musste diesem Gesetze sich einfügen, und Newton hatte die bewundernswerte Entsagung seine folgenschwere Entdeckung erst zu veröffentlichen, nachdem auch hierfür eine direkte Bestätigung gelungen war, als sich nämlich aus den Beobachtungen nachweisen liess, dass die Kraft, welche den Mond gegen die Erde zieht, gerade in demjenigen Verhältniss zur Schwere eines irdischen Körpers steht, wie es das von ihm erkannte Gesetz forderte.
+
+Im Laufe des 18. Jahrhunderts stiegen die Mittel der mathematischen Analyse und die Methoden der astronomischen Beobachtung so weit, dass alle die verwickelten Wechselwirkungen, welche zwischen allen Planeten und allen ihren Trabanten durch die gegenseitige Attraktion jedes gegen jeden erzeugt werden, und welche die Astronomen als Störungen bezeichnen, --- Störungen nämlich der einfachen elliptischen Bewegung um die Sonne, die jeder von ihnen machen würde, wenn die anderen nicht da wären ---, dass alle diese Wechselwirkungen aus Newtons Gesetze theoretisch vorausbestimmt und mit den wirklichen Vorgängen am Himmel genau verglichen werden konnten. Die Ausbildung dieser Theorie der Planetenbewegungen bis in das Einzelnste war, wie schon erwähnt, hauptsächlich das Verdienst von Laplace. Die Übereinstimmung zwischen der Theorie, die aus dem so einfachen Gesetze der Gravitationskraft entwickelt war, und den äusserst komplizirten und mannigfaltigen Erscheinungen, die daraus folgten, war eine so vollständige und so genaue, wie sie bisher in keinem anderen Zweige menschlichen Wissens erreicht worden ist. Kühner geworden durch diese Übereinstimmung schloss man bald, dass da, wo kleine Mängel derselben sich konstant herausstellten, noch unbekannte Ursachen wirksam sein müssten. So wurde aus Abweichungen zwischen der wirklichen und der berechneten Bewegung des Uranus von Bessel die Vermutung hergeleitet, dass ein weiterer Planet existire. Von Leverrier und Adams wurde der Ort dieses Planeten berechnet, und so der Neptun, der entfernteste der bis jetzt bekannten, gefunden.
+
+Aber nicht bloss im Bereiche der Attraktionskraft unserer Sonne zeigte sich das Gravitationsgesetz als wirksam; am Fixsternhimmel erkannte man, dass auch Doppelsterne in elliptischen Bahnen um einander kreisen, dass auch zwischen ihnen dasselbe Gesetz der Gravitation wirksam sei, welches unser Planetensystem beherrscht. Von einzelnen derselben kennen wir die Entfernung. Der nächste von ihnen α im Sternbild des Centauren ist 226000 Mal weiter von der Sonne entfernt, als die Erde. Das Licht, welches die ungeheure Strecke von 40000 Meilen in der Sekunde durchläuft, welches in 8 Minuten von der Sonne zur Erde gelangt, braucht 3 Jahre um von α Centauri zu uns zu kommen. Die verfeinerten Messungsmethoden der neueren Astronomie haben es möglich gemacht Entfernungen von Sternen zu bestimmen, zu deren Durchmessung das Licht 35 Jahre braucht, wie zum Beispiel vom Polarstern: aber das Gravitationsgesetz zeigt sich, die Bewegungen von Doppelsternen beherrschend, auch noch in solchen Tiefen des Sternenhimmels, an deren Ausmessung bisher die uns zu Gebote stehenden Messungsmethoden gescheitert sind.
+
+Auch hier hat die Kenntniss des Gravitationsgesetzes schon zur Entdeckung neuer Körper geführt, wie im Falle des Neptun. Peters in Altona fand in Bestätigung einer ebenfalls schon von Bessel ausgesprochenen Vermutung, dass der Sirius, der glänzendste unserer Fixsterne, in elliptischer Bahn sich um ein unsichtbares Zentrum bewege. Er musste einen dunkeln Begleiter haben; und in der Tat liess sich dieser nach Aufstellung des ausgezeichneten und mächtigen Fernrohres der Universität Cambridge in Nordamerika auch durch das Auge entdecken. Er ist nicht ganz dunkel, aber so lichtschwach, dass er nur durch die allervollkommensten Instrumente gesehen werden kann. Die Masse des Sirius ergiebt sich dabei gleich 13,76, die des Begleiters zu 6,71 Sonnenmassen, ihre gegenseitige Entfernung gleich 37 Erdbahnhalbmesser, also etwas grösser, als die Entfernung des Neptun von der Sonne.
+
+Ein anderer Fixstern, der Procyon, ist im gleichen Falle, wie der Sirius, aber sein Begleiter ist noch nicht gesehen.
+
+Sie sehen, dass wir in der Gravitation eine aller schweren Materie gemeinsame Eigenschaft entdeckt haben, die sich nicht auf die Körper unseres Systemes beschränkt, sondern so weit hinaus in die Himmelsräume sich zu erkennen giebt, als unsere Beobachtungsmittel bisher Vordringen konnten.
+
+Aber nicht nur diese allgemeine Eigenschaft aller Masse kommt den entferntesten Himmelskörpern wie den irdischen Körpern zu, sondern die Spectralanalyse hat uns gelehrt, dass eine grosse Anzahl wohlbekannter irdischer Elemente in den Atmosphären der Fixsterne und selbst der Nebelflecke wiederkehren.
+
+Sie wissen, dass eine feine helle Linie, durch ein Glasprisma betrachtet, als ein farbiger Streif, am einen Rande rot und gelb, am anderen blau und violett, in der Mitte grün erscheint. Man nennt ein solches farbiges Bild ein Farbenspektrum; der Regenbogen ist ein solches, durch Lichtbrechung, wenn auch nicht gerade durch ein Prisma, erzeugt; und er zeigt daher die Reihe der Farben, welche durch eine solche Zerlegung aus dem weissen Sonnenlicht ausgeschieden werden können. Die Erzeugung des prismatischen Spektrum beruht darauf, dass das Licht der Sonne und der meisten glühenden Körper aus verschiedenen Arten von Licht zusammengesetzt ist, welche unserem Auge verschieden farbig erscheinen, und welche bei der Brechung der Strahlen im Prisma von einander getrennt werden.
+
+Macht man nun einen festen oder flüssigen Körper glühend heiss, so dass er leuchtet, so ist das Spektrum, welches sein Licht giebt, ähnlich dem Regenbogen, ein breiter farbiger Streifen ohne Unterbrechungen mit der bekannten Farbenreihe Rot, Gelb, Grün, Blau, Violett und in keiner Weise charakteristisch für die Beschaffenheit des Körpers, der das Licht aussendet.
+
+Anders verhält es sich, wenn ein glühendes Gas oder ein glühender Dampf, d. h. ein durch Wärme in gasförmigen Zustand gebrachter Stoff, das Licht aussendet. Dann besteht nämlich das Spektrum eines solchen Körpers aus einer oder einigen oder auch sehr vielen, aber durchaus getrennten hellen Linien, deren Ort und Gruppirung im Spektrum charakteristisch ist für die Substanzen, aus denen das Gas oder der Dampf besteht, so dass man durch die spektrale Analyse des Lichtes erkennen kann, welches die chemische Zusammensetzung des glühenden gasförmigen Körpers ist. Solche Gasspektra zeigen uns im Weltenraume viele Nebelflecke, und zwar Spektra, welche die hellen Linien glühenden Wasserstoffs und Stickstoffs zeigen und daneben meist noch eine Linie, die bisher in dem Spektrum keines irdischen Elementes wiedergefunden ist. Abgesehen von dem Nachweis zweier wohlbekannter irdischer Elemente war diese Entdeckung auch deshalb von grösster Wichtigkeit, weil sie es war, die den ersten unzweifelhaften Nachweis dafür gab, dass die kosmischen Nebel meistenteils keine Haufen feiner Sterne sind, sondern dass der grösste Teil ihres Lichtes wirklich von gasigen Körpern ausgesendet wird.
+
+In anderer Weise erscheinen die Gasspektra, wenn das Gas vor einem glühenden festen Körper liegt, dessen Temperatur viel höher ist, als die des Gases. Dann sieht der Beobachter das continuirliche Spektrum eines festen Körpers, dieses aber durchschnitten von feinen dunkeln Linien, die gerade an den Orten sichtbar werden, wo das Gas allein, vor dunklem Hintergrunde gesehen, helle Linien zeigen würde. Dass beide Erscheinungsweisen der Gasspektra sich notwendig bedingen, hat Kirchhoff nachgewiesen. Man kann deshalb auch aus solchen dunkeln Linien im Spektrum erkennen, welche Gase sich vor dem glühenden Körper befinden. Von dieser Art ist nun das Spektrum der Sonne und das einer grossen Anzahl von Fixsternen. Die dunkeln Linien des Sonnenspektrums, von Wollaston entdeckt, sind von Fraunhofer zuerst genau untersucht und gemessen und deshalb unter dem Namen Fraunhofer'sche Linien bekannt geworden.
+
+[Fig. 2.]()
+
+Später sind, und zwar zuerst von Kirchhoff, dann namentlich von Angström viel mächtigere Apparate angewendet worden, um die Zerlegung des Lichtes möglichst weit zu treiben. Fig. 2 stellt den von Steinheil für Kirchhoff konstruirten Apparat mit vier Prismen dar. Am abgewendeten Ende des Fernrohres _A_ befindet sich ein Schirm mit einem feinen Spalt, der die feine Lichtlinie bildet, durch die dargestellte kleine Schraube verengert und erweitert werden kann, und durch den man das zu untersuchende Licht eintreten lässt. Es passirt dann das Fernrohr _A_, nachher die vier Prismen, endlich das Fernrohr _B_, und gelangt so zum Auge des Beobachters. In Fig. 7, 8, 9 sind kleine Stücke von Kirchhoffs Zeichnung des Sonnenspektrums nachgebildet, aus dem Grün, Gelb und Goldgelb, an denen unten durch die chemischen Zeichen Fe (Eisen), Ca (Metall des Kalks), Na (Metall des Natrons), Pb (Blei) und die zugesetzten Linien angezeigt ist, an welchen Stellen die glühenden Dämpfe dieser Metalle, sei es in den Flammen, sei es im elektrischen Funken, helle Linien zeigen. Die darüber gesetzten Scalenteile lassen erkennen, wie weit diese Bruchstücke der über das ganze Sonnenspektrum ausgedehnten Kirchhoff'schen Zeichnung auseinander liegen. Schon hier bemerkt man überwiegend viele Eisenlinien. Im ganzen Spektrum fand Kirchhoff nicht weniger als 450.
+
+[Fig. 3.]()
+
+[Fig. 4.]()
+
+[Fig. 5.]()
+
+Daraus folgt, dass die Atmosphäre der Sonne reichliche Dämpfe von Eisen enthält, was unter anderem einen Schluss auf die über alle Maassen hohe Temperatur ziehen lässt, welche dort herrschen muss. Ausserdem verrät sich in gleicher Weise, wie unsere Figuren 3, 4, 5 Eisen, Calcium, Natrium anzeigen, auch die Anwesenheit des Wasserstoffs, des Zinks, des Kupfers, der Metalle aus der Magnesia, der Tonerde, der Baryterde und anderer irdischer Elemente. Dagegen fehlen Blei (s. Fig. 5. Pb.), Gold, Silber, Quecksilber, Zinn, Spiessglanz, Arsen und andere.
+
+Die Spektra vieler Fixsterne sind ähnlich beschaffen, sie zeigen Systeme feiner Linien, die sich mit denen irdischer Elemente identifiziren lassen. In der Atmosphäre des Aldebaran im Stier zeigt sich wiederum Wasserstoff, Eisen, Magnesia, Kalk, Natron, aber auch Quecksilber, Antimon, Wismut, im α Orionis (Beteigeuze) nach H. C. Vogel das auf Erden seltene Thallium, und so weiter.
+
+Noch können wir nicht sagen, dass wir alle Sternspektra gedeutet hätten; viele Fixsterne zeigen eigentümlich gebänderte Spektra, die wahrscheinlich Gasen angehören, deren Molekeln nicht vollständig durch die hohe Temperatur in ihre elementaren Atome aufgelöst sind. Auch im Spektrum der Sonne finden sich viele Linien, die wir mit solchen irdischer Elemente noch nicht identifiziren konnten. Möglich, dass sie von uns unbekannten Stoffen herrühren, möglich auch, dass sie durch die höhere, unseren irdischen Hilfsmitteln weit überlegene Temperatur der Sonne bedingt sind. Aber so viel steht schon fest, dass bekannte irdische Elemente durch den Weltraum weit verbreitet sind, vor allen der Stickstoff, der den grösseren Teil unserer Atmosphäre ausmacht, und der Wasserstoff, der Grundstoff des Wassers, welches durch Verbrennung aus ihm entsteht. Beide fanden sich in den eigentlichen unauflösbaren Nebelflecken, und diese müssen, wie aus der Unveränderlichkeit ihrer Gestalt zu schliessen ist, Gebilde von ungeheuren Dimensionen und ungeheurer Entfernung von uns sein. Schon W. Herschel betrachtete sie aus diesem Grunde als unserem Fixsternsysteme nicht angehörig, sondern als die Erscheinungsweise anderer Milchstrassensysteme.
 
 Und Weiteres haben wir durch die Spectralanalyse über unsere 
 Sonne erfahren, wodurch sie den uns bekannten Verhältnissen 
 doch einigermaassen näher tritt, als es früher scheinen mochte 
-
-
-
-
-
-1 13 
-
 
 Sie wissen, dass sie ein ungeheurer Ball, im Durchmesser 112 Mal 
 grösser als die Erde ist. Was wir als ihre Oberfläche erblicken, 
@@ -461,12 +120,6 @@ sogar bis zu 8 und 9 Meilen.
 
 Helmholtz, Vorträge. TII, 8 
 
-
-
-
-
-114 
-
 Abbildung eines solchen Fleckes nach Padre Secchi, wie er bei 
 sehr starker Vcrgrösserung erscheint. Ihr Durchmesser beträgt 
 oft viele tausend Meilen, so dass zwei oder drei Erden darin neben 
@@ -480,8 +133,6 @@ Monate lang unter langsamer Veränderung bestehen, ehe sie sich
 
 wieder auflösen, und können bis dahin mehrere Dotationen des 
 
-' • 
-
 Sonnenkörpers mitmachen. Zuweilen treten aber auch sehr schnelle 
 Devolutionen in ihnen auf. Dass der Kern derselben tiefer liegt 
 als der Dand des umgebenden Halbschattens, geht aus der gegen- 
@@ -492,12 +143,6 @@ solchen Fleckes dar, der sich dem Sonnenrande nähert.
 
 Gerade an dem Dande dieser Flecke findet man die spectro- 
 skopischen Zeichen heftigster Bewegung und in ihrer Nähe oft 
-
-
-Digltlzed by Google 
-
-
-1 1 5 
 
 grosse Protuberanzen; verhältnissmässig oft zeigen sie wirbelnde 
 Bewegung und eine auf eine solche hindeutende Zeichnung. Man 
@@ -515,7 +160,6 @@ sind, beim Aufsteigen selbst aber. sich ausdehnen und theils durch
 die Dehnung, theils durch die Strahlung gegen den Weltraum ge- 
 kühlt werden müssen. Dabei werden sie ihre schwerflüchtigeren 
 
-% 
 
 Bestandtheile als Nebel oder Wolken ausscheiden. Diese Kühlung 
 muss natürlich immer nur als eine verhältnissmässige aufgefasst 
@@ -539,15 +183,6 @@ grösser und gewaltsamer.
 
 Wir wollen jetzt übergehen zu der Frage nach der Beständig- 
 keit des jetzigen Zustandes unseres Systems. Lange Zeit hindurch 
-
-8* 
-
-
-
-
-
-116 
-
 
 wunle ziemlich allgemein die Ansicht vorgetragen, dasselbe sei, in 
 seinen wesentlichen Eigentümlichkeiten wenigstens, absolut unver- 
@@ -592,12 +227,6 @@ stand, als unelastischen Stoss.
 
 So kommt das Grundgesetz der Mechanik, wonach jede Bewegung 
 eines Körpers, auf den keine Kraft einwirkt, ewig in gerader Linie 
-
-
-
-
-
-117 
 
 
 mit unveränderter Geschwindigkeit fortgeht, niemals zur ungestörten 
@@ -646,13 +275,6 @@ Bruchstücke schwerer Masse von der Grösse riesiger Steine bis
 zu der von Staub noch jetzt, wenigstens in denTlieilen des Raumes, 
 welche unsere Erde durchläuft, überall verbreitet. 
 
-
-
-
-
-118 
-
-
 Was zunächst den Lichtäther betrifft, so ist die Existenz des- 
 selben nicht zweifelhaft zu nennen. Dass das Licht und die 
 strahlende Wärme eine sich wellenförmig ausbreitende Bewegung 
@@ -696,14 +318,6 @@ fortzusetzen. So wie sich die Kraft ihrer Bewegung vermindert
 *) Die Grundlagen würden dieser Rechnung allerdings entzogen wer- 
 den, wenn sich die Maxwel l'sche Hypothese bestätigen sollte, wonach 
 das Licht auf elektrischen und magnetischen Oscillationen beruht. 
-
-
-
-
-
-119 
-
-• 
 
 geben sie der Anziehung der Sonne um ein Entsprechendes nach, 
 und nähern sich dieser. Dauert der Widerstand fort, so werden 
@@ -750,9 +364,6 @@ Eines der bedeutendsten Ergebnisse der neueren Physik, des-
 sen thatsächlicheu Nachweis wir vorzugsweise dem Engländer 
 
 
-120 
-
-
 Joule*) verdanken, ist es, dass die in einem solchen Falle 
 entwickelte Wärmemenge genau proportional ist der zu dem 
 Ende aufgewendeten mechanischen Arbeit. Messen wir mit den 
@@ -796,12 +407,6 @@ dert Meilen von seinen Nachbarn entfernt ist. Aber die Erde be-
 
 
 *) Siehe Heft II, S. 1G6. 
-
-
-
-
-
-121 
 
 
 Durchmesser, fegt also in jeder Secunde 9 Millionen Cubikmeilen 
@@ -850,13 +455,6 @@ sich in Anspruch nehmen würde, wenn wir nicht fänden, dass schon
 längst, von ganz anderen Betrachtungen ausgehend, unsere Vor- 
 gänger zu ganz derselben Hypothese gekommen sind. 
 
-
-
-
-
-122 
-
-
 Sie wissen, dass eine beträchtliche Anzahl von Planeten um 
 die Sonne kreisen; ausser den acht grösseren, Merkur, Venus, Erde, 
 Mars, Jupiter, Saturn, Uranus, Neptun, laufen in dem Zwischen- 
@@ -899,15 +497,6 @@ kreis unserer Sonne gerathene Gebilde anzusehen.
 
 Die Zahl der übereinstimmenden Fälle bei den Planeten und 
 ihren Trabanten ist zu gross, als dass man sie für Zufall halten 
-
-1 
-
-
-
-
-
-123 
-
 
 könnte. Man muss nach einer Ursache dieser Uebereinstimmung 
 tragen, und diese kann nur in einem ursprünglichen Zusammen- 
@@ -952,13 +541,6 @@ dass inzwischen auch die gasartig oder staubartig zerstreute Masse
 des Weltraumes sich unter dem Einfluss der Attractionskraft und 
 Krystallisationskraft ihrer Elemente in grössere Brockel vereinigt 
 hat, als deren im Anfang existirten. 
-
-
-
-
-
-124 
-
 
 Die Sternschnuppenfälle, als die jetzt vor sich gehenden Bei- 
 spiele des Processes, der die Weltkörper gebildet hat, sind noch 
@@ -1005,13 +587,6 @@ nische Arbeit. Dass Wärme im Stande sei, eine solche zu leisten,
 lehrt uns jede Dampfmaschine. In der Tliat treibt die Sonne hier 
 auf Erden eine Art von Dampfmaschine, deren Leistungen denen 
 
-
-
-
-
-125 
-
-
 der künstlich construirten Maschinen bei weitem überlegen sind. 
 Die Wassercirculation in der Atmosphäre nämlich schafft, wie schon 
 erwähnt, das aus den warmen tropischen Meeren verdampfende 
@@ -1049,9 +624,6 @@ nung, unzerstörbar, unvermehrbar, ewig und unveränderlich, wie die
 Materie. Es ist, als hätte Goethe eine Ahnung davon gehabt, 
 wenn er den Erdgeist als den Vertreter der Naturkraft von sich 
 sagen lässt: 
-
-
-126 
 
 
 In Lebensflutlien, im Thatensturm 
@@ -1109,12 +681,6 @@ ganz ausserordentlich grosse Wärmemengen erzeugen können. Die
 Kraft aber, welche diese grossen Geschwindigkeiten erzeugt hat, 
 
 
-
-
-
-127 
-
-
 ist die Gravitation. Wir kennen diese Kraft schon als eine wirk- 
 same Triebkraft an der Oberfläche unseres Planeten, wo sie als 
 irdische Schwere erscheint. Wir wissen, dass ein von der Erde 
@@ -1162,13 +728,6 @@ der aber vielleicht nicht unbedeutend sein mag.
 
 Wenn nun keine gegenwärtige uns bekannte Kraftleistung 
 
-
-
-
-
-128 
-
-
 ausreicht, die Ausgabe der Sonnenwärme zu decken, so muss die 
 Sonne von alter Zeit her einen Vorrath von Wärme haben, den sie 
 allmälig ausgiebt. Aber woher dieser Vorratli? Wir wissen schon, 
@@ -1208,20 +767,14 @@ Dichtigkeit der Erde.
 
 Wir dürfen es deshalb wohl für sehr wahrscheinlich halten, 
 dass die Sonne noch fortschreiten wird in ihrer Verdichtung, und 
-wenn sie auch nur bis zur Dichtigkeit der Erde gelangt, — wahr- 
+wenn sie auch nur bis zur Dichtigkeit der Erde gelangt, --- wahr- 
 scheinlich aber wird sie wegen des ungeheuren Druckes in ihrem 
 
 
 *) Siehe die Nachweise zu diesen Zahlen in Heft II. dieser Vorträge 
 S. 120 u. 134. 
 
-
-
-
-
-129 
-
-Inneren viel dichter werden, — so würde dies neue Wärmemengen 
+Inneren viel dichter werden, --- so würde dies neue Wärmemengen 
 entwickeln, welche genügen würden für noch weitere 17 Millionen 
 J alire dieselbe Intensität des Sonnenscheins zu unterhalten, welche 
 jetzt die Quelle alles irdischen Lebens ist. 
@@ -1269,13 +822,6 @@ Glühlicht, habe.
 
 Helmholt z, Vorträge. III. 9 
 
-
-
-
-
-130 
-
-
 machen, sich dann nach allen Seiten hin mit anderen Entdeckungen 
 in Wechselbeziehungen setzen und in ihren Folgerungen bestätigen, 
 bis sie uns vertraut werden. Dazu hat in diesem Falle nun noch 
@@ -1313,13 +859,6 @@ nach J. IlerscheUs neuestem Kataloge über 5000 Nebelflecke, von
 
 Fig. 13. 
 
-
-Digltized by Google 
-
-
-131 
-
-
 denen die hinreichend lichtstarken meistens einFarbenspectrumvon 
 feinen hellen Linien geben, wie sie in den Spectren der glühenden 
 Gase erscheinen. Die Nebelflecke sind tlieils rundliche Gebilde, soge- 
@@ -1336,13 +875,6 @@ Fig. 15. Fig. 16.
 
 Fläche leuchtend, während die Fixsterne immer nur als leuchtende 
 Punkte erscheinen. 
-
-
-Digülzed by Google 
-
-
-132 
-
 
 In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 15 
 und Fig. 10 (a.v. S.) aus dem Schützen und Fuhrmann. Man unter- 
