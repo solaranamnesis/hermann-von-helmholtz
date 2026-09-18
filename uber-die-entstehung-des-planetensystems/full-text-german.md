@@ -66,120 +66,21 @@ Die Spektra vieler Fixsterne sind ähnlich beschaffen, sie zeigen Systeme feiner
 
 Noch können wir nicht sagen, dass wir alle Sternspektra gedeutet hätten; viele Fixsterne zeigen eigentümlich gebänderte Spektra, die wahrscheinlich Gasen angehören, deren Molekeln nicht vollständig durch die hohe Temperatur in ihre elementaren Atome aufgelöst sind. Auch im Spektrum der Sonne finden sich viele Linien, die wir mit solchen irdischer Elemente noch nicht identifiziren konnten. Möglich, dass sie von uns unbekannten Stoffen herrühren, möglich auch, dass sie durch die höhere, unseren irdischen Hilfsmitteln weit überlegene Temperatur der Sonne bedingt sind. Aber so viel steht schon fest, dass bekannte irdische Elemente durch den Weltraum weit verbreitet sind, vor allen der Stickstoff, der den grösseren Teil unserer Atmosphäre ausmacht, und der Wasserstoff, der Grundstoff des Wassers, welches durch Verbrennung aus ihm entsteht. Beide fanden sich in den eigentlichen unauflösbaren Nebelflecken, und diese müssen, wie aus der Unveränderlichkeit ihrer Gestalt zu schliessen ist, Gebilde von ungeheuren Dimensionen und ungeheurer Entfernung von uns sein. Schon W. Herschel betrachtete sie aus diesem Grunde als unserem Fixsternsysteme nicht angehörig, sondern als die Erscheinungsweise anderer Milchstrassensysteme.
 
-Und Weiteres haben wir durch die Spectralanalyse über unsere 
-Sonne erfahren, wodurch sie den uns bekannten Verhältnissen 
-doch einigermaassen näher tritt, als es früher scheinen mochte 
+Und Weiteres haben wir durch die Spektralanalyse über unsere Sonne erfahren, wodurch sie den uns bekannten Verhältnissen doch einigermaassen näher tritt, als es früher scheinen mochte Sie wissen, dass sie ein ungeheurer Ball, im Durchmesser 112 Mal grösser als die Erde ist. Was wir als ihre Oberfläche erblicken, dürfen wir als eine Schicht glühenden Nebels betrachten, welche, nach den Erscheinungen der Sonnenflecke zu schliessen, eine Tiefe von annähernd 100 Meilen hat. Diese Nebelschicht, welche nach aussen hin fortdauernd Wärme verliert, und also jedenfalls kühler ist als die inneren Massen der Sonne, ist dennoch heisser als alle unsere irdischen Flammen, heisser selbst als die glühenden Kohlenspitzen der elektrischen Lampe, welche das Maximum der durch irdische Hilfsmittel zu erreichenden Temperatur geben. Dies kann mit Sicherheit nach dem von Kirchhoff erwiesenen Gesetze für die Strahlung undurchsichtiger Körper aus der überlegenen Lichtintensität der Sonne geschlossen werden. Die ältere Annahme, wonach die Sonne ein dunkler kühler Körper, umgeben von einer nur nach aussen Wärme und Licht strahlenden Photosphäre sein sollte, enthält eine physikalische Unmöglichkeit.
 
-Sie wissen, dass sie ein ungeheurer Ball, im Durchmesser 112 Mal 
-grösser als die Erde ist. Was wir als ihre Oberfläche erblicken, 
-dürfen wir als eine Schicht glühenden Nebels betrachten, welche, 
-nach den Erscheinungen der Sonnenflecke zu schliessen, eine Tiefe 
-von annähernd 100 Meilen hat. Diese Nebelschicht, welche nach 
-aussen hin fortdauernd Wärme verliert, und also jedenfalls kühler 
-ist als die inneren Massen der Sonne, ist dennoch heisser als 
-alle unsere irdischen Flammen, heisser selbst als die glühenden 
-Kohlenspitzen der1 elektrischen Lampe ^ welche das Maximum der 
-durch irdische Hilfsmittel zu erreichenden Temperatur geben. Dies 
-kann mit Sicherheit nach dem von Kirchhoff erwiesenen Gesetze 
-für die Strahlung undurchsichtiger Körper aus der überlegenen 
+Nach aussen von der undurchsichtigen Photosphäre erscheint rings um den Sonnenkörper eine Schicht durchsichtiger Gase, welche heiss genug sind, um im Spektrum helle farbige Linien zu zeigen, und deshalb als Chromosphäre bezeichnet werden. Sie zeigen die hellen Linien des Wasserstoffs, des Natrium, Magnesium, Eisen. In diesen Gas- und Nebelschichten der Sonne finden ungeheure Stürme statt, an Ausdehnung und Geschwindigkeit denen unserer Erde in ähnlichem Maasse überlegen, wie die Grösse der Sonne der der Erde. Ströme glühenden Wasserstoffs werden in Form von riesigen Springbrunnen oder züngelnden Flammen mit darüber schwebenden Rauchwolken viele tausend Meilen hoch emporgeblasen.* Früher konnte man diese Gebilde nur zur Zeit der totalen Sonnenfinsternisse als die sogenannten rosigen Protuberanzen der Sonne sehen. Jetzt ist durch die Herren Jansen und Lockyer eine Methode gefunden worden, um sie mit Hilfe des Spektroskopes alltäglich zu beobachten.
 
+Andererseits findet man in der Regel auch einzelne dunklere Stellen, die sogenannten Sonnenflecken, auf der Oberfläche der Sonne, die schon von Galilei gesehen worden sind. Sie sind trichterförmig vertieft, die Wände des Trichters sind weniger dunkel als die tiefste Stelle, der Kern. Fig. 6 (a. f. S.) zeigt eine Abbildung eines solchen Fleckes nach Padre Secchi, wie er bei sehr starker Vergrösserung erscheint. Ihr Durchmesser beträgt oft viele tausend Meilen, so dass zwei oder drei Erden darin neben einander liegen könnten. Diese Flecken können Wochen und Monate lang unter langsamer Veränderung bestehen, ehe sie sich wieder auflösen, und können bis dahin mehrere Rotationen des Sonnenkörpers mitmachen. Zuweilen treten aber auch sehr schnelle Revolutionen in ihnen auf. Dass der Kern derselben tiefer liegt als der Rand des umgebenden Halbschattens, geht aus der gegenseitigen Verschiebung beider hervor, wenn sie sich dem Sonnenrande nähern und deshalb in sehr schräger Richtung gesehen werden. Fig. 7 stellt in 1 bis 5 das verschiedene Ansehen eines solchen Fleckes dar, der sich dem Sonnenrande nähert.
 
-Lichtintensität der Sonne geschlossen werden. Die ältere Annahme, 
-wonach die Sonne ein dunkler kühler Körper, umgeben von einer 
-nur nach aussen Wärme und Licht strahlenden Photosphäre sein 
-sollte, enthält eine physikalische Unmöglichkeit. 
+*) Bis zu 15000 geogr. Meilen nach Herrn H. C. Vogels Beobachtungen in Bothkamp. Die spektroskopische Verschiebung der Linien zeigte Geschwindigkeiten bis zu 4 oder 5 Meilen in der Sekunde, nach Lockyer sogar bis zu 8 und 9 Meilen.
 
-Nach aussen von der undurchsichtigen Photosphäre erscheint 
-rings um den Sonnenkörper eine Schicht durchsichtiger Gase, 
-welche heiss genug sind, um im Spectrum helle farbige Linien zu 
-zeigen, und deshalb als Chromosphäre bezeichnet werden. Sie 
-zeigen die hellen Linien des Wasserstoffs, des Natrium, Magnesium, 
-Eisen. In diesen Gas- und Nebelschichten der Sonne finden un- 
-geheure Stürme statt, an Ausdehnung und Geschwindigkeit denen 
-unserer Erde in ähnlichem Maasse überlegen, wie die Grösse der 
-Sonne der der Erde. Ströme glühenden Wasserstoffs werden in Form 
-von riesigen Springbrunnen oder züngelnden Flammen mit darüber 
-schwebenden Rauchwolken viele tausend Meilen hoch empor- 
-geblasen*). Früher konnte man diese Gebilde nur zur Zeit der 
-totalen Sonnenfinsternisse als die sogenannten rosigen Protube- 
-ranzen der Sonne sehen. Jetzt ist durch die Herren Jansen und 
-Lockyer eine Methode gefunden worden, um sie mit Hilfe des 
-Spectroskopes alltäglich zu beobachten. 
+[Fig. 6.]()
 
-Andererseits findet man in der Regel auch einzelne dunklere 
-Stellen, die sogenannten Sonnen flecken, auf der Oberfläche der 
-Sonne, die schon von Galilei gesehen worden sind. Sie sind 
-trichterförmig vertieft, die Wände des Trichters sind weniger 
-dunkel als die tiefste Stelle, der Kern. Fig. 10 (a. f. S.) zeigt eine 
+Gerade an dem Rande dieser Flecke findet man die spektroskopischen Zeichen heftigster Bewegung und in ihrer Nähe oft grosse Protuberanzen; verhältnissmässig oft zeigen sie wirbelnde Bewegung und eine auf eine solche hindeutende Zeichnung. Man kann sie für Stellen halten, wo die kühler gewordenen Gase aus den äusseren Schichten der Sonnenatmosphäre herabsinken und vielleicht auch lokale oberflächliche Abkühlungen der Sonnenmasse selbst hervorbringen. Zur Erklärung dieser Erscheinungen muss man bedenken, dass die von dem heissen Sonnenkörper neu aufsteigenden Gase mit Dämpfen schwer flüchtiger Metalle überladen sind, beim Aufsteigen selbst aber sich ausdehnen und teils durch die Dehnung, teils durch die Strahlung gegen den Weltraum gekühlt werden müssen. Dabei werden sie ihre schwerflüchtigeren Bestandteile als Nebel oder Wolken ausscheiden. Diese Kühlung muss natürlich immer nur als eine verhältnissmässige aufgefasst werden; ihre Temperatur bleibt wahrscheinlich immer noch höher als alle irdisch erreichbaren Temperaturen. Wenn nun die obersten von schwereren Dämpfen befreiten und am meisten gekühlten Schichten niedersinken, werden sie nebelfrei bis zum Sonnenkörper bleiben können. Als Vertiefungen erscheinen sie, weil rings umher die bis zu 100 Meilen hohen Schichten glühenden Nebels liegen.
 
+[Fig. 7.]()
 
-*) Bis zu 15 000 geogr. Meilen nach Herrn H. C. Vogel's Beobach- 
-tungen inBothkamp. Die spectroskopische Verschiebung der Linien zeigte 
-Geschwindigkeiten bis zu 4 oder 5 Meilen in der Secunde, nach Lockyer 
-sogar bis zu 8 und 9 Meilen. 
-
-Helmholtz, Vorträge. TII, 8 
-
-Abbildung eines solchen Fleckes nach Padre Secchi, wie er bei 
-sehr starker Vcrgrösserung erscheint. Ihr Durchmesser beträgt 
-oft viele tausend Meilen, so dass zwei oder drei Erden darin neben 
-einander liegen könnten. Diese Flecken können \\ ochen und 
-
-
-Fig. 10. 
-
-
-Monate lang unter langsamer Veränderung bestehen, ehe sie sich 
-
-wieder auflösen, und können bis dahin mehrere Dotationen des 
-
-Sonnenkörpers mitmachen. Zuweilen treten aber auch sehr schnelle 
-Devolutionen in ihnen auf. Dass der Kern derselben tiefer liegt 
-als der Dand des umgebenden Halbschattens, geht aus der gegen- 
-seitigen Verschiebung beider hervor, wenn sie sich dem Sonnen- 
-rande nähern und deshalb in sehr schräger Dichtung gesehen 
-werden. Fig. 11 stellt in 1 bis 5 das verschiedene Ansehen eines 
-solchen Fleckes dar, der sich dem Sonnenrande nähert. 
-
-Gerade an dem Dande dieser Flecke findet man die spectro- 
-skopischen Zeichen heftigster Bewegung und in ihrer Nähe oft 
-
-grosse Protuberanzen; verhältnissmässig oft zeigen sie wirbelnde 
-Bewegung und eine auf eine solche hindeutende Zeichnung. Man 
-kann sie für Stellen halten, wo die kühler gewordenen Gase aus 
-den äusseren Schichten der Sonnenatmosphäre herabsinken und 
-
-Fig. 11. 
-
-
-vielleicht auch locale oberflächliche Abkühlungen der Sonnenmasse 
-selbst hervorbringen. Zur Erklärung dieser Erscheinungen muss 
-man bedenken, dass die von dem heissen Sonnenkörper neu auf- 
-steigenden Gase mit Dämpfen schwer flüchtiger Metalle überladen 
-sind, beim Aufsteigen selbst aber. sich ausdehnen und theils durch 
-die Dehnung, theils durch die Strahlung gegen den Weltraum ge- 
-kühlt werden müssen. Dabei werden sie ihre schwerflüchtigeren 
-
-
-Bestandtheile als Nebel oder Wolken ausscheiden. Diese Kühlung 
-muss natürlich immer nur als eine verhältnissmässige aufgefasst 
-werden; ihre Temperatur bleibt wahrscheinlich immer noch höher* 
-als alle irdisch erreichbaren Temperaturen. Wenn nun die ober- 
-sten von schwereren Dämpfen befreiten und am meisten gekühlten 
-Schichten niedersinken, werden sie nebelfrei bis zum Sonnenkörper 
-bleiben können. Als Vertiefungen erscheinen sie, weil rings umher 
-die bis zu 100 Meilen hohen Schichten glühenden Nebels liegen. 
-
-Heftige Bewegungen in der Sonnenatmosphäre können nicht 
-fehlen, weil dieselbe von aussen gekühlt wrird, und die kühlsten 
-und deshalb verhältnissmässig dichtesten und schwersten Theilc 
-derselben über den heisseren und leichteren zu liegen kommen. 
-Aus dem gleichen Grunde haben wir ja fortdauernde und zum 
-Theil plötzliche und gewaltsame Bewegungen auch in der Erdatmo- 
-sphäre, weil auch diese von dem sonnigen Boden her erwärmt, von 
-oben gekühlt wird. Nur sind bei der viel colossaleren Grösse und 
-Temperatur der Sonne auch ihre meteorologischen Processe viel 
-grösser und gewaltsamer. 
+Heftige Bewegungen in der Sonnenatmosphäre können nicht fehlen, weil dieselbe von aussen gekühlt wrird, und die kühlsten und deshalb verhältnissmässig dichtesten und schwersten Teile derselben über den heisseren und leichteren zu liegen kommen. Aus dem gleichen Grunde haben wir ja fortdauernde und zum Teil plötzliche und gewaltsame Bewegungen auch in der Erdatmosphäre, weil auch diese von dem sonnigen Boden her erwärmt, von oben gekühlt wird. Nur sind bei der viel colossaleren Grösse und Temperatur der Sonne auch ihre meteorologischen Prozesse viel grösser und gewaltsamer.
 
 Wir wollen jetzt übergehen zu der Frage nach der Beständig- 
 keit des jetzigen Zustandes unseres Systems. Lange Zeit hindurch 
