@@ -82,237 +82,33 @@ Gerade an dem Rande dieser Flecke findet man die spektroskopischen Zeichen hefti
 
 Heftige Bewegungen in der Sonnenatmosphäre können nicht fehlen, weil dieselbe von aussen gekühlt wrird, und die kühlsten und deshalb verhältnissmässig dichtesten und schwersten Teile derselben über den heisseren und leichteren zu liegen kommen. Aus dem gleichen Grunde haben wir ja fortdauernde und zum Teil plötzliche und gewaltsame Bewegungen auch in der Erdatmosphäre, weil auch diese von dem sonnigen Boden her erwärmt, von oben gekühlt wird. Nur sind bei der viel colossaleren Grösse und Temperatur der Sonne auch ihre meteorologischen Prozesse viel grösser und gewaltsamer.
 
-Wir wollen jetzt übergehen zu der Frage nach der Beständig- 
-keit des jetzigen Zustandes unseres Systems. Lange Zeit hindurch 
+Wir wollen jetzt übergehen zu der Frage nach der Beständigkeit des jetzigen Zustandes unseres Systems. Lange Zeit hindurch wurde ziemlich allgemein die Ansicht vorgetragen, dasselbe sei, in seinen wesentlichen Eigentümlichkeiten wenigstens, absolut unveränderlich. Es gründete sich diese Meinung hauptsächlich auf die Aussprüche, welche Laplace als die Endergebnisse seiner langen und mühsamen Untersuchungen über den Einfluss der planetarischen Störungen hingestellt hatte. Unter Störungen der Planetenbewegungen verstehen die Astronomen, wie ich schon erwähnt habe, diejenigen Abweichungen von der reinen elliptischen Bewegung, welche bedingt sind durch die Anziehungen der verschiedenen Planeten und Trabanten auf einander. Die Anziehung der Sonne, als des bei Weitem grössten Körpers unseres Systems, ist allerdings die hauptsächlichste und überwiegende Kraft, welche die Bewegung der Planeten bestimmt. Wenn sie allein wirkte, würde jeder der Planeten fortdauernd in einer ganz konstant bleibenden Ellipse, deren Axen unverändert gleiche Richtung und gleiche Grösse behielten, in unveränderlichen Umlaufszeiten sich bewegen. In Wahrheit wirken aber auf jeden neben der Anziehung von der Sonne aus auch noch die Anziehungen aller anderen Planeten, die, obgleich sie klein sind, doch in längeren Zeiträumen langsame Veränderungen in der Ebene, der Richtung und Grösse der Axen seiner elliptischen Bahn hervorrufen. Man hatte die Frage aufgeworfen, ob vielleicht diese Veränderungen der Bahnen so weit gehen könnten, dass zwei benachbarte Planeten zusammenstiessen, oder einzelne wohl gar in die Sonne fielen. Darauf konnte Laplace antworten, dass das nicht der Fall sein würde, dass alle durch diese Art von Störungen hervorgebrachten Veränderungen in den Planetenbahnen periodisch ab- und zunehmen und immer wieder zu einem mittleren Zustande zurückkehren müssen. Aber was wohl zu merken ist, dieses Resultat von Laplaces Untersuchungen gilt nur für die Störungen, welche durch die gegenseitigen Anziehungen der Planeten unter einander hervorgebracht werden, und unter der Voraussetzung, dass keine Kräfte anderer Art auf ihre Bewegungen Einfluss haben.
 
-wunle ziemlich allgemein die Ansicht vorgetragen, dasselbe sei, in 
-seinen wesentlichen Eigentümlichkeiten wenigstens, absolut unver- 
-änderlich. Es gründete sich diese Meinung hauptsächlich auf die 
-Aussprüche, welche La place als die Endergebnisse seiner langen 
-und mühsamen Untersuchungen über den Einfluss der planetari- 
-schen Störungen hingestellt hatte. Unter Störungen der Planeten- 
-bewegungen verstehen die Astronomen, wie ich schon erwähnt 
-habe, diejenigen Abweichungen von der reinen elliptischen Bewe- 
-gung, welche bedingt sind durch die Anziehungen der verschiede- 
-nen Planeten und Trabanten auf einander. Die Anziehung der 
-Sonne, als des bei Weitem grössten Körpers unseres Systems, ist 
-allerdings die hauptsächlichste und überwiegende Kraft, welche 
-die Bewegung der Planeten bestimmt. Wenn sie allein wirkte, 
-würde jeder der Planeten fortdauernd in einer ganz constant 
-bleibenden Ellipse, deren Axen unverändert gleiche Richtung und 
-gleiche Grösse behielten i in unveränderlichen Umlaufszeiten sich 
-bewegen. In Wahrheit wirken aber auf jeden neben der Anziehung 
-von der Sonne aus auch noch die Anziehungen aller anderen Pla- 
-neten, die, obgleich sie klein sind, doch in längeren Zeiträumen 
-langsame Veränderungen in der Ebene, der Richtung und Grösse 
-der Axen seiner elliptischen Bahn hervorrufen. Man hatte die 
-Frage aufgeworfen, ob vielleicht diese Veränderungen der Bahnen 
-so weit gehen könnten, dass zwei benachbarte Planeten zusammen- 
-stiessen, oder einzelne wohl gar in die Sonne fielen. Darauf konnte 
-Laplace antworten, dass das nicht der Fall sein würde, dass alle 
-durch diese Art von Störungen hervorgebrachten Veränderungen 
-in den Planetenbahnen periodisch ab- und zunehmen und immer 
-wieder zu einem mittleren Zustande zurückkehren müssen. Aber 
-was wohl zu merken ist, dieses Resultat von Laplace's Unter- 
-suchungen gilt nur für die Störungen, welche durch die gegen- 
-seitigen Anziehungen der Planeten unter einander hervorgebracht 
-werden, und unter der Voraussetzung, dass keine Kräfte anderer 
-Art auf ihre Bewegungen Einfluss haben. 
+Hier auf Erden können wir eine solche ewig dauernde Bewegung nicht herstellen, wie die der Planeten für unsere Beobachtungsmittel zu sein scheint, weil jeder Bewegung irdischer Körper sich fortdauernd widerstehende Kräfte entgegensetzen. Die bekanntesten derselben bezeichnen wir als Reibung, als Luftwiderstand, als unelastischen Stoss.
 
-Hier auf Erden können wir eine solche ewig dauernde Bewe- 
-gung nicht herstellen, wie die der Planeten für unsere Beobach- 
-tungsmittel zu sein scheint, weil jeder Bewegung irdischer Körper 
-sich fortdauernd widerstehende Kräfte entgegensetzen. Die be- 
-kanntesten derselben bezeichnen wir als Reibung, als Luftwider- 
-stand, als unelastischen Stoss. 
+So kommt das Grundgesetz der Mechanik, wonach jede Bewegung eines Körpers, auf den keine Kraft einwirkt, ewig in gerader Linie mit unveränderter Geschwindigkeit fortgeht, niemals zur ungestörten Erscheinung. Auch wenn wir den Einfluss der Schwere beseitigen, bei einer Kugel zum Beispiel, die auf ebener Bahn fortrollt, sehen wir dieselbe zwar eine Strecke vorwärts gehen, desto weiter, je glatter die Bahn, aber wir hören gleichzeitig die rollende Kugel klappern, das heisst Schallerschütterungen an die umgebenden Körper abgeben; sie reibt sich auch an der glattesten Bahn, sie muss die umgebende Luft mit in Bewegung setzen und an diese einen Teil ihrer Bewegung abgeben. So geschieht es, dass ihre Geschwindigkeit immer geringer wird, bis sie endlich ganz aufhört. Ebenso bleibt auch das sorgfältigst gearbeitete Rad, welches auf feinen Spitzen läuft, einmal in Drehung gesetzt, zwar einige Zeit im Schwunge und dreht sich allenfalls eine Viertelstunde lang oder selbst noch länger, endlich aber hört es doch auf. Denn immer hat es etwas Reibung an den Zapfen und daneben noch den Widerstand der Luft zu überwinden, welcher Widerstand übrigens auch hauptsächlich durch die Reibung der verschiedenen vom Rade mitbewegten Luftteilchen an einander hervorgebracht wird.
 
-So kommt das Grundgesetz der Mechanik, wonach jede Bewegung 
-eines Körpers, auf den keine Kraft einwirkt, ewig in gerader Linie 
+Könnten wir einen Körper in Drehung versetzen und gegen das Fallen schützen, ohne dass er auf einem anderen ruht, und könnten wir ihn in einen absolut leeren Raum versetzen, so würde sich derselbe allerdings in alle Ewigkeit mit unverminderter Geschwindigkeit weiter bewegen können. In diesem Falle, der sich an irdischen Körpern nicht herstellen lässt, schienen nun die Planeten mit ihren Trabanten zu sein. Sie schienen sich in dem ganz leeren Weltraume zu bewegen ohne Berührung mit einem anderen Körper, gegen den sie reiben könnten, und somit schien ihre Bewegung eine niemals abnehmende sein zu können.
 
+Aber Sie sehen, die Berechtigung zu diesem Schlusse beruht auf der Frage: Ist der Weltraum wirklich ganz leer? Entsteht bei der Bewegung der Planeten nirgend Reibung?
 
-mit unveränderter Geschwindigkeit fortgeht, niemals zur ungestörten 
-Erscheinung. Auch wenn wir den Einfluss der Schwere beseitigen, 
-bei einer Kugel zum Beispiel, die auf ebener Bahn fortrollt, sehen 
-wir dieselbe zwar eine Strecke vorwärts gehen, desto weiter, je 
-glatter die Bahn, aber wir hören gleichzeitig die rollende Kugel 
-klappern, das heisst Schallerschütterungen an die umgebenden 
-Körper abgeben ; sie reibt sich auch an der glattesten Bahn, sie 
-muss die umgebende Luft mit in Bewegung setzen und an diese 
-einen Theil ihrer Bewegung abgeben. So geschieht es, dass ihre 
-Geschwindigkeit immer geringer wird, bis sie endlich ganz aufhört. 
-Ebenso bleibt auch das sorgfältigst gearbeitete Rad, welches auf 
-feinen Spitzen läuft, einmal in Drehung gesetzt, zwar einige Zeit 
-im Schwünge und dreht sich allenfalls eine Viertelstunde lang 
-oder selbst noch länger, endlich aber hört es doch auf. Denn 
-immer hat es etwas Reibung an den Zapfen und daneben noch 
-den Widerstand der Luft zu überwinden, welcher Widerstand 
-übrigens auch hauptsächlich durch die Reibung der verschiedenen 
-vom Rade mitbewegten Lufttheiichen an einander hervorgebracht 
-wird. 
+Beide Fragen müssen wir jetzt nach den Fortschritten, welche die Naturkenntniss seit Laplace gemacht hat, mit Nein beantworten.
 
-Könnten wir einen Körper in Drehung versetzen und gegen 
-das Fallen schützen, ohne dass er auf einem anderen ruht, und 
-könnten wir ihn in einen absolut leeren Raum versetzen, so würde 
-sich derselbe allerdings in alle Ewigkeit mit unverminderter Ge- 
-schwindigkeit weiter bewegen können. In diesem Falle, der sich 
-an irdischen Körpern nicht hcrstellen lässt, schienen nun die 
-Planeten mit ihren Trabanten zu sein. Sie schienen sich in dem 
-ganz leeren Welträume zu bewegen ohne Berührung mit einem 
-anderen Körper, gegen den sie reiben könnten, und somit schien 
-ihre Bewegung eine niemals abnehmende sein zu können. 
+Der Weltraum ist nicht ganz leer. Erstens ist in ihm dasjenige Medium kontinuirlich verbreitet, dessen Erschütterungen das Licht und die strahlende Wärme ausmachen, und welches die Physik als den Lichtäther bezeichnet. Zweitens sind grosse und kleine Bruchstücke schwerer Masse von der Grösse riesiger Steine bis zu der von Staub noch jetzt, wenigstens in den Teilen des Raumes, welche unsere Erde durchläuft, überall verbreitet.
 
-Aber Sie sehen, die Berechtigung zu diesem Schlüsse beruht 
-auf der Frage: Ist der Weltraum wirklich ganz leer? Entsteht bei 
-der Bewegung der Planeten nirgend Reibung? 
+Was zunächst den Lichtäther betrifft, so ist die Existenz desselben nicht zweifelhaft zu nennen. Dass das Licht und die strahlende Wärme eine sich wellenförmig ausbreitende Bewegung sei, ist genügend bewiesen. Damit eine solche Bewegung sich durch die Welträume ausbreiten könne, muss etwas da sein, was sich bewegt. Ja aus der Grösse der Wirkungen dieser Bewegung, oder aus dem, was die Mechanik die lebendige Kraft derselben nennt, können wir sogar gewisse Grenzen für die Dichtigkeit des Medium, welches sich bewegt, herleiten. Eine solche Rechnung ist von Sir W. Thomson, dem berühmten Physiker von Glasgow, für den Lichtäther durchgeführt worden und hat ergeben, dass seine Dichtigkeit möglicher Weise ausserordentlich viel kleiner als die der Luft in dem sogenannten Vakuum einer guten Luftpumpe sein mag; aber absolut gleich Null kann die Masse des Äthers nicht sein. Ein Volumen gleich dem der Erde kann nicht unter 2775 Pfund Lichtäther enthalten.*
 
-Beide Fragen müssen wir jetzt nach den Fortschritten, welche 
-die Naturkenntniss seit La place gemacht hat, mit Nein beantworten. 
+Dem entsprechen die Erscheinungen im Weltraum. So wie ein schwerer Stein, durch die Luft geworfen, kaum einen Einfluss des Luftwiderstandes bemerken lässt, eine leichte Feder aber sehr merklich aufgehalten wird, so ist auch das den Weltraum füllende Medium viel zu dünn, als dass die schweren Planeten seit der Zeit, wo wir astronomische Beobachtungen ihres Laufes haben, irgend eine Verminderung ihrer Bewegung erkennen liessen. Anders ist es mit den kleineren Körpern unseres Systems. Namentlich hat Encke an dem nach ihm benannten kleinen Kometen festgestellt, dass derselbe sich in immer engeren Bahnen um die Sonne bewegt und in immer kürzeren Umlaufszeiten. Er führt also dieselbe Art von Bewegung aus, die Sie an dem erwähnten kreisförmig umlaufenden Pendel beobachten können, welches, allmälig durch den Luftwiderstand in seiner Geschwindigkeit verzögert, seine Kreise immer enger und enger um sein Attraktionszentrum beschreibt. Der Grund davon ist folgender. Die Kraft, welche der Anziehung der Sonne auf alle Planeten und Kometen Widerstand leistet und dieselben verhindert sich der Sonne mehr und mehr zu nähern, ist die sogenannte Zentrifugalkraft, das heisst das Bestreben, die ihnen einwohnende Bewegung geradlinig längs der Tangente ihrer Bahn fortzusetzen. So wie sich die Kraft ihrer Bewegung vermindert geben sie der Anziehung der Sonne um ein Entsprechendes nach, und nähern sich dieser. Dauert der Widerstand fort, so werden sie fortfahren sich der Sonne zu nähern, bis sie in diese hineinstürzen. Auf diesem Wege befindet sich offenbar der Encke'sche Komet. Aber der Widerstand, dessen Vorhandensein im Weltraume hierdurch angezeigt wird, muss in demselben Sinne, wenn auch erheblich langsamer, auf die viel grösseren Körper der Planeten wirken und längst schon gewirkt haben.
 
-Der Weltraum ist nicht ganz leer. Erstens ist in ihm dasjenige 
-Medium continuirlich verbreitet, dessen Erschütterungen das Licht 
-und die strahlende Wärme ausmachen, und welches die Physik 
-als den Lichtäther bezeichnet. Zweitens sind grosse und kleine 
-Bruchstücke schwerer Masse von der Grösse riesiger Steine bis 
-zu der von Staub noch jetzt, wenigstens in denTlieilen des Raumes, 
-welche unsere Erde durchläuft, überall verbreitet. 
+*) Die Grundlagen würden dieser Rechnung allerdings entzogen werden, wenn sich die Maxwell'sche Hypothese bestätigen sollte, wonach das Licht auf elektrischen und magnetischen Oszillationen beruht.
 
-Was zunächst den Lichtäther betrifft, so ist die Existenz des- 
-selben nicht zweifelhaft zu nennen. Dass das Licht und die 
-strahlende Wärme eine sich wellenförmig ausbreitende Bewegung 
-sei, ist genügend bewiesen. Damit eine solche Bewegung sich 
-durch die Welträume ausbreiten könne, muss etwas da sein, was 
-sich bewegt. Ja aus der Grösse der Wirkungen dieser Bewegung, 
-oder aus dem, was die Mechanik die lebendige Kraft derselben 
-nennt, können wir sogar gewisse Grenzen für die Dichtigkeit des 
-Medium, welches sich bewegt, herleiten. Eine solche Rechnung ist 
-von Sir W. Thomson, dem berühmten Physiker von Glasgow, für 
-den Lichtäther durchgeführt worden und hat ergeben, dass seine 
-Dichtigkeit möglicher Weise ausserordentlich viel kleiner als die 
-der Luft in dem sogenannten Vacuum einer guten Luftpumpe sein 
-mag; aber absolut gleich Null kann die Masse des Aethers nicht 
-sein. Ein Volumen gleich dem der Erde kann nicht unter 2775 
-Pfund Lichtäther enthalten*). 
+Sehr viel deutlicher als durch den Reibungswiderstand verrät sich aber die Anwesenheit teils fein, teils grob verteilter schwerer Masse im Weltraum durch die Erscheinungen der Sternschnuppen und der Meteorsteine. Wir wissen jetzt bestimmt, dass dies Körper sind, die im Weltraum herumschwärmten, ehe sie in den Bereich unserer irdischen Atmosphäre geriethen. In dem stärker widerstehenden Mittel, was diese darbietet, wurden sie demnächst in ihrer Bewegung verzögert und gleichzeitig durch die damit verbundene Reibung erhitzt. Viele von ihnen mögen noch wieder den Ausweg aus der irdischen Atmosphäre finden und mit veränderter und verzögerter Bewegung ihren Weg durch den Weltraum fortsetzen. Andere stürzen zur Erde, die grösseren als Meteorsteine, die kleineren werden durch die Hitze wahrscheinlich in Staub zersprengt und mögen als solcher unsichtbar herabfallen. Nach Alexander Herschels Schätzungen dürfen wir uns die Sternschnuppen im Durchschnitt von der Grösse der Chausseesteine denken. Ihr Aufglühen geschieht meist schon in den höchsten und dünnsten Teilen der Atmosphäre, vier und mehr Meilen über der Erdoberfläche. Da sie sich im Weltraume gerade nach denselben Gesetzen wie Planeten und Kometen bewegt haben, so haben sie auch planetarische Geschwindigkeit von vier bis neun Meilen in der Sekunde. Auch daran erkennen wir, dass sie in der Tat _stelle cadenti_, fallende Sterne, sind, wie sie von den Dichtern längst genannt wurden.
 
-Dem entsprechen die Erscheinungen im Weltraum. So wie 
-ein schwerer Stein, durch die Luft geworfen, kaum einen Einfluss 
-des Luftwiderstandes bemerken lässt, eine leichte Feder aber sehr 
-merklich aufgehalten wird, so ist auch das den Weltraum füllende 
-Medium viel zu dünn, als dass die schweren Planeten seit derZeit, 
-wo wir astronomische Beobachtungen ihres Laufes haben, irgend 
-eine Verminderung ihrer Bewegung erkennen Hessen. Anders ist 
-es mit den kleineren Körpern unseres Systems. Namentlich hat 
-Encke an dem nach ihm benannten kleinen Kometen festgestellt, 
-dass derselbe sich in immer engeren Bahnen um die Sonne bewegt 
-und in immer kürzeren Umlaufszeiten. Er führt also dieselbe Art 
-von Bewegung aus, die Sie an dem erwähnten kreisförmig umlaufen- 
-den Pendel beobachten können, welches, allmälig durch den Luft- 
-widerstand in seiner Geschwindigkeit verzögert, seine Kreise immer 
-engerund enger um sein Attractionscentrum beschreibt. Der Grund 
-davon ist folgender. Die Kraft, welche der Anziehung der Sonne 
-auf alle Planeten und Kometen Widerstand leistet und dieselben 
-verhindert sich der Sonne mehr und mehr zu nähern, ist die so- 
-genannte Centrifugalkraft, das heisst das Bestreben, die ihnen ein- 
-wohnende Bewegung geradlinig längs der Tangente ihrer Bahn 
-fortzusetzen. So wie sich die Kraft ihrer Bewegung vermindert 
+Diese ihre ungeheure Geschwindigkeit, womit sie in unsere Atmosphäre eindringen, ist auch zweifelsohne der Grund ihrer Erhitzung. Sie wissen alle, dass Reibung die geriebenen Körper erwärmt. Jedes Streichhölzchen, welches wir anzünden, jedes schlecht geschmierte Wagenrad, jeder Bohrer, den wir in hartes Holz treiben, lehrt dies. Die Luft erhitzt sich wie feste Körper durch Reibung, aber auch durch die zu ihrer Kompression verbrauchte Arbeit. Eines der bedeutendsten Ergebnisse der neueren Physik, dessen tatsächlichen Nachweis wir vorzugsweise dem Engländer Joule* verdanken, ist es, dass die in einem solchen Falle entwickelte Wärmemenge genau proportional ist der zu dem Ende aufgewendeten mechanischen Arbeit. Messen wir mit den Maschinentechnikern die Arbeit durch das Gewicht, welches nötig wäre um sie hervorzubringen, multiplizirt mit der Höhe, von der es herabsinken müsste, so hat Joule gezeigt, dass die Arbeit, welche dadurch erzeugt werden kann, dass ein gewisses Gewicht Wasser von 425 Meter Höhe herabfliesst, gerade zureicht dasselbe Gewicht Wasser durch Reibung um einen Zentesimalgrad zu erwärmen. Welches Arbeitsäquivalent eine Geschwindigkeit von 4 bis 6 Meilen in der Sekunde hat, lässt sich nach bekannten mechanischen Gesetzen leicht berechnen, und diese in Wärme verwandelt, würde hinreichen, ein Stück Meteoreisen bis zu 900000 und 2500000° C. zu erhitzen, vorausgesetzt, dass sie ganz dem Eisen verbliebe, und nicht, wie es jedenfalls der Fall ist, zum grossen Teil an die Luft überginge. Wenigstens zeigt diese Rechnung, dass die den Sternschnuppen einwohnende Geschwindigkeit eine vollkommen hinreichende Ursache ist, um sie in das allerheftigste Glühen zu versetzen. Die durch unsere irdischen Mittel zu erreichenden Temperaturen steigen kaum über 2000 Grad. In der Tat lässt die äussere Rinde der gefallenen Meteorsteine meistens die Spuren beginnender Schmelzung erkennen; und wo Beobachter schnell genug den gefallenen Stein untersuchten, fanden sie ihn oberflächlich heiss, während das Innere an losgetrennten Bruchstücken zuweilen noch die intensive Kälte des Weltraumes zu zeigen scheint.
 
+Dem einzelnen Beobachter, der gelegentlich nach dem gestirnten Himmel blickt, erscheinen die Sternschnuppen als ein sparsam und ausnahmsweise vorkommendes Phänomen. Wenn man aber anhaltend beobachtet, sieht man sie ziemlich regelmässig, namentlich gegen Morgen, wo am meisten fallen. Aber der einzelne Beobachter übersieht nur einen kleinen Teil der Atmosphäre, und berechnet man sie für die ganze Erdoberfläche, so ergiebt sich, dass täglich etwra 7 1/2 Millionen fallen! An und für sich sind sie in unseren Gegenden des Weltraumes ziemlich sparsam und weit entfernt von einander. Man kann nach A. Herschels Schätzungen rechnen, dass jedes Steinchen im Durchschnitt hundert Meilen von seinen Nachbarn entfernt ist. Aber die Erde bewegt sich in jeder Sekunde vier Meilen vorwärts und hat 1700 Meilen Durchmesser, fegt also in jeder Sekunde 9 Millionen Kubikmeilen des Weltraumes ab und nimmt mit, was ihr von Steinchen darin begegnet.
 
-*) Die Grundlagen würden dieser Rechnung allerdings entzogen wer- 
-den, wenn sich die Maxwel l'sche Hypothese bestätigen sollte, wonach 
-das Licht auf elektrischen und magnetischen Oscillationen beruht. 
-
-geben sie der Anziehung der Sonne um ein Entsprechendes nach, 
-und nähern sich dieser. Dauert der Widerstand fort, so werden 
-sie fortfahren sich der Sonne zu nähern, bis sie in diese hinein- 
-stürzen. Auf diesem Wege befindet sich offenbar der Encke'sche 
-Komet. Aber der Widerstand, dessen Vorhandensein im Welt- 
-räume hierdurch angezeigt wird, muss in demselben Sinne, wenn 
-auch erheblich langsamer, auf die viel grösseren Körper der Pla- 
-neten wirken und längst schon gewirkt haben. 
-
-Sehr viel deutlicher als durch den Reibungswiderstand ver- 
-räth sich aber die Anwesenheit theils fein, theils grob vertheilter 
-schwerer Masse im Weltraum durch die Erscheinungen der Stern- 
-schnuppen und der Meteorsteine. Wir wissen jetzt bestimmt, dass 
-dies Körper sind, die im Weltraum herumschwärmten, ehe sie in 
-den Bereich unserer irdischen Atmosphäre geriethen. ln dem stärker 
-widerstehenden Mittel, was diese darbietet, wurden sie demnächst 
-in ihrer Bewegung verzögert und gleichzeitig durch die damit ver- 
-bundene Reibung erhitzt. Viele von ihnen mögen noch wieder 
-den Ausweg aus der irdischen Atmosphäre finden und mit ver- 
-änderter und verzögerter Bewegung ihren Weg durch den Weltraum 
-fortsetzen. Andere stürzen zur Erde, die grösseren als Meteor- 
-steine, die kleineren werden durch die Hitze wahrscheinlich in 
-Staub zersprengt und mögen als solcher unsichtbar herabfallen. 
-Nach Alexander HerscheEs Schätzungen dürfen wir uns die 
-Sternschnuppen im Durchschnitt von der Grösse der Chausseesteine 
-denken. Ihr Aufglühen geschieht meist schon in den höchsten und 
-dünnsten Theilen der Atmosphäre, vier und mehr Meilen über der 
-Erdoberfläche. Da sie sich im Welträume gerade nach denselben 
-Gesetzen wie Planeten und Kometen bewegt haben, so haben sie 
-auch planetarische Geschwindigkeit von vier bis neun Meilen in 
-der Secunde. Auch daran erkennen wir, dass sie in der That 
-stelle cadenti, fallende Sterne, sind, wie sie von den Dichtern längst 
-genannt wurden. 
-
-Diese ihre ungeheure Geschwindigkeit, womit sie in unsere 
-Atmosphäre eindringen, ist auch zweifelsohne der Grund ihrer Er- 
-hitzung. Sie wissen alle, dass Reibung die geriebenen Körper er- 
-wärmt. Jedes Streichhölzchen, welches wir anzünden, jedes schlecht 
-geschmierte Wagenrad, jeder Bohrer, den wir in hartes Holz treiben, 
-lehrt dies. Die Luft erhitzt sich wie feste Körper durch Reibung, 
-aber auch durch die zu ihrer Compression verbrauchte Arbeit. 
-Eines der bedeutendsten Ergebnisse der neueren Physik, des- 
-sen thatsächlicheu Nachweis wir vorzugsweise dem Engländer 
-
-
-Joule*) verdanken, ist es, dass die in einem solchen Falle 
-entwickelte Wärmemenge genau proportional ist der zu dem 
-Ende aufgewendeten mechanischen Arbeit. Messen wir mit den 
-Maschinentechnikern die Arbeit durch das Gewicht, welches nöthig 
-wäre um sie hervorzubringen, multiplicirt mit der Höhe, von der 
-es herabsinken müsste, so hat Joule gezeigt, dass die Arbeit, 
-welche dadurch erzeugt werden kann, dass ein gewisses Gewicht 
-Wasser von 425 Meter Höhe herabfliesst, gerade zureicht dasselbe 
-Gewicht Wasser durch Reibung um einen Centesimalgrad zu er- 
-w armen. Welches Arbeitsäquivalent eine Geschwindigkeit von 
-4 bis 6 Meilen in der Secunde hat, lässt sich nach bekannten mecha- 
-nischen Gesetzen leicht berechnen, und diese in Wärme verwandelt, 
-würde hinreichen, ein Stück Meteoreisen bis zu 900 000 und 
-2 500 000° C. zu erhitzen, vorausgesetzt, dass sie ganz dem Eisen 
-verbliebe, und nicht, wie es jedenfalls der Fall ist, zum grossen 
-Theil an die Luft überginge. Wenigstens zeigt diese Rechnung, 
-dass die den Sternschnuppen einwohnende Geschwindigkeit eine 
-vollkommen hinreichende Ursache ist, um sie in das allerheftigste 
-Glühen zu versetzen. Die durch unsere irdischen Mittel zu er- 
-reichenden Temperaturen steigen kaum über 2000 Grad. In der 
-That lässt die äussere Rinde der gefallenen Meteorsteine meistens 
-die Spuren beginnender Schmelzung erkennen ; und wo Beobachter 
-schnell genug den gefallenen Stein untersuchten, fanden sie ihn 
-oberflächlich heiss, während das Innere an losgetrennten Bruch- 
-stücken zuweilen noch die intensive Kälte des Weltraumes zu 
-zeigen scheint. 
-
-Dem einzelnen Beobachter, der gelegentlich nach dein ge- 
-stirnten Himmel blickt, erscheinen die Sternschnuppen als ein 
-sparsam und ausnahmsweise vorkommendes Phänomen. Wenn 
-man aber anhaltend beobachtet, sieht man sie ziemlich regelmässig, 
-namentlich gegen Morgen, wo am meisten fallen. Aber der ein- 
-zelne Beobachter übersieht nur einen kleinen Theil der Atmosphäre, 
-und berechnet man sie für die ganze Erdoberfläche, so ergiebt 
-sich, dass täglich etwra 7l/2 Millionen fallen! An und für sich 
-'sind sie in unseren Gegenden des Weltraumes ziemlich sparsam 
-und weit entfernt von einander. Man kann nach A. HerscheTs 
-Schätzungen rechnen, dass jedes Stcinchen im Durchschnitt hun- 
-dert Meilen von seinen Nachbarn entfernt ist. Aber die Erde be- 
-, wegt sich in jeder Secunde vier Meilen vorwärts und hat 1700 Meilen 
-
-
-*) Siehe Heft II, S. 1G6. 
-
-
-Durchmesser, fegt also in jeder Secunde 9 Millionen Cubikmeilen 
-des Weltraumes ab und nimmt mit, was ihr von Steinchen darin 
-begegnet. 
+*) Siehe Heft 2., S. 166.
 
 Viele Sternschnuppen sind regellos im Weltraum vertheilt; es 
 sind dies wahrscheinlich solche, die schon Störungen durch die 
