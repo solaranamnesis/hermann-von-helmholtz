@@ -190,234 +190,28 @@ Denn, wie wir anfangs gesehen haben, wachsen auch jetzt noch die schon gebildete
 
 [Fig. 12.]()
 
-In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 15 
-und Fig. 10 (a.v. S.) aus dem Schützen und Fuhrmann. Man unter- 
-schied immer mehr Sterne in ihnen, je bessere Teleskope man zu 
-ihrer Analyse an wandte. So konnte vor der Erfindung der Spectral- 
-analyse W. Herschel's frühere Ansicht als die wahrscheinlichste 
-angesehen werden, dass, was wir als Nebel sähen, nur Haufen sehr 
-feiner Sterne, andere Milchstrassensysteme seien. Die Spectralanalyse 
-hat nun aber auch an vielen Nebelflecken, welche Sterne enthalten, 
-ein Gasspectrum gezeigt, während wirkliche Sternhaufen das con- 
-tinuirliche Spectrum glühender fester Körper zeigen. Der Regel nach 
-hat das der Nebelflecke drei deutlich erkennbare Linien, deren eine 
-im Blau dem Wasserstoff angehört, eine zweite im Blaugrün dem 
-Stickstoff*), die dritte zwischen beiden unbekannten Ursprunges 
-ist. Fig. 17 zeigt ein solches Spectrum eines kleinen aber hellen 
+In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 11 und Fig. 12 (a. v. S.) aus dem Schützen und Fuhrmann. Man unterschied immer mehr Sterne in ihnen, je bessere Teleskope man zu ihrer Analyse anwandte. So konnte vor der Erfindung der Spektralanalyse W. Herschels frühere Ansicht als die wahrscheinlichste angesehen werden, dass, was wir als Nebel sähen, nur Haufen sehr feiner Sterne, andere Milchstrassensysteme seien. Die Spektralanalyse hat nun aber auch an vielen Nebelflecken, welche Sterne enthalten, ein Gasspektrum gezeigt, während wirkliche Sternhaufen das continuirliche Spektrum glühender fester Körper zeigen. Der Regel nach hat das der Nebelflecke drei deutlich erkennbare Linien, deren eine im Blau dem Wasserstoff angehört, eine zweite im Blaugrün dem Stickstoff,* die dritte zwischen beiden unbekannten Ursprunges ist. Fig. 13 zeigt ein solches Spektrum eines kleinen aber hellen Nebels im Drachen. Spuren von anderen hellen Linien zeigen sich daneben, zuweilen auch wie in Fig. 13 Spuren eines continuirlichen Spektrum, welche aber alle zu lichtschwach sind, um genaue Untersuchung zuzulassen. Zu bemerken ist hierbei, dass das Licht sehr lichtschwacher Objekte, welche ein kontinuirliches Spektrum geben, durch das Spektroskop über eine grosse Fläche ausgebreitet, und deshalb äusserst geschwächt oder selbst ausgelöscht wird, während das unzerlegbare Licht heller Gaslinien beisammen bleibt, und deshalb noch gesehen werden kann. Jedenfalls zeigt die Zerlegung des Lichtes der Nebelflecke an, dass der bei weitem grösste Teil ihrer leuchtenden Fläche glühenden Gasen angehört, unter denen Wasserstoffgas einen hervorragenden Bestandteil ausmacht. Bei den planetarischen, kugelförmigen oder scheibenförmigen könnte man glauben, dass die Gasmasse einen Zustand von Gleichgewicht erreicht hat; aber die meisten anderen Nebelflecke zeigen höchst unregelmässige Formen, welche in keiner Weise einem solchen Gleichgewichtszustande entsprechen. Da sie dessen ungeachtet ihre Gestalt nicht oder wenigstens nur in unmerklicher Weise verändert haben, seit man sie kennt und beobachtet, so müssen sie entweder sehr wenig Masse haben, oder kolossal gross und entfernt sein. Die erstere Alternative erscheint nicht sehr wahrscheinlich, weil kleine Massen auch ihre Wärme sehr bald ausgeben würden, und es bleibt also nur die zweite Annahme stehen, dass sie ungeheure Dimensionen und Entfernungen haben. Denselben Schluss hatte übrigens schon W. Herschel unter der Voraussetzung, dass die Nebelflecken Sternhaufen seien, gezogen.
 
-Fig. 17. 
+*) Oder vielleicht auch dem Sauerstoff? Die Linie kommt im Spektrum der atmosphärischen Luft vor, und fehlte bei H. C. Vogels Beobachtungen im Spektrum des reinen Sauerstoffs.
 
+[Fig. 13.]()
 
-Nebels im Drachen. Spuren von anderen hellen Linien zeigen 
-sich daneben, zuweilen auch wie in Fig. 17 Spuren eines continuir- 
-lichen Spectrum, welche aber alle zu lichtschwach sind, um genaue 
-. Untersuchung zuzulassen. Zu bemerken ist hierbei, dass das Licht 
-sehr lichtschwacher Objecte, welche ein continuirliclies Spectrum 
-geben, durch das Spectroskop über eine grosse Fläche ausgebreitet, 
-und deshalb äusserst geschwächt oder selbst ausgelöscht wird, 
-während das unzerlegbare Licht heller Gaslinien beisammen bleibt, 
-und deshalb noch gesehen werden kann. Jedenfalls zeigt die Zer- 
-legung des Lichtes der Nebelflecke an, dass der bei weitem grösste 
-Theil ihrer leuchtenden Fläche glühenden Gasen angehört, unter 
-denen Wasserstoffgas einen hervorragenden Bestandtheil ausmacht. 
-Bei den planetarischen, kugelförmigen oder scheibenförmigen könnte 
-man glauben, dass die Gasmasse einen Zustand von Gleichgewicht 
-erreicht hat; aber die meisten anderen Nebelflecke zeigen höchst 
-unregelmässige Formen, welche in keiner Weise einem solchen 
-Gleichgewichtszustände entsprechen. Da sie dessen ungeachtet 
-ihre Gestalt nicht oder wenigstens nur in unmerklicher Weise ver- 
+An diejenigen Nebelflecke, welche ausser den Gaslinien auch noch das kontinuirliche Spektrum glühender dichterer Körper zeigen, schliessen sich teils unaufgelöste, teils in Sternhaufen auflösbare Flecke an, welche nur noch das Licht der letzteren Art zeigen.
 
-*) Oder vielleicht auch dem Sauerstoff? Die Linie kommt im Spectrum 
-der atmosphärischen Luft vor, und fehlte hei II. C. Vogel' s Beobachtungen 
-im Spectrum des reinen Sauerstoffs. 
+Zu diesem Anfangsstadium der sich bildenden Welten gesellen sich die unzähligen leuchtenden Sterne des Himmelsgewölbes, deren Anzahl sich in jedem neuen vollkommenen Teleskope immer noch vermehrt. Sie sind ähnlich unserer Sonne an Grösse, an Leuchtkraft und im Ganzen auch in der chemischen Beschaffenheit ihrer Oberfläche, wenn auch in dem Gehalt an einzelnen Elementen Unterschiede bestehen.
 
+Aber wir finden im Weltenraume auch ein drittes Stadium, das der erloschenen Sonnen; auch dafür sind die tatsächlichen Belege da. Erstens sind im Laufe der Geschichte ziemlich häufige Beispiele von auftauchenden neuen Sternen vorgekommen. 1572 beobachtete Tycho de Brahe einen solchen, der allmälig erblassend zwei Jahre lang sichtbar blieb, fest stand, wie ein Fixstern, und endlich in das Dunkel zurückkehrte, aus dem er so plötzlich aufgetaucht war. Der grösste unter allen scheint der im Jahre 1604 von Kepler beobachtete gewesen zu sein, der heller als ein Stern erster Grösse war, und vom 27. September 1604 bis März 1606 beobachtet wurde. Vielleicht war der Grund ihres Aufleuchtens ein Zusammenstoss mit einem kleineren Weltkörper. In einem neueren Falle, wo am 12. Mai. 1866 ein kleiner Stern zehnter Grösse in der Korona schnell zu einem zweiter Grösse aufleuchtete, war es, wie die Spektralanalyse lehrte, ein Ausbruch glühenden Wasserstoffgases gewesen, welcher das Licht erzeugte. Dieser leuchtete nur 12 Tage.
 
+In anderen Fällen haben sich die dunkeln Weltkörper verraten durch ihre Anziehungskraft auf benachbarte helle Sterne, und die dadurch bedingten Bewegungen der letzteren. Solchen Einfluss beobachtete man am Sirius und Procyon. Im Falle des Sirius ist wirklich 1862 mit einem neuen Refraktor im amerikanischen Cambridge von den Herren Alvan Clarke und Pond ein kaum sichtbarer Stern gefunden worden, welcher zwar sehr geringe Leuchtkraft hat, aber beinahe sieben Mal schwerer ist als unsere Sonne, etwa halb so grosse Masse hat als Sirius, und dessen Entfernung vom Sirius etwa der des Neptun von der Sonne gleichkommt. Der Begleiter des Procyon dagegen ist noch nicht mit Augen gesehen worden, er scheint ganz dunkel zu sein.
 
-ändert haben, seit man sie kennt und beobachtet, so müssen sie 
-entweder sehr wenig Masse haben, oder colossal gross und ent- 
-fernt sein. Die erstere Alternative erscheint nicht sehr wahrschein- 
-lich, weil kleine Massen auch ihre Wärme sehr bald ausgeben wür- 
-den, und es bleibt also nur die zweite Annahme stehen, dass sie 
-ungeheure Dimensionen und Entfernungen haben. Denselben 
-Schluss hatte übrigens schon W. Herschel unter der Voraus- 
-setzung, dass die Nebelflecken Sternhaufen seien, gezogen. 
+Auch erloschene Sonnen! Die Tatsache, dass solche existiren, giebt den Gründen neues Gewicht, welche uns schliessen liessen, dass auch unsere Sonne ein Körper ist, der den einwohnenden Wärmevorrat langsam ausgiebt und also einst erlöschen wird.
 
-An diejenigen Nebelflecke, welche ausser den Gaslinien auch 
-noch das continuirliche Spectrum glühender dichterer Körper 
-zeigen, schliessen sich theils unaufgelöste, theils in Sternhaufen 
-auflösbare Flecke an, welche nur noch das Licht der letzteren Art 
-zeigen. 
+Die Frist, die ich vorher angegeben habe, von 17 Millionen Jahren wird vielleicht noch beträchtlich verlängert werden können durch allmäligen Nachlass der Strahlung, durch neuen Zuschuss von hineinstürzenden Meteoren, durch noch weitere Verdichtung, als ich sie bei jener Berechnung angenommen habe. Aber wir kennen bisher keinen Naturprozess, der unserer Sonne das Schicksal ersparen könnte, welches andere Sonnen offenbar schon getroffen hat. Es ist dies ein Gedanke, dem wir uns nur mit Widerstreben hingeben; er erscheint uns wie eine Verletzung der wohltätigen Schöpferkraft, die wir sonst in allen, namentlich die lebenden Wesen betreffenden Verhältnissen wirksam finden. Aber wir müssen uns eben in den Gedanken finden lernen, dass wir, die wir uns gern als den Mittelpunkt und Endzweck der Schöpfung betrachten möchten, Stäubchen sind auf der Erde, die selbst ein Stäubchen ist im ungeheuren Welträume, und dass die bisherige Dauer unseres Geschlechtes, wenn wir sie auch über die geschriebene Geschichte weit hinaus zurück verfolgen bis in die Zeiten der Pfahlbauten oder der Mammuths, doch nur ein Augenblick ist verglichen mit den Urzeiten unseres Planeten, wo lebende Wesen auf ihm gehaust haben, deren Reste uns noch aus ihren alten Gräbern fremdartig und unheimlich anschauen. Aber noch viel mehr verschwindet die Dauer der Menschengeschichte im Verhältniss zu den ungeheuren Zeiträumen, während welcher Welten sich gebildet haben und auch wohl noch fortfahren werden sich zu bilden, wenn unsere Sonne erloschen ist und unsere Erde, sei es in Kälte erstarrt oder mit dem glühenden Zentralkörper unseres Systemes vereinigt ist.
 
-Zu diesem Anfangsstadium der sich bildenden Welten gesellen 
-sich die unzähligen leuchtenden Sterne des Himmelsgewölbes, deren 
-Anzahl sich in jedem neuen vollkommenen Teleskope immer noch 
-vermehrt. Sie sind ähnlich unserer Sonne an Grösse, an Leucht- 
-kraft und im Ganzen auch in der chemischen Beschaffenheit ihrer 
-Oberfläche, wenn auch in dem Gehalt an einzelnen Elementen 
-Unterschiede bestehen. 
+Aber wer weiss zu sagen, ob die ersten lebenden Bewohner des warmen Meeres auf der jugendlichen Erde, die wir vielleicht als unsere Stammeltern verehren müssen, den jetzigen kühleren Zustand nicht mit ebenso viel Grauen betrachten würden, wie wir eine Welt ohne Sonne? Wer weiss zu sagen, zu welcher Stufe der Vollendung bei dem wunderbaren Anpassungsvermögen an die Bedingungen des Lebens, welches allen Organismen zukommt, unsere Nachkommen nach 17 Millionen Jahren sich ausgebildet haben werden; ob unsere Knochenreste ihnen nicht vielleicht ebenso ungeheuerlich vorkommen möchten, wie die der Ichthyosauren uns jetzt, und ob sie, eingerichtet für ein feineres Gleichgewicht, nicht die Temperaturextreme, zwischen denen wir uns bewegen, für ebenso gewaltsam und zerstörend halten werden, wie uns die der ältesten geologischen Perioden erscheinen würden. Ja, wenn Erde und Sonne regungslos erstarren sollten, wer weiss zu sagen, welche neue Welten bereit sein werden, Leben aufzunehmen. Die Meteorsteine enthalten zuweilen Kohlenwasserstoffverbindungen; das eigene Licht der Kometenköpfe zeigt ein Spektrum, welches dem des elektrischen Glimmlichtes in kohlenwasserstoffhaltigen Gasen am ähnlichsten ist. Kohlenstoff aber ist das für die organischen Verbindungen, aus denen die lebenden Körper aufgebaut sind, charakteristische Element. Wer weiss zu sagen, ob diese Körper, die überall den Weltraum durchschwärmen, nicht auch Keime des Lebens ausstreuen, so oft irgendwo ein neuer Weltkörper fähig geworden ist organischen Geschöpfen eine Wohnstätte zu gewähren. Und dieses Leben würden wir sogar vielleicht dem unserigen im Keime verwandt halten dürfen, in so abweichenden Formen es sich auch den Zuständen seiner neuen Wohnstätte anpassen möchte.
 
-Aber wir finden im Weltenraume auch ein drittes Stadium, 
-das der erloschenen Sonnen; auch dafür sind die thatsächhchen 
-Belege da. Erstens sind im Laufe der Geschichte ziemlich häufige 
-Beispiele von auftauchenden neuen Sternen vorgekommen. 1572 
-beobachtete Tyclio de Bralie einen solchen, der allmälig er- 
-blassend zwei Jahre lang sichtbar blieb, fest stand, wie ein Fix- 
-stern, und endlich in das Dunkel zurückkehrte, aus dem er so 
-plötzlich aufgetaucht war. Der grösste unter allen scheint der im 
-Jahre 1604 von Kepler beobachtete gewesen zu sein, der heller 
-als ein Stern erster Grösse war, und vom 27. September 1604 bis 
-März 1606 beobachtet wurde. Vielleicht war der Grund ihres 
-Aufleuchtens ein Zusammenstoss mit einem kleineren Weltkörper. 
-In einem neueren Falle, wo am 12. Mai. 1866 ein kleiner Stern 
-zehnter Grösse in der Corona schnell zu einem zweiter Grösse auf- 
-leuchtete, war es, wie die Spectralanalyse lehrte, ein Ausbruch 
-glühenden Wasserstoffgases gewesen, welcher das Licht erzeugte. 
-Dieser leuchtete nur 12 Tage. 
+Aber wie es damit auch sein möge, was unser sittliches Gefühl bei dem Gedanken eines einstigen, wenn noch so fernen Unterganges der lebenden Schöpfung auf dieser Erde aufregt, ist vorzugsweise die Frage, ob all dies Leben nur ein zielloses Spiel sei, was endlich wieder der Zerstörung durch rohe Gewalt anheimfallen werde. Wir beginnen einzusehen unter dem Lichte von Darwins grossen Gedanken, dass nicht bloss Lust und Freude, sondern auch Schmerz, Kampf und Tod die mächtigen Mittel sind, durch welche die Natur ihre feineren und vollendeteren Lebensformen herausbildet. Und wir Menschen insbesondere wissen, dass wir in unserer Intelligenz, staatlichen Ordnung, Gesittung von dem Erbteil zehren, welches unsere Vorfahren durch Arbeit, Kampf und Opfermut uns erworben haben, und dass, was wir in gleichem Sinne erringen, das Leben unserer Nachkommen veredeln wird. So kann der Einzelne, der für die idealen Zwecke der Menschheit, wenn auch an bescheidener Stelle und in engem Wirkungskreise arbeitet, den Gedanken, dass der Faden seines eigenen Bewusstseins einst abreissen wird, ohne Furcht ertragen. Aber mit dem Gedanken an eine endliche Vernichtung des Geschlechts der Lebenden und damit aller Früchte des Strebens aller vergangenen Generationen konnten auch Männer von so freier und grosser Gesinnung, wie Lessing und David Strauss, sich nicht versöhnen.
 
-In anderen Fällen haben sich die dunkeln Weltkörper ver- 
-rathen durch ihre Anziehungskraft auf benachbarte helle Sterne, 
-und die dadurch bedingten Bewegungen der letzteren. Solchen 
-Einfluss beobachtete man am Sirius und Pro c von. Im Falle des 
+Bisher kennen wir noch keine durch wissenschaftliche Beobachtung feststellbare Tatsache, welche uns anzeigte, dass die feine und verwickelte Bewegungsform des Lebens anders als an dem schweren Stoffe des organischen Körpers bestehen, dass sie sich in ähnlicher Weise verpflanzen könnte, wie die Schallbewegung einer Saite ihre ursprüngliche enge und feste Wohnung verlassen und sich im Luftmeere ausbreiten kann, und dabei doch ihre Tonhöhe und die feinsten Eigentümlichkeiten ihrer Klangfarbe bewahrt, und gelegentlich auch, wo sie eine andere gleichgestimmte Saite trifft, in diese wieder einzieht, oder eine zum Singen bereite Flamme zu gleichgestimmter Tönung erregt. Auch die Flamme, dieses ähnlichste Abbild des Lebens unter den Vorgängen der leblosen Natur, kann erlöschen, aber die von ihr erzeugte Wärme besteht weiter, unzerstörbar und unvergänglich, als unsichtbare Bewegung, bald die Molekeln wägbaren Stoffes erschütternd, bald als Ätherschwingung hinausstrahlend in die unbegrenzten Tiefen des Raumes. Und auch dann noch bewahrt sie die charakteristischen Eigentümlichkeiten ihres Ursprungs, und dem Beobachter, der sie durch das Spektroskop befragt, erzählt sie ihre Geschichte. Neu vereinigt aber können ihre Strahlen eine neue Flamme entzünden, und so gleichsam neues körperliches Leben gewinnen.
 
-
-Sirius ist wirklich 18G2 mit einem neuen Refractor im amerikani- 
-sehen Cambridge von den Herren Al van Clarke und Pond ein 
-kaum sichtbarer Stern gefunden worden, weicherzwar sehr geringe 
-( Leuchtkraft hat, aber beinahe sieben Mal schwerer ist als unsere 
-Sonne, etwa halb so grosse Masse hat als Sirius, und dessen Ent- 
-fernung vom Sirius etwa der des Neptun von der Sonne gleich- 
-kommt. Der Begleiter des Procyon dagegen ist noch nicht mit 
-Augen gesehen worden, er scheint ganz dunkel zu sein. 
-
-Auch erloschene Sonnen! Die Thatsache, dass solche existiren, 
-giebt den Gründen neues Gewicht, welche uns schliessen liessen, 
-dass auch unsere Sonne ein Körper ist, der den einwohnenden 
-Wärmevorrath langsam ausgiebt und also einst erlöschen wird. 
-
-Die Frist, die ich vorher angegeben habe, von 17 Millionen 
-Jahren wird vielleicht noch beträchtlich verlängert werden können 
-durch allmäligen Nachlass der Strahlung, durch neuen Zuschuss 
-von hineinstürzenden Meteoren, durch noch weitere Verdichtung, 
-als ich sie bei jener Berechnung angenommen habe. Aber wir 
-kennen bisher keinen Natur process, der unserer Sonne das Schick- 
-sal ersparen könnte, welches andere Sonnen offenbar schon 
-getroffen hat. Es ist dies ein Gedanke, dem wir uns nur mit 
-Widerstreben hingeben; er erscheint uns wie eine Verletzung der 
-wohlthätigen Schöpferkraft, die wir sonst in allen, namentlich die 
-lebenden Wesen betreffenden Verhältnissen wirksam finden. Aber 
-wir müssen uns eben in den Gedanken finden lernen, dass wir, die 
-wir uns gern als den Mittelpunkt und Endzweck der Schöpfung 
-betrachten möchten, Stäubchen sind auf der Erde, die selbst ein 
-Stäubchen ist im ungeheuren Welträume, und dass die bisherige 
-Dauer unseres Geschlechtes, wenn wir sie auch über die geschriebene 
-Geschichte weit hinaus zurück verfolgen bis in die Zeiten der 
-Pfahlbauten oder der Mammuths, doch nur ein Augenblick ist ver- 
-glichen mit den Urzeiten unseres Planeten, wo lebende Wesen auf 
-ihm gehaust haben, deren Reste uns noch aus ihren alten Gräbern 
-fremdartig und unheimlich anschauen. Aber noch viel mehr ver- 
-schwindet die Dauer der Menschengeschichte im Verhältnis zu 
-den ungeheuren Zeiträumen, während welcher Welten sich gebildet 
-haben und auch wohl noch fortfahren werden sich zu bilden, wenn 
-unsere Sonne erloschen ist und unsere Erde, sei es in Kälte er- 
-starrt oder mit dem glühenden Centralkörper unseres Systemes 
-vereinigt ist. 
-
-Aber wer weiss zu sagen, ob die ersten lebenden Bewohner 
-des warmen Meeres auf der jugendlichen Erde, die wir vielleicht 
-
-als unsere Stanimeltern verehren müssen, den jetzigen kühleren 
-Zustand nicht mit ebenso viel Grauen betrachten würden, wie wir 
-eine Welt ohne Sonne? Wer weiss zu sagen, zu welcher Stufe der 
-Vollendung bei dem wunderbaren Anpassungsvermögen an die Be- 
-dingungen des Lehens, welches allen Organismen zukommt, unsere 
-Nachkommen nach 17 Millionen Jahren sich ausgebildet haben 
-werden; ob unsere Knochenreste ihnen nicht vielleicht ebenso un- 
-geheuerlich Vorkommen möchten, wie die der Ichthyosauren uns 
-jetzt, und ob sie, eingerichtet für ein feineres Gleichgewicht, nicht 
-die Temperaturextreme, zwischen denen wir uns bewegen, für eben- 
-so gewaltsam und zerstörend halten werden, wie uns die der älte- 
-sten geologischen Perioden erscheinen würden. Ja, wenn Erde 
-und Sonne regungslos erstarren sollten, wer weiss zu sagen, welche 
-neue Welten bereit sein werden, Lehen aufzunehmen. Die Meteor- 
-steine enthalten zuweilen Kohlenwasserstoffverbindungen; das eigene 
-Licht der Kometenköpfe zeigt ein Spectrum, welches dem des elek- 
-trischen Glimmlichtes in kohlenwasserstoffhaltigen Gasen am ähn- 
-lichsten ist. Kohlenstoff aber ist das für die organischen Verbin- 
-dungen, aus denen die lebenden Körper aufgebaut sind, charakte- 
-ristische Element. Wer weiss Zusagen, oh diese Körper, die überall 
-den Weltraum durchschwärmen, nicht auch Keime des Lebens 
-ausstreuen, so oft irgendwo ein neuer Weltkörper fähig geworden 
-ist organischen Geschöpfen eine Wohnstätte zu gewähren. Und 
-dieses Leben würden wir sogar vielleicht dem unseligen im Keime 
-verwandt halten dürfen, in so abweichenden Formen es sich auch 
-den Zuständen seiner neuen Wohnstätte anpassen möchte. 
-
-Aber wie es damit auch sein möge, was unser sittliches Ge- 
-fühl bei dem Gedanken eines einstigen, wenn noch so fernen 
-Unterganges der lebenden Schöpfung auf dieser Erde aufregt, ist 
-vorzugsweise die Frage, oh all dies Leben nur ein zielloses Spiel 
-sei, was endlich wieder der Zerstörung durch rohe Gewalt anheim- 
-fallen werde. Wir beginnen einzusehen unter dem Lichte von 
-Darwin's grossen Gedanken, dass nicht bloss Lust und Freude, 
-sondern auch Schmerz, Kampf und Tod die mächtigen Mittel sind, 
-durch welche dieNatur ihre feineren und vollendeteren Lebensformen 
-herausbildet. Und wir Menschen insbesondere wissen, dass wir in 
-unserer Intelligenz, staatlichen Ordnung, Gesittung von dem Erb- 
-tlieil zehren, welches unsere Vorfahren durch Arbeit, Kampf und 
-Opfermuth uns erworben haben, und dass, was wir in gleichem 
-Sinne erringen, das Leben unserer Nachkommen veredeln wird. 
-So kann der Einzelne, der für die idealen Zwecke der Menschheit, 
-
-wenn auch an bescheidener Stelle und in engem Wirkungskreise 
-arbeitet, den Gedanken, dass der Faden seines eigenen Bewusst- 
-seins einst abreissen wird, ohne Furcht ertragen. Aber mit dem 
-Gedanken an eine endliche Vernichtung des Geschlechts der Leben- 
-den und damit aller Früchte des Strebens aller vergangenen Gene- 
-rationen konnten auch Männer von so freier und grosser Gesin-* 
-nung, wie Lessing und David Strauss, sich nicht versöhnen. 
-
-Bisher kennen wir noch keine durch wissenschaftliche Beob- 
-achtung feststellbare Thatsache, welche uns anzeigte, dass die feine) 
-und verwickelte Bewegungsform des Lebens anders als an dem 
-schweren Stöbe des organischen Körpers bestehen, dass sie sich 
-in ähnlicher Weise verpflanzen könnte, wie die Schallbewegung einer 
-Saite ihre ursprüngliche enge und feste Wohnung verlassen und 
-sich im Luftmeere ausbreiten kann, und dabei doch ihre Ton- 
-höhe und die feinsten Eigenthiimlichkeiten ihrer Klangfarbe 
-bewahrt, und gelegentlich auch, wo sie eine andere gleichgestimmte 
-Saite trifft, in diese wieder einzieht, oder eine zum Singen bereite 
-Flamme zu gleichgestimmter Tönung erregt. Auch die Flamme, 
-dieses ähnlichste Abbild des Lebens unter den Vorgängen der 
-leblosen Natur, kann erlöschen, aber die von ihr erzeugte Wärme 
-besteht weiter, unzerstörbar und unvergänglich, als unsicht- 
-bare Bewegung, bald die Molekeln wägbaren Stoffes erschütternd, 
-bald als Aetherschwingung hinausstrahlend in die unbegrenzten 
-Tiefen des Raumes. Und auch dann noch bewahrt sie die charak- 
-teristischen Eigentümlichkeiten ihres Ursprungs, und dem Beob- 
-achter, der sie durch das Spectroskop befragt, erzählt sie ihre Ge- 
-schichte. Neu vereinigt aber können ihre Strahlen eine neue 
-Flamme entzünden, und so gleichsam neues körperliches Leben 
-gewinnen. 
-
-Wie die Flamme dem Anscheine nach dieselbe bleibt, und in 
-derselben Gestalt und Beschaffenheit weiter besteht, trotzdem sie 
-in jedem Augenblick neu hinzutretende verbrennliche Dämpfe und 
-neuen Sauerstoff der Atmosphäre in den Strudel ihres aufsteigen- 
-den Luftstromes hineinzieht, und wie die Welle forteilt in unver- 
-änderter Form und doch in jedem Augenblick sich aus neuen 
-Wassertheilchen aufbaut, so ist auch in den lebenden Wesen nicht 
-die bestimmte Masse des Stoffes, die jetzt den Körper zusammen- 
-setzt, dasjenige, an dem das Fortbestehen der Individualität haftet. 
-Denn das Material des Körpers ist wie das der Flamme fortdauern- 
-dem und verhältnissmässig schnellem Wechsel unterworfen, desto 
-schnellerem, je lebhafter die Lebensthätigkeit der betreffenden 
-
-Organe ist. Einige Bestandtheile des Körpers sind nach Tagen, 
-andere nach Monaten, andere nach Jahren erneuert. Was alsjlas 
-besondere Individuum fortbesteht, ist wie bei der Flamme und bei 
-der Welle nur die Bewegungsform, welche unablässig neuen Stoff 
-in ihren Wirbel hineinzieht und den alten wieder ausstösst. Der 
-Beobachter mit taubem Ohre kennt die Schall Schwingung nur, so 
-lange sie sichtbar und fühlbar an schwererem Stoff haftet. Sind 
-unsere Sinne dem Leben gegenüber hierin dem tauben Ohre 
-ähnlich? 
+Wie die Flamme dem Anscheine nach dieselbe bleibt, und in derselben Gestalt und Beschaffenheit weiter besteht, trotzdem sie in jedem Augenblick neu hinzutretende verbrennliche Dämpfe und neuen Sauerstoff der Atmosphäre in den Strudel ihres aufsteigenden Luftstromes hineinzieht, und wie die Welle forteilt in unveränderter Form und doch in jedem Augenblick sich aus neuen Wasserteilchen aufbaut, so ist auch in den lebenden Wesen nicht die bestimmte Masse des Stoffes, die jetzt den Körper zusammensetzt, dasjenige, an dem das Fortbestehen der Individualität haftet. Denn das Material des Körpers ist wie das der Flamme fortdauerndem und verhältnissmässig schnellem Wechsel unterworfen, desto schnellerem, je lebhafter die Lebenstätigkeit der betreffenden Organe ist. Einige Bestandteile des Körpers sind nach Tagen, andere nach Monaten, andere nach Jahren erneuert. Was als das besondere Individuum fortbesteht, ist wie bei der Flamme und bei der Welle nur die Bewegungsform, welche unablässig neuen Stoff in ihren Wirbel hineinzieht und den alten wieder ausstösst. Der Beobachter mit taubem Ohre kennt die Schallschwingung nur, so lange sie sichtbar und fühlbar an schwererem Stoff haftet. Sind unsere Sinne dem Leben gegenüber hierin dem tauben Ohre ähnlich?
