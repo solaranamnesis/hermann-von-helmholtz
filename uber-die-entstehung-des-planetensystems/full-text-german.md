@@ -156,184 +156,39 @@ Wir müssen nach Kräften von viel mächtigeren Dimensionen suchen; und da finde
 
 Wenn ein Gewicht von der Höhe herabstürzt und auf den Boden schlägt, so verliert die Masse desselben allerdings die sichtbare Bewegung, welche sie als Ganzes hatte; aber in Wahrheit ist diese Bewegung nicht verloren, sondern sie geht nur auf die kleinsten elementaren Teilchen der Masse über, und diese unsichtbare Vibration der Molekeln ist Wärmebewegung. Die sichtbare Bewegung wird beim Stosse in Wärmebewegung verwandelt.
 
-Was in dieser Beziehung für die Schwere gilt, gilt ebenso für 
-die Gravitation. Eine schwere Masse, welcher Art sie auch sein 
-möge, die von einer anderen schweren Masse getrennt im Raume 
-schwebt, stellt eine arbeitsfähige Kraft dar. Denn beide Massen 
-ziehen sich an, und wenn sie ungehemmt durch eine Centrifugal- 
-kraft unter Einfluss dieser Anziehung sich einander nähern, so ge- 
-schieht dies mit immer wachsender Geschwindigkeit; und wenn 
-diese Geschwindigkeit schliesslich, sei es plötzlich durch den Zu- 
-sammenstoss, sei es allmälig durch Reihung beweglicher Theile 
-vernichtet wird, so giebt sie entsprechende Mengen von Wärme- 
-bewegung, deren Betrag nach dem vorher angegebenen Aequiva- 
-lentverhältniss zwischen Wärme und mechanischer Arbeit zu be- 
-rechnen ist.
+Was in dieser Beziehung für die Schwere gilt, gilt ebenso für die Gravitation. Eine schwere Masse, welcher Art sie auch sein möge, die von einer anderen schweren Masse getrennt im Raume schwebt, stellt eine arbeitsfähige Kraft dar. Denn beide Massen ziehen sich an, und wenn sie ungehemmt durch eine Zentrifugalkraft unter Einfluss dieser Anziehung sich einander nähern, so geschieht dies mit immer wachsender Geschwindigkeit; und wenn diese Geschwindigkeit schliesslich, sei es plötzlich durch den Zusammenstoss, sei es allmälig durch Reibung beweglicher Teile vernichtet wird, so giebt sie entsprechende Mengen von Wärmebewegung, deren Betrag nach dem vorher angegebenen Äquivalentverhältniss zwischen Wärme und mechanischer Arbeit zu berechnen ist.
 
-Wir dürfen nun wohl mit grosser Wahrscheinlichkeit anneh- 
-men, dass auf die Sonne sehr viel mehr Meteore fallen, als auf die 
-Erde und mit grösserer Geschwindigkeit fallen, also auch mehr 
-Wärme geben. Die Hypothese indessen, dass der ganze Betrag 
-der Sonnenwärme fortdauernd der Ausstrahlung entsprechend durch 
-Meteorfälle erzeugt werde, eine Hypothese, welche von Robert 
-Mayer aufgestellt und von mehreren anderen Physikern günstig 
-aufgenommen wurde, stösst nach Sir W. Thomson 's Unter- 
-suchungen auf Schwierigkeiten, indem die Masse der Sonne in 
-diesem Falle so schnell zunehmen müsste, dass die Folgen davon 
-sich schon in der beschleunigten Bewegung der Planeten verrathen 
-haben würden. Wenigstens kann nicht die ganze Wärmeausgabe 
-der Sonne auf diese Weise erzeugt werden, höchstens ein Theil, 
-der aber vielleicht nicht unbedeutend sein mag. 
+Wir dürfen nun wohl mit grosser Wahrscheinlichkeit annehmen, dass auf die Sonne sehr viel mehr Meteore fallen, als auf die Erde und mit grösserer Geschwindigkeit fallen, also auch mehr Wärme geben. Die Hypothese indessen, dass der ganze Betrag der Sonnenwärme fortdauernd der Ausstrahlung entsprechend durch Meteorfälle erzeugt werde, eine Hypothese, welche von Robert Mayer aufgestellt und von mehreren anderen Physikern günstig aufgenommen wurde, stösst nach Sir W. Thomsons Untersuchungen auf Schwierigkeiten, indem die Masse der Sonne in diesem Falle so schnell zunehmen müsste, dass die Folgen davon sich schon in der beschleunigten Bewegung der Planeten verraten haben würden. Wenigstens kann nicht die ganze Wärmeausgabe der Sonne auf diese Weise erzeugt werden, höchstens ein Teil, der aber vielleicht nicht unbedeutend sein mag.
 
-Wenn nun keine gegenwärtige uns bekannte Kraftleistung 
+Wenn nun keine gegenwärtige uns bekannte Kraftleistung ausreicht, die Ausgabe der Sonnenwärme zu decken, so muss die Sonne von alter Zeit her einen Vorrat von Wärme haben, den sie allmälig ausgiebt. Aber woher dieser Vorrat? Wir wissen schon, nur kosmische Kräfte können ihn erzeugt haben. Da kommt uns die vorher besprochene Hypothese über den Ursprung der Sonne zu Hilfe. Wenn die Stoffmasse der Sonne einst in den kosmischen Räumen zerstreut war, sich dann verdichtet hat, das heisst unter dem Einfluss der himmlischen Schwere auf einander gefallen ist, wenn dann die entstandene Bewegung durch Reibung und Stoss vernichtet wurde, indem sie Wärme erzeugte, so mussten die durch solche Verdichtung entstandenen jungen Weltkörper einen Vorrat von Wärme mitbekommen von nicht bloss bedeutender, sondern zum Teil von kolossaler Grösse.
 
-ausreicht, die Ausgabe der Sonnenwärme zu decken, so muss die 
-Sonne von alter Zeit her einen Vorrath von Wärme haben, den sie 
-allmälig ausgiebt. Aber woher dieser Vorratli? Wir wissen schon, 
-nur kosmische Kräfte können ihn erzeugt haben. Da kommt uns 
-die vorher besprochene Hypothese über den Ursprung der Sonne 
-zu Hilfe. Wenn die Stoffmasse der Sonne einst in den kosmischen 
-Räumen zerstreut war, sich dann verdichtet hat, das heisst unter 
-dem Einfluss der himmlischen Schwere auf einander gefallen ist, 
-wenn dann die entstandene Bewegung durch Reibung und Stoss 
-vernichtet wurde, indem sie Wärme erzeugte, so mussten die durch 
-solche Verdichtung entstandenen jungen Weltkörper einen Vorrath 
-von Wärme mitbekommen von nicht bloss bedeutender, sondern 
-zum Theil von colossaler Grösse. 
+Die Rechnung ergiebt, dass bei Annahme der Wärmekapazität des Wassers für die Sonne die Temperatur auf 28 Millionen* Grade hätte gesteigert werden können, wenn diese ganze Wärmemenge jemals ohne Verlust in der Sonne zusammen gewesen wäre. Das dürfen wir nicht annehmen; denn eine solche Temperatursteigerung wäre das stärkste Hinderniss der Verdichtung gewesen. Es ist vielmehr wahrscheinlich, dass ein guter Teil dieser Wärme, der durch die Verdichtung erzeugt wurde, noch ehe diese vollendet war, anfing hinauszustrahlen in den Raum. Aber die Wärme, welche die Sonne bisher durch ihre Verdichtung hat entwickeln können, würde zugereicht haben um ihre gegenwärtige Wärmeausgabe auf nicht weniger denn 22 Millionen Jahre der Vergangenheit zu decken.
 
-Die Rechnung ergiebt, dass bei Annahme der Wärmecapacität 
-des Wassers für die Sonne die Temperatur auf 28 Millionen*) Grade 
-hätte gesteigert werden können, wenn diese ganze Wärmemenge 
-jemals ohne Verlust in der Sonne zusammen gewesen wäre. Das 
-dürfen wir nicht annehmen; denn eine solche Temperatursteigerung 
-wäre das stärkste Hinderniss der Verdichtung gewesen. Es ist 
-vielmehr wahrscheinlich, dass ein guter Theil dieser Wärme, der 
-durch die Verdichtung erzeugt wurde, noch ehe diese vollendet 
-war, anfing hinauszustrahlen in den Raum. Aber die Wärme, 
-welche die Sonne bisher durch ihre Verdichtung hat entwickeln 
-können, würde zugereicht haben um ihre gegenwärtige Wärme- 
-ausgabe auf nicht weniger denn 22 Millionen Jahre der Vergangen- 
-heit zu decken. 
+Und die Sonne ist offenbar noch nicht so dicht, wie sie werden kann. Die Spektralanalyse zeigt uns die Anwesenheit grosser Eisenmassen und anderer bekannter irdischer Gebirgsbestandteile in ihr an. Der Druck, der ihr Inneres zu verdichten strebt, ist etwa 800 Mal so gross, als der im Kern der Erde, und doch beträgt die Dichtigkeit der Sonne, wahrscheinlich in Folge ihrer ungeheuer hohen Temperatur, weniger als ein Viertel von der mittleren Dichtigkeit der Erde.
 
-Und die Sonne ist offenbar noch nicht so dicht, wie sie wer- 
-den kann. Die Spectralanalyse zeigt uns die Anwesenheit grosser 
-Eisenmassen und anderer bekannter irdischer Gebirgsbestandtheile 
-in ihr an. Der Druck, der ihr Inneres zu verdichten strebt, ist 
-etwa 800 Mal so gross, als der im Kern der Erde, und doch beträgt 
-die Dichtigkeit der Sonne, wahrscheinlich in Folge ihrer ungeheuer 
-hohen Temperatur, weniger als ein Viertel von der mittleren 
-Dichtigkeit der Erde. 
+Wir dürfen es deshalb wohl für sehr wahrscheinlich halten, dass die Sonne noch fortschreiten wird in ihrer Verdichtung, und wenn sie auch nur bis zur Dichtigkeit der Erde gelangt, --- wahrscheinlich aber wird sie wegen des ungeheuren Druckes in ihrem Inneren viel dichter werden, --- so würde dies neue Wärmemengen entwickeln, welche genügen würden für noch weitere 17 Millionen Jahre dieselbe Intensität des Sonnenscheins zu unterhalten, welche jetzt die Quelle alles irdischen Lebens ist.
 
-Wir dürfen es deshalb wohl für sehr wahrscheinlich halten, 
-dass die Sonne noch fortschreiten wird in ihrer Verdichtung, und 
-wenn sie auch nur bis zur Dichtigkeit der Erde gelangt, --- wahr- 
-scheinlich aber wird sie wegen des ungeheuren Druckes in ihrem 
+*) Siehe die Nachweise zu diesen Zahlen in Heft 2. dieser Vorträge S. 120 u. 134.
 
+Die kleineren Körper unseres Systemes konnten sich weniger erhitzen als die Sonne, weil die Anziehung der neu hinzukommenden Massen bei ihnen schwächer war. Ein Körper wie die Erde konnte sich indessen, wenn wir auch ihre Wärmekapazität so hoch wie die des Wassers setzen, immerhin noch auf 9000 Grad erhitzen, auf mehr als unsere Flammen zu Stande bringen. Die kleineren Körper mussten sich auch schneller abkühlen, wenigstens so lange sie noch flüssig waren. Noch zeigt die mit der Tiefe steigende Wärme in Bohrlöchern, Bergwerken, die Existenz der heissen Quellen und der vulkanischen Ausbrüche, dass im Inneren der Erde eine sehr hohe Temperatur herrscht, welche kaum etwas anders sein kann, als ein Rest des alten Wärmevorrates von der Zeit ihrer Entstehung her. Wenigstens sind die Versuche, für die innere Erdwärme eine jüngere Entstehung aus chemischen Prozessen aufzufinden, bisher nur auf sehr willkürliche Annahmen gestützt und der allgemeinen gleichmässigen Verbreitung der inneren Erdwärme gegenüber ziemlich ungenügend.
 
-*) Siehe die Nachweise zu diesen Zahlen in Heft II. dieser Vorträge 
-S. 120 u. 134. 
+Dagegen fällt bei den grossen Massen des Jupiter, des Saturn, des Uranus, des Neptun die geringe Dichtigkeit auf, wie bei der Sonne, während die kleineren Planeten und der Mond sich der Dichtigkeit der Erde nähern. Man darf auch hier wohl an die höhere Anfangstemperatur und die langsamere Abkühlung denken, wie sie grösseren Massen eigentümlich ist.* Der Mond dagegen zeigt an seiner Oberfläche Bildungen, die in auffallendster Weise an vulkanische Krater erinnern, und ihrerseits ebenfalls auf alte Glühhitze unseres Trabanten hinweisen. Wie denn auch ferner die Art seiner Rotation, dass er nämlich der Erde immer dieselbe Seite zukehrt, eine Eigentümlichkeit ist, die durch die Reibung einer Flüssigkeit hervorgebracht werden konnte. Auf seiner Oberfläche ist von einer solchen jetzt nichts mehr wahrzunehmen.
 
-Inneren viel dichter werden, --- so würde dies neue Wärmemengen 
-entwickeln, welche genügen würden für noch weitere 17 Millionen 
-J alire dieselbe Intensität des Sonnenscheins zu unterhalten, welche 
-jetzt die Quelle alles irdischen Lebens ist. 
+*) Herr Zoellner schliesst aus photometrischen Messungen, die aber wohl noch der Bestätigung bedürfen, dass der Jupiter noch jetzt eigenes Glühlicht habe.
 
-Die kleineren Körper unseres Systemes konnten sich weniger 
-erhitzen als die Sonne, weil die Anziehung der neu hinzukommen- 
-den Massen bei ihnen schwächer war. Ein Körper wie die Erde 
-konnte sich indessen, wenn wir auch ihre Wärmecapacität so hoch 
-wie die des Wassers setzen, immerhin noch auf 9000 Grad er- 
-hitzen, auf mehr als unsere Flammen zu Stande bringen. Die 
-kleineren Körper mussten sich auch schneller abkühlen, wenigstens 
-so lange sie noch flüssig waren. Noch zeigt die mit der Tiefe 
-steigende Wärme in Bohrlöchern, Bergwerken, die Existenz der 
-heissen Quellen und der vulcanischen Ausbrüche, dass im Inneren 
-der Erde eine sehr hohe Temperatur herrscht, welche kaum etwas 
-anders sein kann, als ein Rest des alten Wärmevorrathes von der 
-Zeit ihrer Entstehung her. Wenigstens sind die Versuche, für die 
-innere Erdwärme eine jüngere Entstehung aus chemischen Pro- 
-cessen aufzufinden, bisher nur auf sehr willkürliche Annahmen 
-gestützt und der allgemeinen gleichmässigen Verbreitung der 
-inneren Erdwärme gegenüber ziemlich ungenügend. 
+[Fig. 8.]()
 
-Dagegen fällt bei den grossen Massen des Jupiter, des Saturn, 
-des Uranus, des Neptun die geringe Dichtigkeit auf, wie bei der 
-Sonne, während die kleineren Planeten und der Mond sich der 
-Dichtigkeit der Erde nähern. Man darf auch hier wohl an die 
-höhere Anfangstemperatur und die langsamere Abkühlung denken, 
-wie sie grösseren Massen eigen thümlich ist*). Der Mond dagegen 
-zeigt an seiner Oberfläche Bildungen, die in auffallendster Weise 
-an vulcanische Krater erinnern, und ihrerseits ebenfalls auf alte 
-Glühhitze unseres Trabanten hinweisen. Wie denn auch ferner 
-die Art seiner Rotation, dass er nämlich der Erde immer dieselbe 
-Seite zukelirt, eine Eigentümlichkeit ist, die durch die Reihung 
-einer Flüssigkeit hervorgebracht werden konnte. Auf seiner Ober- 
-fläche ist von einer solchen jetzt nichts mehr wahrzunehmen. 
+Sie sehen, wie verschiedene Wege uns immer auf denselben Anfangszustand zurückgeführt haben. Die Kant-Laplace'sche Hypothese erweist sich als einer der glücklichen Griffe in der Wissenschaft, die uns anfangs durch ihre Kühnheit erstaunen machen, sich dann nach allen Seiten hin mit anderen Entdeckungen in Wechselbeziehungen setzen und in ihren Folgerungen bestätigen, bis sie uns vertraut werden. Dazu hat in diesem Falle nun noch ein anderer Umstand beigetragen, nämlich die Wahrnehmung, dass diese Umbildungsprozesse, welche die besprochene Theorie voraussetzt, auch jetzt immer noch, wenn auch in verringertem Maassstabe, vor sich gehen, wie alle Stadien jener Umbildung auch jetzt noch existiren.
 
-Sie sehen, wie verschiedene Wege uns immer auf denselben 
-Anfangszustand zurückgeführt haben. Die Kant-Laplace'sche 
-Hypothese erweist sich als einer der glücklichen Griffe in der 
-Wissenschaft, die uns anfangs durch ihre Kühnheit erstaunen 
+[Fig. 9.]()
 
-*) Herr Zoeliner schliesst aus pliotometrisclien Messungen, die aber 
-wohl noch der Bestätigung bedürfen, dass der Jupiter noch jetzt eigenes 
-Glühlicht, habe. 
+Denn, wie wir anfangs gesehen haben, wachsen auch jetzt noch die schon gebildeten grossen Körper durch Anziehung der im Weltraum zerstreuten meteorischen Massen unter Feuererscheinung. Auch jetzt noch werden die kleineren Körper langsam durch den Widerstand im Weltraum der Sonne zugetrieben. Auch jetzt noch finden wir am Fixsternhimmel nach J. Herschels neuestem Kataloge über 5000 Nebelflecke, von denen die hinreichend lichtstarken meistens ein Farbenspektrum von feinen hellen Linien geben, wie sie in den Spektren der glühenden Gase erscheinen. Die Nebelflecke sind teils rundliche Gebilde, sogenannte planetarische Nebel (Fig. 8.), teils von ganz unregelmässiger Form, wie der in Fig. 9. dargestellte grosse Nebel aus dem Orion; zum Teil sind sie ringförmig, wie in Fig. 10. aus den Jagdhunden. Sie sind meist nur schwach, aber mit ihrer ganzen Fläche leuchtend, während die Fixsterne immer nur als leuchtende Punkte erscheinen.
 
-Helmholt z, Vorträge. III. 9 
+[Fig. 10.]() 
 
-machen, sich dann nach allen Seiten hin mit anderen Entdeckungen 
-in Wechselbeziehungen setzen und in ihren Folgerungen bestätigen, 
-bis sie uns vertraut werden. Dazu hat in diesem Falle nun noch 
-ein anderer Umstand beigetragen, nämlich die Wahrnehmung, dass 
+[Fig. 11.]()
 
-
-Fig. 12. 
-
-
-neren Körper langsam durch 
-Sonne zugetrieben. Auch jetzt 
-
-
-diese Lmbildungsprocesse, welche 
-die besprochene Theorie voraus- 
-setzt, auch jetzt immer noch, wenn 
-auch in verringertem Maassstabe, 
-vor sich gehen, wie alle Stadien 
-jener Umbildung auch jetzt noch 
-existiren. 
-
-Denn, wie wir anfangs gesehen 
-haben, wachsen auch jetzt noch 
-die schon gebildeten grossen Kör- 
-per durch Anziehung der im Welt- 
-raum zerstreuten meteorischen 
-Massen unter Feuererscheinung. 
-Auch jetzt noch werden die klei- 
-len Widerstand im Weltraum der 
-noch finden wir am Fixsternhimmel 
-
-
-nach J. IlerscheUs neuestem Kataloge über 5000 Nebelflecke, von 
-
-
-Fig. 13. 
-
-denen die hinreichend lichtstarken meistens einFarbenspectrumvon 
-feinen hellen Linien geben, wie sie in den Spectren der glühenden 
-Gase erscheinen. Die Nebelflecke sind tlieils rundliche Gebilde, soge- 
-nannte planetarische Nebel (Fig. 12), theils von ganz unregel- 
-mässiger Form, wie der in Fig, 13 dargestellte grosse Nebel aus 
-
-Fig. 14, 
-
-
-dem Orion; zum Theil sind sie ringförmig, wie in Fig. 14 aus den 
-Jagdhunden. Sie sind meist nur schwach, aber mit ihrer ganzen 
-Fig. 15. Fig. 16. 
-
-
-Fläche leuchtend, während die Fixsterne immer nur als leuchtende 
-Punkte erscheinen. 
+[Fig. 12.]()
 
 In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 15 
 und Fig. 10 (a.v. S.) aus dem Schützen und Fuhrmann. Man unter- 
