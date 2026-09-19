@@ -110,288 +110,51 @@ Dem einzelnen Beobachter, der gelegentlich nach dem gestirnten Himmel blickt, er
 
 *) Siehe Heft 2., S. 166.
 
-Viele Sternschnuppen sind regellos im Weltraum vertheilt; es 
-sind dies wahrscheinlich solche, die schon Störungen durch die 
-Planeten erlitten haben. Daneben giebt es aber auch dichtere 
-Schwärme, die in regelmässig elliptischen Bahnen einherziehen 
-und den Weg der Erde an bestimmten Stellen schneiden, deshalb 
-an besonderen Jahrestagen immer wieder auftauchen. So ist jedes 
-Jahr ausgezeichnet der 10. August, und alle 33 Jahre für einige 
-Jahre sich wiederholend das prachtvolle Feuerwerk des 12. bis 
-14. November. Merkwürdig ist, dass auf den Bahnen dieser 
-Schwärme gewisse Kometen laufen, und daher die Vermuthung 
-entsteht, dass sich die Kometen allmälig in Meteorschwärme zer- 
-splittern. 
+Viele Sternschnuppen sind regellos im Weltraum verteilt; es sind dies wahrscheinlich solche, die schon Störungen durch die Planeten erlitten haben. Daneben giebt es aber auch dichtere Schwärme, die in regelmässig elliptischen Bahnen einherziehen und den Weg der Erde an bestimmten Stellen schneiden, deshalb an besonderen Jahrestagen immer wieder auftauchen. So ist jedes Jahr ausgezeichnet der 10. August, und alle 33 Jahre für einige Jahre sich wiederholend das prachtvolle Feuerwerk des 12. bis 14. November. Merkwürdig ist, dass auf den Bahnen dieser Schwärme gewisse Kometen laufen, und daher die Vermutung entsteht, dass sich die Kometen allmälig in Meteorschwärme zersplittern.
 
-Dies ist ein bedeutsamer Process. Was die Erde tliut, thun 
-unzweifelhaft auch die anderen Planeten und in noch viel höherem 
-Maasse dje Sonne, der alle die kleineren und dem Einflüsse des 
-widerstehenden Mittels mehr unterworfenen Körper unseres 
-Systemes desto schneller zusinken müssen, je kleiner sie sind. Die 
-Erde und die Planeten fegen seit Millionen von Jahren die lose 
-Masse des Weltraumes zusammen, und halten fest, was sie einmal 
-an sich gezogen haben. Daraus folgt aber, dass Erde und Planeten 
-einst kleiner waren, als sie jetzt sind, und dass mehr Masse im 
-Weltraum verstreut war; und wenn wir diese Betrachtung zu Ende 
-denken, so führt uns dies auf einen Zustand, wo vielleicht alle 
-Masse, die jetzt in der Sonne und den Planeten angehäuft ist, in 
-loser Zerstreuung durch den Weltraum schwärmte. Denken wir 
-daran, dass die kleinen Massen der Meteoriten, wie sie jetzt fallen, 
-auch vielleicht durch allmälige Aneignung feineren Staubes ge- 
-wachsen sein mögen, so würden wir uns auf einen Urzustand feiner 
-nebelartiger Massen vertheilung hingewiesen sehen. 
+Dies ist ein bedeutsamer Prozess. Was die Erde tut, tun unzweifelhaft auch die anderen Planeten und in noch viel höherem Maasse die Sonne, der alle die kleineren und dem Einflusse des widerstehenden Mittels mehr unterworfenen Körper unseres Systemes desto schneller zusinken müssen, je kleiner sie sind. Die Erde und die Planeten fegen seit Millionen von Jahren die lose Masse des Weltraumes zusammen, und halten fest, was sie einmal an sich gezogen haben. Daraus folgt aber, dass Erde und Planeten einst kleiner waren, als sie jetzt sind, und dass mehr Masse im Weltraum verstreut war; und wenn wir diese Betrachtung zu Ende denken, so führt uns dies auf einen Zustand, wo vielleicht alle Masse, die jetzt in der Sonne und den Planeten angehäuft ist, in loser Zerstreuung durch den Weltraum schwärmte. Denken wir daran, dass die kleinen Massen der Meteoriten, wie sie jetzt fallen, auch vielleicht durch allmälige Aneignung feineren Staubes gewachsen sein mögen, so würden wir uns auf einen Urzustand feiner nebelartiger Massenverteilung hingewiesen sehen.
 
-Unter diesem Gesichtspunkte, dass der Fall der Sternschnuppen 
-und Meteorsteine vielleicht ein kleiner Rest eines Processes ist, der 
-einst unsere Welten gebildet hat, gewinnt er eine sehr erhöhte 
-Bedeutung. 
+Unter diesem Gesichtspunkte, dass der Fall der Sternschnuppen und Meteorsteine vielleicht ein kleiner Rest eines Prozesses ist, der einst unsere Welten gebildet hat, gewinnt er eine sehr erhöhte Bedeutung.
 
-Dies wäre nun eine Vermuthung, die nur ihre Möglichkeit für 
-sich hätte, aber vielleicht noch nicht viel Wahrscheinlichkeit für 
-sich in Anspruch nehmen würde, wenn wir nicht fänden, dass schon 
-längst, von ganz anderen Betrachtungen ausgehend, unsere Vor- 
-gänger zu ganz derselben Hypothese gekommen sind. 
+Dies wäre nun eine Vermutung, die nur ihre Möglichkeit für sich hätte, aber vielleicht noch nicht viel Wahrscheinlichkeit für sich in Anspruch nehmen würde, wenn wir nicht fänden, dass schon längst, von ganz anderen Betrachtungen ausgehend, unsere Vorgänger zu ganz derselben Hypothese gekommen sind.
 
-Sie wissen, dass eine beträchtliche Anzahl von Planeten um 
-die Sonne kreisen; ausser den acht grösseren, Merkur, Venus, Erde, 
-Mars, Jupiter, Saturn, Uranus, Neptun, laufen in dem Zwischen- 
-raum zwischen Mars und Jupiter, so weit bis jetzt bekannt, 156 
-kleine Planeten oder Planetoiden. Um die grösseren Planeten, 
-nämlich um die Erde und die vier entferntesten, Jupiter, Saturn, 
-Uranus, Neptun, laufen auch Monde, und endlich drehen sich die 
-Sonne und wenigstens die grösseren Planeten um ihre eigene Axe. 
-Zunächst ist nun auffallend, dass alle Balmebenen der Planeten 
-und ihrer Trabanten, sowie die Aequatorialebenen der Planeten 
-nicht sehr weit von einander abweichen, und dass in diesen Ebenen 
-alle Rotationen in demselben Sinne geschehen. Die einzige erheb- 
-liche Ausnahme, die man kennt, sind die Monde des Uranus, deren 
-Bahnebene naheliin rechtwinklig gegen die Bahnebenen der 
-grösseren Planeten ist. Dabei ist hervorzuheben, dass die Ueber- 
-einstimmung in der Richtung dieser Ebenen im Allgemeinen um 
-so grösser ist, um je grössere Körper und um je längere Bahnen 
-es sich handelt, während an den kleineren Körpern und für die 
-kleineren Bahnen, namentlich auch für die Drehungen der Planeten 
-um ihre eigenen Axen, erheblichere Abweichungen Vorkommen. So 
-haben die Bahnebenen aller Planeten mit Ausnahme des Merkur 
-und der kleinen zwischen Mars und Jupiter, höchstens 3° Ab- 
-weichung (Venus) von der Erdbahn. Auch die Aequatorialebene 
-der Sonne weicht nur um 7 y2° ab, die des Jupiter nur halb so 
-viel. Die Aequatorialebene der Erde weicht freilich um 23 y/ 
-ab, die des Mars um 281/20, mehr noch einzelne Bahnen der kleinen 
-Planeten und Trabanten. Aber in diesen Bahnen bewegen sie 
-sich alle rechtläufig, alle in demselben Sinne um die Sonne, und 
-so weit man erkennen kann, auch um ihre eigene Axe, wie die 
-Erde, nämlich von Westen nach Osten. Wären sie nun unabhängig 
-von einander entstanden und zusammengekommen, so wäre eine 
-jede Richtung der Bahnebenen für jeden einzelnen von ihnen gleich 
-wahrscheinlich gewesen, rückläufige Richtung des Umlaufes ebenso 
-wahrscheinlich, wie rechtläufige; stark elliptische Bahnen ebenso 
-wahrscheinlich, als die nahe kreisförmigen, welche wir bei allen den 
-genannten Körpern finden. In der That herrscht vollkommene 
-Regellosigkeit bei den Kometen und Meteorschwärmen, für welche 
-wir mancherlei Gründe haben, sie nur als zufällig in den Anziehungs- 
-kreis unserer Sonne gerathene Gebilde anzusehen. 
+Sie wissen, dass eine beträchtliche Anzahl von Planeten um die Sonne kreisen; ausser den acht grösseren, Merkur, Venus, Erde, Mars, Jupiter, Saturn, Uranus, Neptun, laufen in dem Zwischenraum zwischen Mars und Jupiter, so weit bis jetzt bekannt, 156 kleine Planeten oder Planetoiden. Um die grösseren Planeten, nämlich um die Erde und die vier entferntesten, Jupiter, Saturn, Uranus, Neptun, laufen auch Monde, und endlich drehen sich die Sonne und wenigstens die grösseren Planeten um ihre eigene Axe. Zunächst ist nun auffallend, dass alle Bahnebenen der Planeten und ihrer Trabanten, sowie die Äquatorialebenen der Planeten nicht sehr weit von einander abweichen, und dass in diesen Ebenen alle Rotationen in demselben Sinne geschehen. Die einzige erhebliche Ausnahme, die man kennt, sind die Monde des Uranus, deren Bahnebene nahehin rechtwinklig gegen die Bahnebenen der grösseren Planeten ist. Dabei ist hervorzuheben, dass die Übereinstimmung in der Richtung dieser Ebenen im Allgemeinen um so grösser ist, um je grössere Körper und um je längere Bahnen es sich handelt, während an den kleineren Körpern und für die kleineren Bahnen, namentlich auch für die Drehungen der Planeten um ihre eigenen Axen, erheblichere Abweichungen vorkommen. So haben die Bahnebenen aller Planeten mit Ausnahme des Merkur und der kleinen zwischen Mars und Jupiter, höchstens 3° Abweichung (Venus) von der Erdbahn. Auch die Äquatorialebene der Sonne weicht nur um 7 1/2° ab, die des Jupiter nur halb so viel. Die Äquatorialebene der Erde weicht freilich um 23 1/2° ab, die des Mars um 28 1/2°, mehr noch einzelne Bahnen der kleinen Planeten und Trabanten. Aber in diesen Bahnen bewegen sie sich alle rechtläufig, alle in demselben Sinne um die Sonne, und so weit man erkennen kann, auch um ihre eigene Axe, wie die Erde, nämlich von Westen nach Osten. Wären sie nun unabhängig von einander entstanden und zusammengekommen, so wäre eine jede Richtung der Bahnebenen für jeden einzelnen von ihnen gleich wahrscheinlich gewesen, rückläufige Richtung des Umlaufes ebenso wahrscheinlich, wie rechtläufige; stark elliptische Bahnen ebenso wahrscheinlich, als die nahe kreisförmigen, welche wir bei allen den genannten Körpern finden. In der Tat herrscht vollkommene Regellosigkeit bei den Kometen und Meteorschwärmen, für welche wir mancherlei Gründe haben, sie nur als zufällig in den Anziehungskreis unserer Sonne geratene Gebilde anzusehen.
 
-Die Zahl der übereinstimmenden Fälle bei den Planeten und 
-ihren Trabanten ist zu gross, als dass man sie für Zufall halten 
+Die Zahl der übereinstimmenden Fälle bei den Planeten und ihren Trabanten ist zu gross, als dass man sie für Zufall halten könnte. Man muss nach einer Ursache dieser Übereinstimmung fragen, und diese kann nur in einem ursprünglichen Zusammenhange der ganzen Masse gesucht werden. Nun kennen wir wohl Kräfte und Vorgänge, die eine anfänglich zerstreute Masse sammeln, aber keine, welche grosse Körper, wie die Planeten, so weit in den Raum hinaustreiben konnte, wie wir sie jetzt finden. Ausserdem müssten sie stark elliptische Bahn haben, wenn sie sich an einem der Sonne viel näheren Orte von der gemeinsamen Masse gelöst hätten. Wir müssen also annehmen, dass diese Masse in ihrem Anfangszustande mindestens bis an die Bahn des äussersten Planeten hinausgereicht hat.
 
-könnte. Man muss nach einer Ursache dieser Uebereinstimmung 
-tragen, und diese kann nur in einem ursprünglichen Zusammen- 
-hänge der ganzen Masse gesucht werden. Nun kennen wir wohl 
-Kräfte und Vorgänge, die eine anfänglich zerstreute Masse sammeln, 
-aber keine, welche grosse Körper, wie die Planeten, so weit in den 
-Raum hinaustreiben konnte, wie wir sie jetzt linden. Ausserdem 
-müssten sie stark elliptische Bahn haben, wenn sie sich an einem 
-der Sonne viel näheren Orte von der gemeinsamen Masse gelöst 
-hätten. Wir müssen also annehmen, dass diese Masse in ihrem 
-Anfangszustande mindestens bis an die Bahn des äussersten Planeten 
-hinausgereicht hat. 
+Dies waren im Wesentlichen die Betrachtungen, welche Kant und Laplace zu ihrer Hypothese führten. Unser System war nach ihrer Ansicht ursprünglich ein chaotischer Nebelball, in welchem anfangs, als er noch bis zur Bahn der äussersten Planeten reichte, viele Billionen Kubikmeilen kaum ein Gramm Masse enthalten konnten. Dieser Ball besass, als er sich von den Nebelballen der benachbarten Fixsterne getrennt hatte, eine langsame Rotationsbewegung. Er verdichtete sich unter dem Einfluss der gegenseitigen Anziehung seiner Teile und in dem Maasse, wie er sich verdichtete, musste die Rotationsbewegung zunehmen und ihn zu einer flachen Scheibe auseinander treiben. Von Zeit zu Zeit trennten sich die Massen am Umfang dieser Scheibe unter dem Einfluss der zunehmenden Zentrifugalkraft, und was sich trennte, ballte sich wiederum in einen rotirenden Nebelball zusammen, der sich entweder einfach zu einem Planeten verdichtete, oder während dieser Verdichtung auch seinerseits noch wieder peripherische Massen abstiess, die zu Trabanten wurden, oder in einem Fall am Saturn als zusammenhängender Ring stehen blieben. In einem anderen Falle zerfiel die Masse, die sich vom Umfang des Hauptballes abschied, in viele von einander getrennte Teile und lieferte den Schwarm der kleinen Planeten zwischen Mars und Jupiter.
 
-Dies waren im Wesentlichen die Betrachtungen, welche Kant 
-und Laplace zu ihrer Hypothese führten. Unser System war 
-nach ihrer Ansicht ursprünglich ein chaotischer Nebelhall, in 
-welchem anfangs, als er noch bis zur Bahn der äussersten Planeten 
-reichte, viele Billionen Cubikmeilen kaum ein Gramm Masse ent- 
-halten konnten. Dieser Ball besass, als er sich von den Nebel- 
-ballen der benachbarten Fixsterne getrennt hatte, eine langsame 
-Rotationsbewegung. Er verdichtete sich unter dem Einfluss der 
-gegenseitigen Anziehung seiner Tlieile und in dem Maasse, wie er 
-sich verdichtete, musste die Rotationsbewegung zunehmen und ihn 
-zu einer flachen Scheibe auseinander treiben. Von Zeit zu Zeit 
-trennten sich die Massen am Umfang dieser Scheibe unter dem Ein- 
-fluss der zunehmenden Centrifugalkraft, und was sich trennte, ballte 
-sich wiederum in einen röhrenden Nebelhall zusammen, der sich ent- 
-weder einfach zu einem Planeten verdichtete, oder während dieser 
-Verdichtung auch seinerseits noch wieder peripherische Massen ab- 
-stiess, die zu Trabanten wurden, oder in einem Fall am Saturn 
-als zusammenhängender Ring stehen blieben. In einem anderen 
-Falle zerflei die Masse, die sich vom Umfang des Hauptballes ab- 
-schied, in viele von einander getrennte Tlieile und lieferte den 
-Schwarm der kleinen Planeten zwischen Mars und Jupiter. 
+Unsere neueren Erfahrungen über die Natur der Sternschnuppen lassen uns nun erkennen, dass dieser Prozess der Verdichtung lose zerstreuter Masse zu grösseren Körpern noch gar nicht vollendet ist, sondern, wenn auch in schwachen Resten, noch immer fortgeht; vielleicht nur dadurch in der Erscheinungsform etwas geändert, dass inzwischen auch die gasartig oder staubartig zerstreute Masse des Weltraumes sich unter dem Einfluss der Attraktionskraft und Krystallisationskraft ihrer Elemente in grössere Bröckel vereinigt hat, als deren im Anfang existirten.
 
-Unsere neueren Erfahrungen über die Natur der Sternschnuppen 
-lassen uns nun erkennen, dass dieser Process der Verdichtung lose 
-zerstreuter Masse zu grösseren Körpern noch gar nicht vollendet 
-ist, sondern, wenn auch in schwachen Resten, noch immer fortgeht; 
-vielleicht nur dadurch in der Erscheinungsform etwas geändert, 
-dass inzwischen auch die gasartig oder staubartig zerstreute Masse 
-des Weltraumes sich unter dem Einfluss der Attractionskraft und 
-Krystallisationskraft ihrer Elemente in grössere Brockel vereinigt 
-hat, als deren im Anfang existirten. 
+Die Sternschnuppenfälle, als die jetzt vor sich gehenden Beispiele des Prozesses, der die Weltkörper gebildet hat, sind noch in anderer Beziehung wichtig. Sie entwickeln Licht und Wärme, und das leitet uns auf eine dritte Reihe von Überlegungen, die wieder zu demselben Ziele führt.
 
-Die Sternschnuppenfälle, als die jetzt vor sich gehenden Bei- 
-spiele des Processes, der die Weltkörper gebildet hat, sind noch 
-in anderer Beziehung wichtig. Sie entwickeln Licht und Wärme, 
-und das leitet uns auf eine dritte Reihe von LTeberlegungen, die 
-wieder zu demselben Ziele fuhrt. 
+Alles Leben und alle Bewegung auf unserer Erde wird mit wenigen Ausnahmen unterhalten durch eine einzige Triebkraft, die der Sonnenstrahlen, welche uns Licht und Wärme bringen. Sie wärmen die Luft der heissen Zone, diese wird leichter und steigt auf, kältere fliesst den Polen nach. So entsteht die grosse Luftzirkulation der Passatwinde. Lokale Temperaturunterschiede über Land und Meer, Ebene und Gebirge greifen mannigfaltig abändernd ein in diese grosse Bewegung und bringen uns den launenhaften Wechsel des Windes. Warme Wasserdämpfe steigen mit der warmen Luft auf, verdichten sich als Wolken und fallen in kälteren Zonen und auf die schneeigen Häupter der Berge als Regen, als Schnee. Das Wasser sammelt sich in Bächen, in Flüssen, tränkt die Ebene und macht Leben möglich, zerbröckelt die Steine, schleppt ihre Trümmer mit fort und arbeitet so an dem geologischen Umbau der Erdoberfläche. Nur unter dem Einfluss der Sonnenstrahlen wächst die bunte Pflanzendecke der Erde auf, und während sie wachsen, häufen sie in ihrem Körper organische Substanz an, die wiederum dem ganzen Tierreich als Nahrung, und dem Menschen insbesondere auch noch als Brennmaterial dient. Sogar die Steinkohlen und Braunkohlen, die Kraftquellen unserer Dampfmaschinen, sind Reste urweltlicher Pflanzen; alte Erzeugnisse der Sonnenstrahlen.
 
-Alles Leben und alle Bewegung auf unserer Erde wird mit 
-wenigen Ausnahmen unterhalten durch eine einzige Triebkraft, die 
-der Sonnenstrahlen, welche uns Licht und Wärme bringen. Sie 
-wärmen die Luft der heissen Zone, diese wird leichter und steigt 
-auf, kältere fiiesst den Polen nach. So entsteht die grosse Luft- 
-circulation der Passatwinde. Locale Temperaturunterschiede über 
-Land und Meer, Ebene und Gebirge greifen mannigfaltig abändernd 
-ein in diese grosse Bewegung und bringen uns den launenhaften 
-Wechsel des Windes. Warme Wasserdämpfe steigen mit der 
-warmen Luft auf, verdichten sich als Wolken und fallen in kälteren 
-Zonen und auf die schneeigen Häupter der Berge als Regen, als 
-Schnee. Das Wasser sammelt sich in Bächen, in Flüssen, tränkt 
-die Ebene und macht Leben möglich, zerbröckelt die Steine, schleppt 
-ihre Trümmer mit fort und arbeitet so an dem geologischen Umbau 
-der Erdoberfläche. Nur unter dem Einfitiss der Sonnenstrahlen 
-wächst die bunte Pflanzendecke der Erde auf, und während sie 
-wachsen, häufen sie in ihrem Körper organische Substanz an, die 
-wiederum dem ganzen Thierreich als Nahrung, und dem Menschen 
-insbesondere auch noch als Brennmaterial dient. Sogar die Stein- 
-kohlen und Braunkohlen, die Kraftquellen unserer Dampfmaschi- 
-nen, sind Reste urweltlicher Pflanzen ; alte Erzeugnisse der Sonnen- 
-strahlen. 
+Dürfen wir uns wundern, wenn unseren Urvätern arischen Stammes in Indien und Persien die Sonne als das geeignetste Symbol der Gottheit erschien. Sie hatten Recht, wenn sie sie als die Spenderin alles Lebens, als die letzte Quelle von fast allem irdischen Geschehen ansahen.
 
-Dürfen wir uns wundern, wenn unseren Urvätern arischen 
-Stammes in Indien und Persien die Sonne als das geeignetste 
-Symbol der Gottheit erschien. Sie hatten Recht, wenn sie sie als 
-die Spenderin alles Lebens, als die letzte Quelle von fast allem 
-irdischen Geschehen ansahen. 
+Aber woher kommt der Sonne diese Kraft? Sie strahlt intensiveres Licht aus, als mit irgend welchen irdischen Mitteln zu erzeugen ist. Sie liefert so viel Wärme, als wenn in jeder Stunde 1500 Pfund Kohle auf jedem Quadratfuss ihrer Oberfläche verbrannt würden. Von dieser Wärme, die ihr entströmt, leistet der kleine Bruchteil, der in unsere Atmosphäre eintritt, eine grosse mechanische Arbeit. Dass Wärme im Stande sei, eine solche zu leisten, lehrt uns jede Dampfmaschine. In der Tat treibt die Sonne hier auf Erden eine Art von Dampfmaschine, deren Leistungen denen der künstlich konstruirten Maschinen bei weitem überlegen sind. Die Wasserzirkulation in der Atmosphäre nämlich schafft, wie schon erwähnt, das aus den warmen tropischen Meeren verdampfende Wasser auf die Höhe der Berge; sie stellt gleichsam eine Wasserhebungsmaschine grösster Art dar, mit deren Leistungsgrösse keine künstliche Maschine sich auch nur im entferntesten messen kann. Ich habe vorher schon das mechanische Äquivalent der Wärme angegeben. Danach berechnet, ist die Arbeit, welche die Sonne durch ihre Wärmeausstrahlung leistet, gleichwertig der fortdauernden Arbeit von 7000 Pferdekräften für jeden Quadratfuss der Sonnenoberfläche.
 
-Aber woher kommt der Sonne diese Kraft? Sie strahlt inten- 
-siveres Licht aus, als mit irgend welchen irdischen Mitteln zu er- 
-zeugen ist. Sie liefert so viel Wärme, als wenn in jeder Stunde 
-1500 Pfund Kohle auf jedem Quadratfuss ihrer Oberfläche verbrannt 
-würden. Von dieser Wärme, die ihr entströmt, leistet der kleine 
-Bruchtheil, der in unsere Atmosphäre eintritt, eine grosse mecha- 
-nische Arbeit. Dass Wärme im Stande sei, eine solche zu leisten, 
-lehrt uns jede Dampfmaschine. In der Tliat treibt die Sonne hier 
-auf Erden eine Art von Dampfmaschine, deren Leistungen denen 
+Längst hatte sich den Technikern die Erfahrung aufgedrängt, dass man eine Triebkraft nicht aus Nichts erzeugen kann, dass man sie nur aus dem uns dargebotenen, fest begrenzten und nicht willkürlich zu vergrössernden Vorrate der Natur nehmen kann, sei es vom strömenden Wasser oder vom Winde, sei es aus den Steinkohlenlagern oder von Menschen und Tieren, die nicht arbeiten können ohne Lebensmittel zu verbrauchen. Diese Erfahrungen hat die neuere Physik allgemeingültig zu machen gewusst, anwendbar für das grosse Ganze aller Naturprozesse und unabhängig von den besonderen Interessen der Menschen. Sie sind verallgemeinert und zusammengefasst in dem allbeherrschenden Naturgesetze von der Erhaltung der Kraft. Es ist kein Naturprozess und keine Reihenfolge von Naturprozessen aufzufinden, so mannigfache Wechselverhältnisse auch zwischen ihnen stattfinden mögen, durch welchen eine Triebkraft fortdauernd ohne entsprechenden Verbrauch gewonnen werden könnte. Wie das Menschengeschlecht hier auf Erden nur einen begrenzten Vorrat von arbeitsfähigen Triebkräften vorfindet, den es benutzen, aber nicht vermehren kann, so muss es auch im grossen Ganzen der Natur sein. Auch das Weltall hat seinen begrenzten Vorrat an Kraft, der in ihm arbeitet unter immer wechselnden Formen der Erscheinung, unzerstörbar, unvermehrbar, ewig und unveränderlich, wie die Materie. Es ist, als hätte Goethe eine Ahnung davon gehabt, wenn er den Erdgeist als den Vertreter der Naturkraft von sich sagen lässt:
 
-der künstlich construirten Maschinen bei weitem überlegen sind. 
-Die Wassercirculation in der Atmosphäre nämlich schafft, wie schon 
-erwähnt, das aus den warmen tropischen Meeren verdampfende 
-Wasser auf die Höhe der Berge; sie stellt gleichsam eine Wasser- 
-hebungsmaschine grösster Art dar, mit deren Leistungsgrösse keine 
-künstliche Maschine sich auch nur im entferntesten messen kann. 
-Ich habe vorher schon das mechanische Aequivalent der Wärme 
-angegeben. Danach berechnet, ist die Arbeit, welche die Sonne 
-durch ihre Wärmeausstrahlung leistet, gleichwertig der fortdauern- 
-den Arbeit von 7000 Pferdekräften für jeden Quadratfuss der 
-Sonnenoberfläche. 
+In Lebensfluten, im Tatensturm  
+Wall ich auf und ab,  
+Wehe hin und her,  
+Geburt und Grab,  
+Ein ewiges Meer,  
+Ein wechselnd Weben,  
+Ein glühend Leben.  
+So schaff ich am sausenden Webstuhl der Zeit,  
+Und wirke der Gottheit lebendiges Kleid.
 
-Längst hatte sich den Technikern die Erfahrung aufgedrängt, 
-dass man eine Triebkraft nicht aus Nichts erzeugen kann, dass 
-man sie nur aus dem uns dargebotenen, fest begrenzten und nicht 
-willkürlich zu vergrössernden Vorrathe der Natur nehmen kann, 
-sei es vom strömenden Wasser oder vom Winde, sei es aus den 
-Steinkohlenlagern oder von Menschen und Thieren, die nicht 
-arbeiten können ohne Lebensmittel zu verbrauchen. Diese Erfah- 
-rungen hat die neuere Physik allgemeingültig zu machen gewusst, 
-anwendbar für das grosse Ganze aller Naturprocesse und unab- 
-hängig von den besonderen Interessen der Menschen. Sie sind 
-verallgemeinert und zusammengefasst in dem allbeherrschenden 
-Naturgesetze von der Erhaltung der Kraft. Es ist kein Natur- 
-process und keine Reihenfolge von Naturprocessen aufzufinden, so 
-mannigfache Wechselverhältnisse auch zwischen ihnen stattfinden 
-mögen, durch welchen eine Triebkraft fortdauernd ohne entsprechen- 
-den Verbrauch gewonnen werden könnte. Wie das Menschen- 
-geschlecht hier auf Erden nur einen begrenzten Vorrath von 
-arbeitsfähigen Triebkräften vorfindet, den es benutzen, aber nicht 
-vermehren kann, so muss es auch im grossen Ganzen der Natur 
-sein. Auch das Weltall hat seinen begrenzten Vorrath an Kraft, 
-der in ihm arbeitet unter immer wechselnden Formen der Erschei- 
-nung, unzerstörbar, unvermehrbar, ewig und unveränderlich, wie die 
-Materie. Es ist, als hätte Goethe eine Ahnung davon gehabt, 
-wenn er den Erdgeist als den Vertreter der Naturkraft von sich 
-sagen lässt: 
+Wenden wir uns also zurück zu der besonderen Frage, die uns hier beschäftigte, woher hat die Sonne diesen ungeheuren Kraftvorrat, den sie ausströmt?
 
+Auf Erden sind die Verbrennungsprozesse die reichlichste Quelle von Wärme. Kann vielleicht die Sonnenwärme durch einen Verbrennungsprozess entstehen? Diese Frage kann vollständig und sicher mit Nein beantwortet werden; denn wir wissen jetzt, dass die Sonne die uns bekannten irdischen Elemente entält. Wählen wir aus diesen die beiden, welche bei kleinster Masse durch ihre Vereinigung die grösste Menge Wärme erzeugen können, nehmen wir an, dass die Sonne aus Wasserstoff und Sauerstoff bestände, in dem Verhältnisse gemischt, wie diese bei der Verbrennung sich zu Wasser vereinigen. Die Masse der Sonne ist bekannt, die Wärmemenge ebenfalls, welche durch Verbindung bekannter Gewichte von Wasserstoff und Sauerstoff entsteht. Die Rechnung ergiebt, dass unter der gemachten Voraussetzung die durch deren Verbrennung entstehende Wärme hinreichen würde, die Wärmeausstrahlung der Sonne auf 3021 Jahre zu unterhalten. Das ist freilich eine lange Zeit; aber schon die Menschengeschichte lehrt, dass die Sonne viel länger als 3000 Jahre geleuchtet und gewärmt hat, und die Geologie lässt keinen Zweifel darüber, dass diese Frist auf Millionen von Jahren auszudehnen ist.
 
-In Lebensflutlien, im Thatensturm 
-Wall ich auf und ab, 
+Die uns bekannten chemischen Kräfte sind also in so hohem Grade unzureichend, auch bei den günstigsten Annahmen, eine solche Wärmeerzeugung zu erklären, wie sie in der Sonne stattfindet, dass wir diese Hypothese gänzlich fällen lassen müssen.
 
-Wehe, hin und her, 
+Wir müssen nach Kräften von viel mächtigeren Dimensionen suchen; und da finden wir nur noch die kosmischen Anziehungskräfte. Wir haben schon gesehen, dass die beziehlich kleinen Massen der Sternschnuppen und Meteore, wenn ihre kosmischen Geschwindigkeiten durch unsere Atmosphäre gehemmt werden, ganz ausserordentlich grosse Wärmemengen erzeugen können. Die Kraft aber, welche diese grossen Geschwindigkeiten erzeugt hat, ist die Gravitation. Wir kennen diese Kraft schon als eine wirksame Triebkraft an der Oberfläche unseres Planeten, wo sie als irdische Schwere erscheint. Wir wissen, dass ein von der Erde abgehobenes Gewicht unsere Uhren treiben kann, dass ebenso die Schwere des von den Bergen herabkommenden Wassers unsere Mühlen treibt.
 
-Geburt und Grab, 
-
-Ein ewiges Meer, 
-
-Ein wechselnd Weben, 
-
-Ein glühend Leben. 
-
-So schaff ich am sausenden Webstuhl der Zeit, 
-Und wirke der Gottheit lebendiges Kleid. 
-
-
-Wenden wir uns also zurück zu der besonderen Frage, die uns 
-liier beschäftigte, woher hat die Sonne diesen ungeheuren Kraft- 
-vorrath, den sie ausströmt? 
-
-Auf Erden sind die Verbrennungsprocesse die reichlichste Quelle 
-von Wärme. Kann vielleicht die Sonnenwärme durch einen Ver- 
-brennungsprocess entstehen? Diese Frage kann vollständig und 
-sicher mit Nein beantwortet werden; denn wir wissen jetzt, dass 
-die Sonne die uns bekannten irdischen Elemente enthält. Wählen 
-wir aus diesen die beiden, welche bei kleinster Masse durch ihre 
-Vereinigung die grösste Menge Wärme erzeugen können, nehmen 
-wir an, dass die Sonne aus Wasserstoff und Sauerstoff bestände, in 
-dem Verhältnisse gemischt, wie diese bei der Verbrennung sich zu 
-Wasser vereinigen. Die Masse der Sonne ist bekannt, die Wärme- 
-menge ebenfalls, welche durch Verbindung bekannter Gewichte 
-von Wasserstoff und Sauerstoff entsteht. Die Rechnung ergiebt, 
-dass unter der gemachten Voraussetzung die durch deren Ver- 
-brennung entstehende Wärme hinreichen würde, die Wärmeaus- 
-strahlung der Sonne auf 3021 Jahre zu unterhalten. Das ist frei- 
-lich eine lange Zeit; aber schon die Menschengeschichte lehrt, dass 
-die Sonne viel länger als 3000 Jahre geleuchtet und gewärmt 
-hat, und die Geologie lässt keinen Zweifel darüber, dass diese 
-Frist auf Millionen von Jahren auszudehnen ist. 
-
-Die uns bekannten chemischen Kräfte sind also in so hohem 
-Grade unzureichend, auch bei den günstigsten Annahmen, eine 
-solche Wärmeerzeugung zu erklären, wie sie in der Sonne statt- 
-findet, dass wir diese Hypothese gänzlich fällen lassen müssen. 
-
-Wir müssen nach Kräften von viel mächtigeren Dimensionen 
-suchen; und da finden wir nur noch die kosmischen Anziehungs- 
-kräfte. Wir haben schon gesehen, dass die beziehlich kleinen 
-Massen der Sternschnuppen und Meteore, wenn ihre kosmischen 
-Geschwindigkeiten durch unsere Atmosphäre gehemmt werden, 
-ganz ausserordentlich grosse Wärmemengen erzeugen können. Die 
-Kraft aber, welche diese grossen Geschwindigkeiten erzeugt hat, 
-
-
-ist die Gravitation. Wir kennen diese Kraft schon als eine wirk- 
-same Triebkraft an der Oberfläche unseres Planeten, wo sie als 
-irdische Schwere erscheint. Wir wissen, dass ein von der Erde 
-abgehobenes Gewicht unsere Uhren treiben kann, dass ebenso 
-die Schwere des von den Bergen herabkommenden Wassers unsere 
-Mühlen treibt. 
-
-Wenn ein Gewicht von der Höhe herabstürzt und auf den 
-Boden schlägt, so verliert die Masse desselben allerdings die sicht- 
-bare Bewegung, welche sie als Ganzes hatte; aber in Wahrheit ist 
-diese Bewegung nicht verloren, sondern sie geht nur auf die klein- 
-sten elementaren Theilchen der Masse über, und diese unsichtbare 
-Vibration der Molekeln ist Wärmebewegung. Die sichtbare Be- 
-wegung wird beim Stosse in Wärmebewegung verwandelt. 
+Wenn ein Gewicht von der Höhe herabstürzt und auf den Boden schlägt, so verliert die Masse desselben allerdings die sichtbare Bewegung, welche sie als Ganzes hatte; aber in Wahrheit ist diese Bewegung nicht verloren, sondern sie geht nur auf die kleinsten elementaren Teilchen der Masse über, und diese unsichtbare Vibration der Molekeln ist Wärmebewegung. Die sichtbare Bewegung wird beim Stosse in Wärmebewegung verwandelt.
 
 Was in dieser Beziehung für die Schwere gilt, gilt ebenso für 
 die Gravitation. Eine schwere Masse, welcher Art sie auch sein 
@@ -405,8 +168,7 @@ sammenstoss, sei es allmälig durch Reihung beweglicher Theile
 vernichtet wird, so giebt sie entsprechende Mengen von Wärme- 
 bewegung, deren Betrag nach dem vorher angegebenen Aequiva- 
 lentverhältniss zwischen Wärme und mechanischer Arbeit zu be- 
-rechnen ist. 
-
+rechnen ist.
 
 Wir dürfen nun wohl mit grosser Wahrscheinlichkeit anneh- 
 men, dass auf die Sonne sehr viel mehr Meteore fallen, als auf die 
