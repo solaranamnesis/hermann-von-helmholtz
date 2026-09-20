@@ -26,7 +26,7 @@ Sie können sich den Vorgang der Planetenbewegung an einem einfachen mechanische
 
 Bei genau kreisförmiger Bahn um den anziehenden Mittelpunkt wirkt die anziehende Kraft auf Planeten oder Bleikugel natürlich immer in gleicher Stärke. Dann ist es gleichgültig, nach welchem Gesetz die Kraft ab- oder zunehmen würde in anderen Abständen vom Zentrum, in welche der bewegte Körper ja gar nicht kommt. Ist aber der ursprüngliche Stoss nicht von richtiger Stärke gewesen, so werden in beiden Fällen die Bahnen nicht kreisförmig, sondern elliptisch von der Form der in Fig. 1 gezeichneten krummen Linie. Aber diese Ellipsen liegen in beiden Fällen verschieden gegen das anziehende Zentrum. In unserem Modell wird die anziehende Kraft desto stärker, je weiter wir die Bleikugel von ihrer Gleichgewichtslage entfernen. Die Ellipse der Bahn erhält unter diesen Umständen eine solche Lage gegen das anziehende Zentrum, dass dieses in den Mittelpunkt _c_ der Ellipse fällt. Für den Planeten wird im Gegenteil die anziehende Kraft desto schwächer, je weiter er sich von dem anziehenden Körper entfernt, und dies bewirkt, dass eine Ellipse beschrieben wird, deren einer Brennpunkt in das Anziehungszentrum fällt. Die beiden Brennpunkte _a_ und _b_ sind zwei symmetrisch gegen die Enden der Ellipse hin liegende Punkte, die durch die Eigenschaft ausgezeichnet sind, dass die Summe ihrer Abstände _am_ + _bm_ für jeden beliebigen Punkt in der Ellipse die gleiche Grösse hat.
 
-[Fig. 1.]()
+[Fig. 1.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig01.png)
 
 Dass die Planetenbahnen Ellipsen von solcher Art sind, hatte Kepler erkannt, und da, wie das eben angeführte Beispiel zeigt, die Form und Lage der Bahn von dem Gesetze, nach welchem die Grösse der anziehenden Kraft sich ändert, abhängt, so konnte Newton aus der Form der Planetenbahnen das bekannte Gesetz der Gravitationskraft, welche die Planeten zur Sonne zieht, ableiten, wonach diese Kraft bei wachsender Entfernung in dem Maasse abnimmt, wie das Quadrat der Entfernung wächst. Die irdische Schwere musste diesem Gesetze sich einfügen, und Newton hatte die bewundernswerte Entsagung seine folgenschwere Entdeckung erst zu veröffentlichen, nachdem auch hierfür eine direkte Bestätigung gelungen war, als sich nämlich aus den Beobachtungen nachweisen liess, dass die Kraft, welche den Mond gegen die Erde zieht, gerade in demjenigen Verhältniss zur Schwere eines irdischen Körpers steht, wie es das von ihm erkannte Gesetz forderte.
 
@@ -50,15 +50,15 @@ Anders verhält es sich, wenn ein glühendes Gas oder ein glühender Dampf, d. h
 
 In anderer Weise erscheinen die Gasspektra, wenn das Gas vor einem glühenden festen Körper liegt, dessen Temperatur viel höher ist, als die des Gases. Dann sieht der Beobachter das continuirliche Spektrum eines festen Körpers, dieses aber durchschnitten von feinen dunkeln Linien, die gerade an den Orten sichtbar werden, wo das Gas allein, vor dunklem Hintergrunde gesehen, helle Linien zeigen würde. Dass beide Erscheinungsweisen der Gasspektra sich notwendig bedingen, hat Kirchhoff nachgewiesen. Man kann deshalb auch aus solchen dunkeln Linien im Spektrum erkennen, welche Gase sich vor dem glühenden Körper befinden. Von dieser Art ist nun das Spektrum der Sonne und das einer grossen Anzahl von Fixsternen. Die dunkeln Linien des Sonnenspektrums, von Wollaston entdeckt, sind von Fraunhofer zuerst genau untersucht und gemessen und deshalb unter dem Namen Fraunhofer'sche Linien bekannt geworden.
 
-[Fig. 2.]()
+[Fig. 2.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig02.png)
 
 Später sind, und zwar zuerst von Kirchhoff, dann namentlich von Angström viel mächtigere Apparate angewendet worden, um die Zerlegung des Lichtes möglichst weit zu treiben. Fig. 2 stellt den von Steinheil für Kirchhoff konstruirten Apparat mit vier Prismen dar. Am abgewendeten Ende des Fernrohres _A_ befindet sich ein Schirm mit einem feinen Spalt, der die feine Lichtlinie bildet, durch die dargestellte kleine Schraube verengert und erweitert werden kann, und durch den man das zu untersuchende Licht eintreten lässt. Es passirt dann das Fernrohr _A_, nachher die vier Prismen, endlich das Fernrohr _B_, und gelangt so zum Auge des Beobachters. In Fig. 7, 8, 9 sind kleine Stücke von Kirchhoffs Zeichnung des Sonnenspektrums nachgebildet, aus dem Grün, Gelb und Goldgelb, an denen unten durch die chemischen Zeichen Fe (Eisen), Ca (Metall des Kalks), Na (Metall des Natrons), Pb (Blei) und die zugesetzten Linien angezeigt ist, an welchen Stellen die glühenden Dämpfe dieser Metalle, sei es in den Flammen, sei es im elektrischen Funken, helle Linien zeigen. Die darüber gesetzten Scalenteile lassen erkennen, wie weit diese Bruchstücke der über das ganze Sonnenspektrum ausgedehnten Kirchhoff'schen Zeichnung auseinander liegen. Schon hier bemerkt man überwiegend viele Eisenlinien. Im ganzen Spektrum fand Kirchhoff nicht weniger als 450.
 
-[Fig. 3.]()
+[Fig. 3.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig03.png)
 
-[Fig. 4.]()
+[Fig. 4.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig04.png)
 
-[Fig. 5.]()
+[Fig. 5.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig05.png)
 
 Daraus folgt, dass die Atmosphäre der Sonne reichliche Dämpfe von Eisen enthält, was unter anderem einen Schluss auf die über alle Maassen hohe Temperatur ziehen lässt, welche dort herrschen muss. Ausserdem verrät sich in gleicher Weise, wie unsere Figuren 3, 4, 5 Eisen, Calcium, Natrium anzeigen, auch die Anwesenheit des Wasserstoffs, des Zinks, des Kupfers, der Metalle aus der Magnesia, der Tonerde, der Baryterde und anderer irdischer Elemente. Dagegen fehlen Blei (s. Fig. 5. Pb.), Gold, Silber, Quecksilber, Zinn, Spiessglanz, Arsen und andere.
 
@@ -74,11 +74,11 @@ Andererseits findet man in der Regel auch einzelne dunklere Stellen, die sogenan
 
 *) Bis zu 15000 geogr. Meilen nach Herrn H. C. Vogels Beobachtungen in Bothkamp. Die spektroskopische Verschiebung der Linien zeigte Geschwindigkeiten bis zu 4 oder 5 Meilen in der Sekunde, nach Lockyer sogar bis zu 8 und 9 Meilen.
 
-[Fig. 6.]()
+[Fig. 6.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig06.png)
 
 Gerade an dem Rande dieser Flecke findet man die spektroskopischen Zeichen heftigster Bewegung und in ihrer Nähe oft grosse Protuberanzen; verhältnissmässig oft zeigen sie wirbelnde Bewegung und eine auf eine solche hindeutende Zeichnung. Man kann sie für Stellen halten, wo die kühler gewordenen Gase aus den äusseren Schichten der Sonnenatmosphäre herabsinken und vielleicht auch lokale oberflächliche Abkühlungen der Sonnenmasse selbst hervorbringen. Zur Erklärung dieser Erscheinungen muss man bedenken, dass die von dem heissen Sonnenkörper neu aufsteigenden Gase mit Dämpfen schwer flüchtiger Metalle überladen sind, beim Aufsteigen selbst aber sich ausdehnen und teils durch die Dehnung, teils durch die Strahlung gegen den Weltraum gekühlt werden müssen. Dabei werden sie ihre schwerflüchtigeren Bestandteile als Nebel oder Wolken ausscheiden. Diese Kühlung muss natürlich immer nur als eine verhältnissmässige aufgefasst werden; ihre Temperatur bleibt wahrscheinlich immer noch höher als alle irdisch erreichbaren Temperaturen. Wenn nun die obersten von schwereren Dämpfen befreiten und am meisten gekühlten Schichten niedersinken, werden sie nebelfrei bis zum Sonnenkörper bleiben können. Als Vertiefungen erscheinen sie, weil rings umher die bis zu 100 Meilen hohen Schichten glühenden Nebels liegen.
 
-[Fig. 7.]()
+[Fig. 7.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig07.png)
 
 Heftige Bewegungen in der Sonnenatmosphäre können nicht fehlen, weil dieselbe von aussen gekühlt wrird, und die kühlsten und deshalb verhältnissmässig dichtesten und schwersten Teile derselben über den heisseren und leichteren zu liegen kommen. Aus dem gleichen Grunde haben wir ja fortdauernde und zum Teil plötzliche und gewaltsame Bewegungen auch in der Erdatmosphäre, weil auch diese von dem sonnigen Boden her erwärmt, von oben gekühlt wird. Nur sind bei der viel colossaleren Grösse und Temperatur der Sonne auch ihre meteorologischen Prozesse viel grösser und gewaltsamer.
 
@@ -176,25 +176,25 @@ Dagegen fällt bei den grossen Massen des Jupiter, des Saturn, des Uranus, des N
 
 *) Herr Zoellner schliesst aus photometrischen Messungen, die aber wohl noch der Bestätigung bedürfen, dass der Jupiter noch jetzt eigenes Glühlicht habe.
 
-[Fig. 8.]()
+[Fig. 8.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig08.png)
 
 Sie sehen, wie verschiedene Wege uns immer auf denselben Anfangszustand zurückgeführt haben. Die Kant-Laplace'sche Hypothese erweist sich als einer der glücklichen Griffe in der Wissenschaft, die uns anfangs durch ihre Kühnheit erstaunen machen, sich dann nach allen Seiten hin mit anderen Entdeckungen in Wechselbeziehungen setzen und in ihren Folgerungen bestätigen, bis sie uns vertraut werden. Dazu hat in diesem Falle nun noch ein anderer Umstand beigetragen, nämlich die Wahrnehmung, dass diese Umbildungsprozesse, welche die besprochene Theorie voraussetzt, auch jetzt immer noch, wenn auch in verringertem Maassstabe, vor sich gehen, wie alle Stadien jener Umbildung auch jetzt noch existiren.
 
-[Fig. 9.]()
+[Fig. 9.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig09.png)
 
 Denn, wie wir anfangs gesehen haben, wachsen auch jetzt noch die schon gebildeten grossen Körper durch Anziehung der im Weltraum zerstreuten meteorischen Massen unter Feuererscheinung. Auch jetzt noch werden die kleineren Körper langsam durch den Widerstand im Weltraum der Sonne zugetrieben. Auch jetzt noch finden wir am Fixsternhimmel nach J. Herschels neuestem Kataloge über 5000 Nebelflecke, von denen die hinreichend lichtstarken meistens ein Farbenspektrum von feinen hellen Linien geben, wie sie in den Spektren der glühenden Gase erscheinen. Die Nebelflecke sind teils rundliche Gebilde, sogenannte planetarische Nebel (Fig. 8.), teils von ganz unregelmässiger Form, wie der in Fig. 9. dargestellte grosse Nebel aus dem Orion; zum Teil sind sie ringförmig, wie in Fig. 10. aus den Jagdhunden. Sie sind meist nur schwach, aber mit ihrer ganzen Fläche leuchtend, während die Fixsterne immer nur als leuchtende Punkte erscheinen.
 
-[Fig. 10.]() 
+[Fig. 10.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig10.png) 
 
-[Fig. 11.]()
+[Fig. 11.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig11.png)
 
-[Fig. 12.]()
+[Fig. 12.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig12.png)
 
 In vielen Nebeln unterscheidet man kleine Sterne, wie in Fig. 11 und Fig. 12 (a. v. S.) aus dem Schützen und Fuhrmann. Man unterschied immer mehr Sterne in ihnen, je bessere Teleskope man zu ihrer Analyse anwandte. So konnte vor der Erfindung der Spektralanalyse W. Herschels frühere Ansicht als die wahrscheinlichste angesehen werden, dass, was wir als Nebel sähen, nur Haufen sehr feiner Sterne, andere Milchstrassensysteme seien. Die Spektralanalyse hat nun aber auch an vielen Nebelflecken, welche Sterne enthalten, ein Gasspektrum gezeigt, während wirkliche Sternhaufen das continuirliche Spektrum glühender fester Körper zeigen. Der Regel nach hat das der Nebelflecke drei deutlich erkennbare Linien, deren eine im Blau dem Wasserstoff angehört, eine zweite im Blaugrün dem Stickstoff,* die dritte zwischen beiden unbekannten Ursprunges ist. Fig. 13 zeigt ein solches Spektrum eines kleinen aber hellen Nebels im Drachen. Spuren von anderen hellen Linien zeigen sich daneben, zuweilen auch wie in Fig. 13 Spuren eines continuirlichen Spektrum, welche aber alle zu lichtschwach sind, um genaue Untersuchung zuzulassen. Zu bemerken ist hierbei, dass das Licht sehr lichtschwacher Objekte, welche ein kontinuirliches Spektrum geben, durch das Spektroskop über eine grosse Fläche ausgebreitet, und deshalb äusserst geschwächt oder selbst ausgelöscht wird, während das unzerlegbare Licht heller Gaslinien beisammen bleibt, und deshalb noch gesehen werden kann. Jedenfalls zeigt die Zerlegung des Lichtes der Nebelflecke an, dass der bei weitem grösste Teil ihrer leuchtenden Fläche glühenden Gasen angehört, unter denen Wasserstoffgas einen hervorragenden Bestandteil ausmacht. Bei den planetarischen, kugelförmigen oder scheibenförmigen könnte man glauben, dass die Gasmasse einen Zustand von Gleichgewicht erreicht hat; aber die meisten anderen Nebelflecke zeigen höchst unregelmässige Formen, welche in keiner Weise einem solchen Gleichgewichtszustande entsprechen. Da sie dessen ungeachtet ihre Gestalt nicht oder wenigstens nur in unmerklicher Weise verändert haben, seit man sie kennt und beobachtet, so müssen sie entweder sehr wenig Masse haben, oder kolossal gross und entfernt sein. Die erstere Alternative erscheint nicht sehr wahrscheinlich, weil kleine Massen auch ihre Wärme sehr bald ausgeben würden, und es bleibt also nur die zweite Annahme stehen, dass sie ungeheure Dimensionen und Entfernungen haben. Denselben Schluss hatte übrigens schon W. Herschel unter der Voraussetzung, dass die Nebelflecken Sternhaufen seien, gezogen.
 
 *) Oder vielleicht auch dem Sauerstoff? Die Linie kommt im Spektrum der atmosphärischen Luft vor, und fehlte bei H. C. Vogels Beobachtungen im Spektrum des reinen Sauerstoffs.
 
-[Fig. 13.]()
+[Fig. 13.](https://cdn.solaranamnesis.com/Helmholtz/planetsystemformation/Fig13.png)
 
 An diejenigen Nebelflecke, welche ausser den Gaslinien auch noch das kontinuirliche Spektrum glühender dichterer Körper zeigen, schliessen sich teils unaufgelöste, teils in Sternhaufen auflösbare Flecke an, welche nur noch das Licht der letzteren Art zeigen.
 
